@@ -331,6 +331,18 @@ def _css() -> None:
             background: #0A0E14 !important;
             border-color: #625133 !important;
             border-radius: 0 !important;
+            /* Match the top search box's height. .searchbox is .5rem/.75rem padding + a
+               .9rem line + 1px border; Streamlit's default chat input renders shorter, so
+               pin the same box height here and centre the textarea in it. Tune --chatinputh
+               if the two boxes drift. */
+            min-height: var(--chatinputh, 2.75rem) !important;
+            display: flex !important;
+            align-items: center !important;
+          }
+          /* Drop Streamlit's own textarea min-height so the box height above (not the
+             textarea's default) sets the size, and the single line centres. */
+          [data-testid="stChatInput"] textarea {
+            min-height: 0 !important;
           }
           /* Focus affordance: pinning the border above killed the default gold flip, so
              focus had no signal. Add a gold accent ring + faint bloom on :focus-within --
@@ -672,6 +684,19 @@ def _css() -> None:
             .st-key-chatlog [data-testid="stChatMessage"] { align-items: flex-start; }
             .st-key-chatlog [data-testid="stChatMessage"] > img {
               position: sticky; top: .5rem; z-index: 3;
+              /* Drop the avatar by the first line's line-height leading so its top lines up
+                 with the text's cap height, not the (higher) empty top of the line box. */
+              margin-top: .45rem;
+            }
+            /* The real gap: a Markdown heading (the coach's answers open on an H1) carries
+               Streamlit's default 1.5rem (spacing.xl) top padding, so the text started far
+               below the top-aligned avatar. Zero the top spacing on the FIRST block of any
+               chat message so the first line begins at the row top, level with the avatar;
+               spacing between later blocks is untouched. */
+            .st-key-chatlog [data-testid="stChatMessage"]
+              [data-testid="stMarkdownContainer"] > :first-child {
+              margin-top: 0 !important;
+              padding-top: 0 !important;
             }
           }
         </style>

@@ -23,6 +23,11 @@ COPY data/snapshot ./data/snapshot
 COPY data/benchmark ./data/benchmark
 RUN pip install --no-cache-dir --no-deps -e .
 
+# The dark League theme (primaryColor gold, dark ground). Streamlit reads config from
+# ./.streamlit relative to the CMD's workdir, so it must be in the image -- without it
+# the app falls back to Streamlit's default theme (red primaryColor).
+COPY .streamlit ./.streamlit
+
 EXPOSE 8501
 
 # The vector + keyword indexes are built in-memory from the committed corpus at startup
