@@ -1,0 +1,1660 @@
+[
+  {
+    "source_id": "mobalytics-everything-you-need-to-know-about-roaming-in-lol",
+    "drafts": [
+      {
+        "tip": "Weigh champion pick before committing to a roaming gameplan — some champions (e.g. Alistar) roam far more effectively than others (e.g. Janna).",
+        "rationale": "A champion's kit determines whether a roam is likely to succeed, so roam frequency should scale with the champion you're playing.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "Every champion and role can roam, but some will find more success than others. For example, Janna will find it hard to roam; whereas Alistar would thrive."
+      },
+      {
+        "tip": "Do most of your roaming in the early-to-mid game, especially during laning phase.",
+        "rationale": "Enemies are more likely to be isolated or in smaller numbers during laning phase, making kills or objectives easier to secure.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Roaming is usually done during the early to mid stages of the game, especially during the laning phase. This is because the likelihood of gaining a kill or achieving your goal is far more probable since enemies will be more likely to be in isolation or fewer numbers."
+      },
+      {
+        "tip": "Treat roaming as a necessity rather than an optional play, given how much tower plating has extended the laning phase.",
+        "rationale": "A longer laning phase means more time and more opportunity windows for roams to pay off before towers fall on their own.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Because of this extension to the early game, roaming is now a necessity rather than something you might do."
+      },
+      {
+        "tip": "Roam to a lane if an ally there is struggling and falling behind in levels, experience, or gold.",
+        "rationale": "Forcing the enemy to recall or killing them can pull a struggling ally back into the game before the gap becomes unrecoverable.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "This is why it is important that you look to roam if any ally is struggling and falling behind in levels, experience or gold."
+      },
+      {
+        "tip": "Roam to punish enemies who have built up a large bounty.",
+        "rationale": "A large shutdown bounty converts a single kill into an outsized gold swing for your team.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "You may want to roam during this time as you’ll be able to gain the shut down from the enemy."
+      },
+      {
+        "tip": "After a successful roam kill, pressure the enemy's tower and gold plates while the lane is open.",
+        "rationale": "Taking plates or a tower off the back of a roam opens up the map and makes future roams easier.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "After successfully roaming to a lane, you may be able to apply pressure to the enemy’s tower and their gold plates."
+      },
+      {
+        "tip": "If a lane keeps overextending for farm after your first gank, keep roaming back to punish it repeatedly.",
+        "rationale": "Repeated roams to a lane that must overextend for CS can snowball into several kills instead of just one.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "You may also be able to continuously gank a lane and put the enemy behind if they have to overextend for farm."
+      },
+      {
+        "tip": "Only roam when you have a clear intention and stand to gain something from it.",
+        "rationale": "Roaming without a purpose wastes time you could have spent farming or defending your own lane.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "When roaming to another lane, always keep your intentions in mind and make sure to only roam if you can get something out of it."
+      },
+      {
+        "tip": "Don't chase an arbitrary roam-count goal — roam as often as good opportunities present themselves instead.",
+        "rationale": "Following a fixed timer or number ignores whether the actual game state makes a roam worthwhile.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Instead, you should aim to roam as often as you can if you have the opportunity to do so."
+      },
+      {
+        "tip": "Roam directly from base rather than from your lane when you can.",
+        "rationale": "Leaving lane is visible to the enemy and lets them call it out and back off; roaming from base hides your whereabouts.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Roaming from your base can bring a surprise element to roaming. As the enemy will not see you leave your lane, they may not expect you to be there."
+      },
+      {
+        "tip": "Prefer roaming from base when possible, since it lets you switch directions and return to lane if the roam isn't panning out en route.",
+        "rationale": "Committing from your own lane forecloses that flexibility once you're already gone.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Roaming from base will allow you to switch directions and return to your lane if things do not seem to be working out en route."
+      },
+      {
+        "tip": "When roaming from base, keep an eye on your own lane and be ready to return immediately if the enemy arrives there before you and starts pushing.",
+        "rationale": "An unattended lane can be pushed into your tower while you're committed to a roam elsewhere.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If the enemy gets to lane before you, they may start pushing the wave which means you’ll need to return as soon as you can."
+      },
+      {
+        "tip": "If you notice the enemy moving toward a particular lane, rotate there to counter-gank their attempt.",
+        "rationale": "Meeting the enemy's gank with your own numbers advantage turns their play into a losing one.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you notice that the enemy is looking to move towards one lane in particular, you can try and counter their gank."
+      },
+      {
+        "tip": "If you spot the enemy jungler moving through the river toward a gank, head to that lane to counter-gank them as well.",
+        "rationale": "Arriving alongside your laner flips a planned enemy gank into a losing fight for them.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Alternatively, if you notice that the enemy Jungler is moving through the river in order to gank, you could head towards the lane as well to counter gank them."
+      },
+      {
+        "tip": "As Support, roam when your ADC can hold their own in lane for a while, such as on Ezreal or Draven.",
+        "rationale": "A self-sufficient ADC lets you apply pressure elsewhere without risking their lane state.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": "Ezreal",
+        "excerpt": "If your ADC is somebody who can play independently for a brief period of time, roaming when they’re in lane alone is a good way of applying pressure."
+      },
+      {
+        "tip": "Avoid roaming as Support if your ADC is behind or has no way to escape.",
+        "rationale": "Leaving a vulnerable ADC alone in lane risks losing them for a roam that may not even pay off.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If your ADC is behind or has no possibility to escape, roaming while they’re in lane can be difficult."
+      },
+      {
+        "tip": "While roaming as Support, keep checking on your lane and how your ADC is faring — return as soon as they start to struggle.",
+        "rationale": "Their safety takes priority over completing a roam that's no longer safe to finish.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "While gone, keep an eye on your lane and how your ADC is fairing up. If they seem to be struggling, return as soon as you can."
+      },
+      {
+        "tip": "If your ADC can't be left alone safely, wait until they've backed before roaming.",
+        "rationale": "Once your ADC is out of lane they can't be put at risk by your absence, making it the safest roam window.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If your ADC is somebody of the insecure type and is unable to farm while you’re gone, your best bet is to roam when they’ve backed."
+      },
+      {
+        "tip": "As Support, only roam when your ADC can't be put behind by your absence.",
+        "rationale": "Your ADC's safety and resource gain should never be the cost of your roam.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "One of the biggest things to remember when roaming is that your ADC should not be put behind by your roam, so roaming when they can’t be put behind is key."
+      },
+      {
+        "tip": "Once your ADC is out of lane, move quickly to roam, get the play, and head back to base before they return.",
+        "rationale": "Speed maximizes the value you extract from the safe window your ADC's absence creates.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Once they’re no longer in lane, you need to start moving as quickly as you can so you’re able to roam > gank > and head back to base."
+      },
+      {
+        "tip": "Set up a roam by backing before your ADC does, giving yourself breathing room to roam and return in time.",
+        "rationale": "Backing early buys you extra free time compared to waiting for your ADC's own recall.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "It can allow you to set up a roam by backing before your ADC does. This will give you some breathing room to roam and return to lane."
+      },
+      {
+        "tip": "Prioritize roaming when your ultimate is up, especially on champions whose ults struggle to secure solo kills but shine on ganks.",
+        "rationale": "Some kits convert far better into kills with a second body present than they do in a 1v1 lane exchange.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "This is why I recommend that you should look to roam if you have your ultimate up."
+      },
+      {
+        "tip": "Twisted Fate's ultimate is nearly worthless unless he's actively roaming with it, so prioritize roaming whenever it's up.",
+        "rationale": "His ult's value comes almost entirely from map-wide gank potential rather than anything it does in his own lane.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": "Twisted Fate",
+        "excerpt": "Twisted Fate’s ultimate, for example, is practically useless unless he is roaming."
+      },
+      {
+        "tip": "As Twisted Fate, keep an eye on the map for low-health enemies so you can use your roaming ultimate opportunistically nearby.",
+        "rationale": "Watching health bars across the map lets you convert his global ult into a kill the moment an opening appears.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": "Twisted Fate",
+        "excerpt": "Always keep an eye on the map to check what health players are sitting at. If somebody is low enough, try to use your ultimate nearby."
+      },
+      {
+        "tip": "Gank for an ally who's stuck in lane under pressure but has a strong crowd-control ultimate up.",
+        "rationale": "Their CC ultimate has excellent follow-up potential that a gank lets them finally use.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "As his Ult is considered crowd control, and as he has great follow up potential in general, ganking him when he has his ultimate up is a no brainer."
+      },
+      {
+        "tip": "Prioritize ganking immobile allies with game-changing ultimates, such as Sion, Malphite, Nautilus, Ornn, or Rumble.",
+        "rationale": "These champions can't roam to use their ultimates themselves, so a gank is often the only way they cash in their kit's power.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Champions who fit these criteria are Sion , Malphite , Nautilus , Ornn or Rumble who all have good game changing ultimates, but sometimes are unable to do anything with them because they are immobile or unable to roam."
+      },
+      {
+        "tip": "After killing your enemy laner (or they've recalled), take the opportunity to roam while your lane is safe.",
+        "rationale": "With the enemy off the map, there's no pressure on your own lane, which is a favorable condition for roaming.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If the enemy laner has died – or for one reason or another(like recalling) is not in lane anymore, you should try to roam and do something while they’re not there."
+      },
+      {
+        "tip": "If you need to back after a play, recall rather than trying to squeeze in a roam first.",
+        "rationale": "Skipping your own item and level spike to chase a roam can cost more than the roam gains.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "It is important to remember, however, if you need to back, you should recall and not roam."
+      },
+      {
+        "tip": "Time your return to lane to coincide with the enemy's respawn so you don't miss out on farm, XP, or lane pressure.",
+        "rationale": "Coming back too late gives the enemy free CS and tempo in your absence.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Also, keep an eye on your own lane and get back there at the same time as the enemy so you do not miss out on farm, XP or lane pressure."
+      },
+      {
+        "tip": "Roam to punish enemies who are missing a defensive Summoner Spell, and track spell usage across lanes to know when.",
+        "rationale": "A defenseless enemy laner can't escape or peel, turning a normal gank into a near-guaranteed kill.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If an enemy champion has no defense capability because they have used one of their Summoner Spells in a previous exchange, you can abuse the fact that they’re defenseless and pick up some free kills."
+      },
+      {
+        "tip": "Visit a lane frequently once you know its enemy laner has no Flash.",
+        "rationale": "Without Flash their movement becomes predictable, letting you punish it repeatedly.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "I recommend visiting an ally frequently if their enemy laner has no Flash. Because their movement in lane can be relatively scripted, you should abuse the fact that they’re defenseless"
+      },
+      {
+        "tip": "Ganking Annie when her Flash is down is likely to net a nearly free kill.",
+        "rationale": "Annie is rather immobile, so removing her one escape tool makes her extremely vulnerable to a gank.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": "Annie",
+        "excerpt": "For example, as Annie is rather immobile, ganking her when her Flash is down is likely to result in basically free kills."
+      },
+      {
+        "tip": "Expect lower roam success against an enemy who still has Flash up, since they can escape or dodge your crowd control.",
+        "rationale": "A ready Flash is a get-out-of-jail-free card that neutralizes most gank attempts.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "When an enemy has their Flash, a reward through roaming can sometimes be difficult because they may be able to escape or dodge your crowd control."
+      },
+      {
+        "tip": "Follow the enemy roamer when they leave their lane rather than letting them create a numbers advantage elsewhere unopposed.",
+        "rationale": "Matching their roam prevents them from turning their target lane into a favorable 2v1 or 3v2.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "This is why it is crucial that you try and follow the enemy laner if they’re roaming."
+      },
+      {
+        "tip": "If you're strong in 1v1s, like on Zed or Akali, directly follow the enemy roamer rather than taking a longer defensive route.",
+        "rationale": "A confident duelist can afford to chase directly since they're favored if the fight comes down to a 1v1.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "In some cases, you will be able to directly follow the enemy if you’re good in a 1v1 setting. Champions such as Zed or Akali are really good in this situation."
+      },
+      {
+        "tip": "If you're behind or weak in 1v1s, take a defensive alternate route rather than directly following the enemy roamer.",
+        "rationale": "A defensive path keeps you safe from ambush-prone assassins who wait for pursuers to walk past them.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "However, if you’re behind or not very good in a 1v1 environment, you will have to take an alternative route to get to another lane."
+      },
+      {
+        "tip": "Be wary of bait roams — don't rush to push the wave or chase the enemy the instant they seem to be leaving.",
+        "rationale": "A few seconds late is a far better outcome than walking straight into a trap.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Many champions like to bait roams. So, keep this in mind and do not push the wave straight away or directly follow the enemy as you may be falling into a trap."
+      },
+      {
+        "tip": "If you can't follow the enemy's roam, push your own wave to threaten their tower and force them back to defend.",
+        "rationale": "Applying pressure to their tower gives them a reason to abandon the roam and return.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you cannot follow the enemy, push the wave and draw them back to your lane by applying pressure to the tower."
+      },
+      {
+        "tip": "Join your jungler on their gank whenever you can rather than staying in lane.",
+        "rationale": "Turning a 2v1 into a 3v1 or 4v2 puts the odds heavily in your favor.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Making any exchange 3v1 or 4v2 puts the odds highly in your favor."
+      },
+      {
+        "tip": "As a Support with weak solo roaming potential, like Janna, pair up with your jungler to roam effectively together.",
+        "rationale": "Going with a jungler compensates for a kit that struggles to force plays on its own.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": "Janna",
+        "excerpt": "When you’re playing as a Support that lacks roaming potential, going with your Jungler increases your stature and roaming capability."
+      },
+      {
+        "tip": "Prioritize minimizing collateral damage while roaming rather than expecting a perfect outcome.",
+        "rationale": "A few missed minions are a small price compared to a gold lead or a tower.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "As no game is perfect, you should prioritize minimizing the collateral damage when you’re gone. For example, a few minions missed is nothing compared to a gold lead and a possible tower."
+      },
+      {
+        "tip": "Recognize that champions without hard CC or high damage, like Janna, Soraka, Lulu, or Nasus, struggle to force successful roams.",
+        "rationale": "Roams succeed on the back of crowd control or damage; without either, the enemy can usually just walk away.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Champions that are great at roaming are ones that have either high amounts of damage or crowd control."
+      },
+      {
+        "tip": "Champions like Alistar, Lissandra, Thresh, Pyke, and Twisted Fate are especially strong roamers thanks to kits built around it.",
+        "rationale": "Their kits are specifically designed to enable ganks, so roaming plays directly to their strengths.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Alistar , Lissandra , Thresh , Pyke and Twisted Fate are all fantastic at roaming because their kit supplements it."
+      },
+      {
+        "tip": "If you're not playing a champion designed to roam, don't over-invest in roaming at the expense of your own scaling.",
+        "rationale": "Forcing roams on a champion whose kit doesn't support it hurts your own development for limited payoff.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "As a side note, if you aren’t roaming with a champion designed to do so, you ARE hurting yourself."
+      },
+      {
+        "tip": "Weigh that Twisted Fate's ultimate loses relative value in late-game 5v5 teamfights compared to a scaling mid laner like Orianna.",
+        "rationale": "A roam-focused ultimate matters less once the game shifts to coordinated teamfights around objectives like Baron.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": "Twisted Fate",
+        "excerpt": "For example, once late game arrives, TF’s ultimate is much less useful in a 5v5 teamfight at Baron in comparison to another Mid laner, such as Orianna."
+      },
+      {
+        "tip": "Check the state of your target lane before committing to leave your own lane.",
+        "rationale": "Roaming without checking risks wasting time on a lane that isn't actually gankable.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Checking out how your other lanes are doing is a must before you set up and leave your own lane."
+      },
+      {
+        "tip": "Don't roam to a lane whose wave is pushed into the enemy tower unless you're able to dive.",
+        "rationale": "The enemy is already safe under their tower, so there's no play to make without a dive.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If a lane is pushing for example, unless you can dive the enemy, there is no point going to gank them because you will not be able to do anything as the enemy is already under their tower."
+      },
+      {
+        "tip": "Check both your ally's and the enemy's health before committing to a gank — if either is very low, it may not be worth the trip.",
+        "rationale": "A low-health player on either side is likely to just back off rather than fight, wasting the roam.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Another thing to look out for is the health of your ally and the enemy. If either one of them is rather low, it may be non-beneficial to gank or roam because either one of them will have to back off."
+      },
+      {
+        "tip": "A wave pushed into the enemy tower will eventually bounce back toward the middle of the lane — that reset moment is a good ganking opportunity.",
+        "rationale": "The bounce briefly puts the wave in a neutral position where a gank is more likely to land.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If the wave is being pushed into the enemy’s tower, it will bounce or reset eventually. This can leave it in the middle of the lane which can give you a good chance at ganking."
+      },
+      {
+        "tip": "Avoid roaming to gank a lane where the enemy is freezing on their side, unless you can dive or your ally can push the wave to bounce it.",
+        "rationale": "A frozen wave on the enemy's side gives you no safe approach angle for a gank.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Generally, avoid roaming if the enemy if freezing on their side of the lane. Unless you can dive or your ally can push and make it bounce."
+      },
+      {
+        "tip": "It's a good time to roam to a lane where the wave is pushed into your ally's tower or your ally is freezing.",
+        "rationale": "Either state gives you a safe angle to approach and set up the gank.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If the wave is being pushed into your ally’s tower, or they are freezing, it can be a good time to roam."
+      },
+      {
+        "tip": "If the wave you're roaming toward is stacking up, ask your ally to trim it down before you arrive.",
+        "rationale": "A stacked wave keeps your ally tied down last-hitting instead of being free to help you fight.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "However, if the wave is stacking, they will be unable to help you once you go in, so ask them to trim it down prior to your arrival."
+      },
+      {
+        "tip": "Before roaming to gank, check that your ally has their ultimate up and enough health to follow up once you engage.",
+        "rationale": "Their follow-up damage and CC materially raise your odds of actually securing the kill.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "While not necessary, if your ally has their ultimate up, it would be easier for your team to secure the kill."
+      },
+      {
+        "tip": "Avoid ganking for a low-mana ally unless you can supply the damage yourself, such as on Morgana or Pyke.",
+        "rationale": "Without mana they may be unable to follow up with abilities, making the gank a wasted trip unless you can carry it.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If your ally doesn’t have much mana, they may be unable to follow up with damage through their auto attacks. This would be a wasteful time to gank unless you have enough damage, like Morgana or Pyke ."
+      },
+      {
+        "tip": "As Support, confirm your ADC can farm, stay alive, and avoid being denied before you commit to a roam.",
+        "rationale": "The ADC's safety is the Support's main priority, and roaming shouldn't come at the cost of it.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "The Supports main priority should be the ADC’s life and they should still be able to: farm, stay alive and not get denied."
+      },
+      {
+        "tip": "Ezreal is a good candidate to leave alone while roaming, since his Q and E let him farm safely for a short period.",
+        "rationale": "His kit gives him poke and escape that most ADCs lack, letting him hold his own without Support presence.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": "Ezreal",
+        "excerpt": "Ezreal, for example, is a great laner that can safely play alone for a small period of time thanks to his Q and his E."
+      },
+      {
+        "tip": "Avoid roaming as Support if your ADC is immobile and squishy, like Kog'Maw.",
+        "rationale": "An ADC with no escape and low durability can't be safely left alone in lane.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": "Kog'Maw",
+        "excerpt": "However, if your ADC is somebody like a Kog’Maw who is rather immobile and squishy- you should not roam."
+      },
+      {
+        "tip": "For defenseless, no-escape ADCs like Kog'Maw, Jhin, or Twitch, don't roam while they're still in lane — wait until they're guaranteed safe, or roam from base instead.",
+        "rationale": "These ADCs have no way to disengage if caught, so leaving them in lane while you're gone is high-risk.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If your ADC is somebody who cannot be left alone because they’re either defenseless or have no escape ability like Kog , Jhin , Twitch then you should not roam when they’re in lane."
+      },
+      {
+        "tip": "Push your wave before leaving lane rather than abandoning it outright.",
+        "rationale": "An uncontested wave lets the enemy push straight into your tower and start dealing damage while you're gone.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you were to just drop everything and leave lane, the enemy would be able to push the wave almost instantly into your tower and start dealing damage to it."
+      },
+      {
+        "tip": "Push the wave into the enemy tower before roaming to create a buffer that works in your favor.",
+        "rationale": "The enemy has to spend time clearing that wave, which delays any attempt to punish your empty lane.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "This is why you need to make sure that you push the wave before leaving. Directly pushing it will cause a buffer effect that works in your favor."
+      },
+      {
+        "tip": "Pushing a larger wave into the enemy tower before roaming buys you more time away, since it takes longer to clear without much AOE damage.",
+        "rationale": "A bigger wave is a bigger time cost for the enemy to clean up before they can punish your empty lane.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If the wave that you’ve pushed into the enemies tower is rather large, it will give you more time to roam and it will take the enemy longer to clear it if they do not have much damage or AOE abilities."
+      },
+      {
+        "tip": "Communicate your roaming intentions to your team before leaving lane or base.",
+        "rationale": "Your teammates can only prepare for and capitalize on your roam if they know it's coming.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Before leaving your lane or moving from base, make sure that you communicate with your team and tell them your intentions."
+      },
+      {
+        "tip": "Spam the 'on my way' ping repeatedly while roaming so your ally doesn't miss it.",
+        "rationale": "A single ping is easy to miss mid-fight, so repeating it ensures your ally actually notices.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Typically, you would use the “on my way” ping and use it repetitively while you’re on your way. I recommend that you borderline spam it to ensure that your allies take notice."
+      },
+      {
+        "tip": "Use directional 'on my way' pings to lay out your specific route, not just your destination.",
+        "rationale": "Telling your ally which path you're taking lets them time their own play around your exact arrival.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "You can also use the “OMW” ping to lay out a determined route for yourself."
+      },
+      {
+        "tip": "Take the most efficient route when roaming rather than a suboptimal one.",
+        "rationale": "A slower path can make you arrive too late to help or secure the kill.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Something that is heavily overlooked when roaming is the route that you take. If you take a suboptimal route, you may find that you get to the designated lane at a later time which may ruin your chances of helping your team or securing a kill."
+      },
+      {
+        "tip": "Review your replays to evaluate whether your roam pathing and timing were optimal.",
+        "rationale": "Deliberate review is how roaming judgment and route efficiency actually improve over time.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "Be sure to watch your replays (which you should already be doing), to see if your pathing was optimal and how your timing could have been improved."
+      },
+      {
+        "tip": "As Support, roam from bot lane to mid through the river when possible.",
+        "rationale": "It runs directly to mid and is usually the most time-efficient route with a high chance of success.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "In a lot of cases, this will be the route you’ll take as it is the most time efficient with a high chance of success."
+      },
+      {
+        "tip": "Take the defensive route through your own jungle instead of the river when you lack vision control.",
+        "rationale": "Without vision, the river route exposes you to being caught by an unseen enemy.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "In most cases, especially if you don’t have a ton of vision control, you’ll only want to take a defensive route if you want to be safe."
+      },
+      {
+        "tip": "When matching an enemy Support's roam, take a defensive route rather than following them directly.",
+        "rationale": "Following directly lets them simply turn around and collapse on you.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "For example, if you’re following the enemy Support and trying to match their roam, you would want to take a defensive route rather than follow them directly as they can just turn around and collapse on you."
+      },
+      {
+        "tip": "Take the jungle route instead of the river if the river is warded or the Scuttle Crab is already gone.",
+        "rationale": "Both conditions mean the river offers no informational or objective advantage anymore.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "There are also some other reasons why you may want to take this route such as if you know that the Scuttle Crab has been taken or the river is warded."
+      },
+      {
+        "tip": "As Blue side, favor the defensive jungle route more often than the river.",
+        "rationale": "Map geometry leaves Blue side more overextended when roaming through the river than Red side is.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Due to the architecture of the map, the Blue team will be ‘more’ overextended going through the river- which is why it’s favored for you to sometimes take a more defensive route through your own jungle."
+      },
+      {
+        "tip": "As Red side, only roam through the enemy's jungle to dive or rotate mid under strict conditions, like when you're winning lane or have already killed the enemy bot laners.",
+        "rationale": "Routing through the enemy's own jungle is inherently risky and only pays off when you already hold an advantage.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "We’ve avoided displaying this route as you should only take it in strict circumstances such as if you’re winning lane or you’ve killed the enemy bottom laners."
+      },
+      {
+        "tip": "As a top laner, only roam when you have a lane edge or a clear kill opportunity elsewhere.",
+        "rationale": "Top roams are otherwise not worth the CS and tempo lost from leaving lane.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Top laners generally do not roam unless they have an edge in the lane or they know that they can pick up a kill by roaming."
+      },
+      {
+        "tip": "Top laners with strong ganking ultimates, like Hecarim or Sion, can roam to mid, land their ult, and return to top.",
+        "rationale": "Their ultimates convert well into a mid-lane gank even though they aren't native to that lane.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "For example, Hecarim could run to the mid lane and cast his ultimate on the enemy and then return back to the top lane: the same goes for Sion ."
+      },
+      {
+        "tip": "Take the river route when roaming aggressively from top lane.",
+        "rationale": "The river is the fastest way to press an advantage into mid lane.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you’re playing aggressively, you will always want to take the route through the river."
+      },
+      {
+        "tip": "If you're ahead as a top laner, take the deeper route into the enemy jungle when roaming.",
+        "rationale": "Being stronger than the enemy gives you roaming priority even on a riskier path.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Or if you’re ahead, you can take the deeper route into the enemy’s jungle. This is because you’re stronger than the enemy and should have roaming priority."
+      },
+      {
+        "tip": "As a top laner running Teleport, use it to open up ganking options beyond your normal roam routes.",
+        "rationale": "Teleport lets you convert map awareness directly into a gank without physically walking there first.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Top laners are also the most likely role to take Teleport. This opens many more ganking options and will reward players with better map and game sense."
+      },
+      {
+        "tip": "As Blue side top laner, don't roam if the enemy is pushing the wave toward you.",
+        "rationale": "They'll be able to take your tower while you're away from lane.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "As the blue team, if the enemy is pushing the wave towards you, you’ll never want to roam as the enemy will be able to get your tower."
+      },
+      {
+        "tip": "Take the defensive jungle route from top to surprise-gank another lane, especially when the enemy top is freezing or denying your farm.",
+        "rationale": "A defensive route both hides your approach and makes sense when your own lane offers little to do.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "This is also a good route to take if the enemy is freezing or denying you farm."
+      },
+      {
+        "tip": "Approach the mid lane from the side closest to the enemy laner's current position.",
+        "rationale": "Attacking from the near side maximizes your chance of catching them before they can react.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "You need to look at where both the Mid laners are and attack from the side that is closest to the enemy."
+      },
+      {
+        "tip": "If the wave is in the middle of mid lane, approach from slightly behind the enemy to cut off their escape.",
+        "rationale": "Coming from behind makes it harder for them to simply walk away from the gank.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If the wave is in the middle of the lane, you should look at approach slightly from behind the enemy to cut them off and make it difficult for them to escape."
+      },
+      {
+        "tip": "Never approach a gank from the route closest to your own ally.",
+        "rationale": "That route telegraphs the gank and ruins the element of surprise.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "You would never use the route closest to your ally as the element of surprise would be ruined."
+      },
+      {
+        "tip": "Before diving the enemy mid laner on a gank, communicate your intentions and confirm the wave is under the enemy's tower.",
+        "rationale": "Without coordination the mid laner may not follow up, and without the wave state the dive itself may be unsafe.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Before doing so, make sure that you’ve communicated to the Mid laner your intentions and make sure that the minion wave is under the enemy’s tower too."
+      },
+      {
+        "tip": "As a mid laner, use your central map position to roam to either side lane and snowball your lead across the map.",
+        "rationale": "Mid's position lets you convert a winning lane into map-wide pressure much like a second jungler.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "With the potential to be anywhere and everywhere, much like a Jungler, they can solo win a game by winning their lane and snowballing their lead to help other lanes."
+      },
+      {
+        "tip": "Sometimes loop around the map on an indirect path when roaming from mid rather than always taking the most direct route.",
+        "rationale": "A less obvious path can catch enemies off guard even at the cost of a few extra seconds.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "While it’s important to take the most efficient route when possible, in some cases you may benefit from looping around the map by not taking a direct path."
+      },
+      {
+        "tip": "Use the Blast Cone to escape or dodge wards when roaming through the blue tri-brush.",
+        "rationale": "It gives you an alternate exit that avoids common ward placements in that area.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "You can also utilize the Blast Cone to escape and dodge any potential wards inside the blue tri-brush."
+      },
+      {
+        "tip": "Mobile champions with dashes or leaps, like LeBlanc using her W to cross walls, benefit heavily from taking non-direct roaming routes.",
+        "rationale": "Their mobility tools let them cut through terrain that would slow down a champion without one.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": "LeBlanc",
+        "excerpt": "LeBlanc , for example, benefits heavily from this type of roaming technique as she can use your W to get over walls."
+      },
+      {
+        "tip": "As Support, always take a designated roaming route from base to lane rather than mindlessly walking straight to bot.",
+        "rationale": "A designated route keeps a roam option alive the whole way, whereas walking straight bot forecloses it.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "This is why I recommend that whenever you’re playing as the Support, you always take one of these designated routes to lane rather than tabbing out and just mindlessly walking bot."
+      },
+      {
+        "tip": "A few top laners, like Sion, Camille, or Malphite, can also effectively roam directly from base, unlike most other top laners.",
+        "rationale": "Their kits allow them to profitably detour from base the same way a Support typically does.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "More often than not, the only role that does this is the Support with the exception of a few Top laners such as Sion , Camille or Malphite ."
+      },
+      {
+        "tip": "As Support, decide on your roam plan before heading to lane rather than waiting until you're already there.",
+        "rationale": "Deciding late wastes the precious time and XP that an early decision would have preserved.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you were to walk bot and then decide that you want to roam, you would have wasted precious time and you may miss out on experience because of your negligence."
+      },
+      {
+        "tip": "While walking your base-to-lane route as Support, keep an eye on what's happening in mid lane and around the map.",
+        "rationale": "That awareness is what lets you decide whether to divert into a roam along the way.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "As you walk through your own jungle, you should keep an eye on what is happening in the mid lane and around the map."
+      },
+      {
+        "tip": "Reassess at each map cross-section whether to continue toward a roam or return to your own lane.",
+        "rationale": "The target lane's state can change mid-walk, so bail out if it stops looking gankable.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If at any point the lane changes and doesn’t seem to be in a gankable position anymore, you can simply return to your own lane."
+      },
+      {
+        "tip": "Abort your roam and return to lane if your ally has taken heavy damage on the way there.",
+        "rationale": "A badly hurt ally makes the gank a likely lost cause not worth continuing to pursue.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you see that your ally has taken a beating while you’re on your way, you may have to turn tail and head back to your own lane as the roam may be a lost cause."
+      },
+      {
+        "tip": "If your ally has just used their key damage or CC ability before you arrive, wait for it to come off cooldown before engaging the gank.",
+        "rationale": "Engaging without their follow-up available reduces the odds of securing the kill.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If your ally has just used their main source of damage or crowd control before you get there, you may have to wait for it to be up again before going in."
+      },
+      {
+        "tip": "Watch your own lane while roaming, and return promptly if the enemy laner starts racking up CS.",
+        "rationale": "Letting the enemy farm unchecked in your absence quickly erodes any advantage the roam creates.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you notice that the enemy is starting to get a good amount of CS, return as soon as you can so you can to ensure you do not fall behind."
+      },
+      {
+        "tip": "Return to lane to protect your tower if the enemy starts pushing your wave back while you're roaming.",
+        "rationale": "An unattended pushing wave puts your own tower at direct risk.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you notice that the enemy has started to push the wave back, you’ll need to return to lane and protect your tower."
+      },
+      {
+        "tip": "Avoid letting the enemy take a tower or destroy plating while you're roaming, unless you're securing an equal or better trade.",
+        "rationale": "Losing a tower for nothing hands the enemy gold and opens the map in their favor.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Unless you can get a tower first, or make a worthwhile trade such as the Mid lane outer for a side lane outer, you never want to give the enemy the opportunity to take a tower or destroy the armor plating."
+      },
+      {
+        "tip": "Track the enemy jungler's location while roaming.",
+        "rationale": "Running into them unexpectedly can blow your cover and ruin the roam entirely.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "When roaming, especially if you don’t have the greatest of kill threat, you’ll need to know where the enemy Jungler is at all times."
+      },
+      {
+        "tip": "Avoid taking an aggressive route through the enemy jungle when you don't know where their jungler is.",
+        "rationale": "Without that information you risk walking straight into them.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Avoid going into the enemies jungle and taking an aggressive route if you don’t know where they are."
+      },
+      {
+        "tip": "Check every bush you pass while roaming for visible wards.",
+        "rationale": "Missing a warded bush lets the enemy see you coming and back off in time.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "I recommend that you check every bush you walk past for visible signs of wards."
+      },
+      {
+        "tip": "Use a Sweeping Lens instead of face-checking bushes directly when roaming, especially on squishy champions like Lux or Zyra.",
+        "rationale": "Sweeping reveals a ward or champion's silhouette without exposing you to the risk of walking in blind.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you have a Sweeping Lens available to you, you would want to use that as a substitute rather than face checking bushes directly."
+      },
+      {
+        "tip": "Path through the middle of the river while sweeping to maximize the Sweeping Lens's area of effect.",
+        "rationale": "Centering your path gets the widest possible coverage from a single sweep.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "To maximize this technique, I would recommend that you path directly through the middle of the river so you give the Sweeping Lens the biggest area of effect."
+      },
+      {
+        "tip": "Count the visible enemy champions on the map before roaming into unclear territory — if you can account for most of them, the path is likely safer.",
+        "rationale": "Accounting for four out of five enemies sharply narrows the chance of an ambush versus only seeing one or two.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "When in doubt, always count the numbers of enemy champions on the map. If you count most of them, say four out of five, the likelihood of your path being safe increases."
+      },
+      {
+        "tip": "Place deep wards on your way to and from lanes while roaming.",
+        "rationale": "It reveals enemy positions and jungle camp availability for your whole team, not just yourself.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "When you’re roaming, you should try to place deep wards on your way to and from each lane."
+      },
+      {
+        "tip": "LeBlanc can deep ward safely and efficiently using her Distortion to hop walls, minimizing her time exposed in the enemy jungle.",
+        "rationale": "Less time spent inside enemy territory directly reduces the risk of getting caught while warding.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": "LeBlanc",
+        "excerpt": "For example, LeBlanc can deep ward very easily thanks to her Distortion (W), which can enable her to get over walls."
+      },
+      {
+        "tip": "Immobile champions like Syndra struggle to roam and deep ward safely, since they lack dashes or leaps to escape with.",
+        "rationale": "Without mobility, entering deep enemy territory to place a ward is far riskier.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": "Syndra",
+        "excerpt": "Syndra may find it difficult to roam and ward as she is rather immobile and has no dashes or leaps."
+      },
+      {
+        "tip": "Don't limit your warding to just your own lane — place deep wards elsewhere on the map when you're able to.",
+        "rationale": "Most players only ward their own lane, leaving the rest of the map dark for their team.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Many players tend to just ward their own lane and nowhere else. If you’re able to, I would highly recommend that you ward like this whenever possible."
+      },
+      {
+        "tip": "Use Scryer's Bloom and Blast Cone to adjust your roam pathing and increase your odds of getting a kill.",
+        "rationale": "Both plants give you tools specifically suited to reshaping a roam mid-route.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "The two plants that directly help you in roaming are the Scryer’s Bloom and the Blast Cone."
+      },
+      {
+        "tip": "Use Scryer's Bloom to scout for enemy wards before roaming through an area, then reroute to avoid whatever it reveals.",
+        "rationale": "Knowing which parts of the map are warded lets you choose a path that keeps you unseen.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Any wards that are placed will show on the map which you can play around to ensure that you’re not spotted at any time by taking an alternative roaming route and avoiding these wards."
+      },
+      {
+        "tip": "As Support, shoot the Scryer's Bloom into the enemy jungle to make deep warding and aggressive roaming safer.",
+        "rationale": "Scouting ahead of your own path reveals hidden wards before you walk into their vision.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you’re the Support, you can shoot the Scryers Bloom into the enemy’s jungle to make deep warding and aggressive roaming more successful."
+      },
+      {
+        "tip": "If you know the enemy jungler isn't on a particular side of the map, that side becomes a safer route to roam through.",
+        "rationale": "Confirmed absence of the jungler removes the biggest threat to walking through their jungle.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you know that the enemy Jungler is not on one side of the map, it will be safer for you to go and walk through their jungle."
+      },
+      {
+        "tip": "Accept that roams won't always be perfectly timed — when you roam too early or too late, focus on making the best of the situation rather than tilting.",
+        "rationale": "League rarely plays out exactly on paper, so adaptability matters more than chasing a perfect roam.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "As suggested, no matter what happens, try to make the best out of a bad situation."
+      }
+    ]
+  },
+  {
+    "source_id": "skill-capped-the-only-support-guide-youll-ever-need_h3a7zLISsts",
+    "drafts": [
+      {
+        "tip": "As a ranged support, help your ADC push the wave with auto attacks to help secure the level 2 breakpoint first.",
+        "rationale": "Hitting level two before the enemy duo gives your team a large early gold and ability advantage.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "And if you're a ranged support, your job is going to be simple. Help your ADC push with auto attacks"
+      },
+      {
+        "tip": "Look for free poke whenever the enemy walks up to contest the wave, especially against melee opponents.",
+        "rationale": "Melee opponents walking up to contest are exposed to poke without being able to punish it back.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "look for any free poke whenever the enemy walks up, especially if your opponents are melee."
+      },
+      {
+        "tip": "Even if the enemy respects your level-2 timing, still use it to get free damage in or zone them off the wave.",
+        "rationale": "A recognized power spike still forces the enemy to play cautiously, which you can convert into damage or CS denial.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "hitting level two first is still super important as you can use it to get some free damage or even just zone your opponents"
+      },
+      {
+        "tip": "In melee-versus-melee lanes, prioritize hitting level two first, since whoever gets there first controls the lane.",
+        "rationale": "The level-two power spike decides who dictates the melee-versus-melee matchup from that point on.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "gets there first has full control over the lane."
+      },
+      {
+        "tip": "As a melee support in a melee matchup, help your ADC push the wave to secure the level two breakpoint.",
+        "rationale": "Whoever hits the breakpoint first gets full control of the lane, so contesting the push matters.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "So you need to be helping your ADC push."
+      },
+      {
+        "tip": "Save your support item's execute charges for the second wave, using them to instantly kill a low-health minion and set up a surprise engage.",
+        "rationale": "Holding charges for the second wave lets you convert them into a burst of unexpected pressure rather than spending them early for no advantage.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Save the charges for the second wave to instantly kill a minion from 50% health then look for the surprise engage."
+      },
+      {
+        "tip": "In lower elo, expect the enemy ranged support to often misplay by being too passive, and punish it.",
+        "rationale": "Passive play from a ranged support at low elo opens a level-two window that would otherwise be closed.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "the lower Elo you are, the more likely it is that the ranged support makes the mistake of playing far too passive."
+      },
+      {
+        "tip": "Don't autopilot concede the level-two push against a ranged support — pay attention to how the enemy duo actually plays it out.",
+        "rationale": "Ranged supports don't always play the contest correctly, so passive assumptions can cost you a winnable push.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "don't just autopilot concede the push. Actually pay attention to how the enemy duo plays it out."
+      },
+      {
+        "tip": "As a melee support who can engage from level one, like Rell, use the threat of an engage to force the level-two push in your favor.",
+        "rationale": "The mere possibility of an early engage pressures the enemy duo into contesting less aggressively.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": "Rell",
+        "excerpt": "especially if you're a melee champion who can engage from level one, like Rell here, use the threat of a potential engage to ensure you get the push."
+      },
+      {
+        "tip": "If you're losing the level-two push and your ADC isn't contesting it, back off, let the wave come to you, and preserve your health.",
+        "rationale": "Forcing a losing push costs health for no gain when the wave will come to you anyway.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "So, if you are losing the push, or your ADC just doesn't care about it, that's completely fine. Just back off, let the wave come into you, and most importantly, preserve your health."
+      },
+      {
+        "tip": "Once levels equalize after conceding the early push, look for the engage — the wave will now be on your side, giving you more time to run down opponents.",
+        "rationale": "A wave on your side of the map extends the chase window in your favor.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "once you equalize levels, that's when you look for the engage, as the wave is going to now be on your side of the map, giving you more time to run down your opponents."
+      },
+      {
+        "tip": "For melee supports who need their full kit to fight, like Alistar, the level-three timing can matter even more than level two.",
+        "rationale": "Some kits only become fully functional in a fight once every ability is unlocked at level three.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": "Alistar",
+        "excerpt": "for select supports like Alistar, who need their full kit to fight, can actually be even more impactful than level two."
+      },
+      {
+        "tip": "If you've lost the level-two push and the enemy's wave is about to rebound around the fourth wave, rush the first two melee minions to hit level three and force an all-in.",
+        "rationale": "Catching the rebound at the level-three spike lets you punish the exact moment the enemy expects to be safe.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "So, if you're aware of this, you can rush down the first two melee minions, hit level three, and force an all in."
+      },
+      {
+        "tip": "Don't stand too far behind your ADC in lane.",
+        "rationale": "Standing too far back removes your pressure as a duo and stops you from being able to trade at all.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Stand too far behind your ADC, and you won't have any pressure as a duo, and you won't be able to trade at all."
+      },
+      {
+        "tip": "Don't stand too far in front of your ADC either.",
+        "rationale": "Overextending in front risks getting engaged on or chunked before your ADC can respond.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Or, if you're too far up, you might get engaged on or chunked"
+      },
+      {
+        "tip": "Master parallel positioning with your ADC.",
+        "rationale": "It resolves the single biggest complaint ADC players have about their support.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "it can all be solved by learning one simple concept, parallel positioning."
+      },
+      {
+        "tip": "Stay side by side with your ADC as much as possible during lane and when trading.",
+        "rationale": "Matching their position keeps you both in range to pressure the same target at all times.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "you and your ADC should, as much as possible, be side by side"
+      },
+      {
+        "tip": "Move up or trade in sync with your ADC so you're always in range to pressure the same target.",
+        "rationale": "Staying in lockstep is what lets parallel positioning actually function during a trade.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "you move up or when you trade, so you're always in range to hit and pressure the same target at all times."
+      },
+      {
+        "tip": "Visualize parallel positioning as a triangle — match your ADC's positioning at all times so together you form the base.",
+        "rationale": "The triangle framing makes it easy to judge correct positioning relative to your ADC and the enemy duo.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "The easiest way to envision this is kind of like a triangle. You want to match your ADC's positioning at all times"
+      },
+      {
+        "tip": "If your opponents move up, step back together with your ADC to keep them as the point of the triangle.",
+        "rationale": "Retreating in sync denies the enemy the isolated target their advance is trying to create.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "the base of the triangle, while trying to make your opponents the point of the triangle. If they move up, you step back, and we see the result of that right here."
+      },
+      {
+        "tip": "Understanding and applying parallel positioning can gain you a significant advantage even from a losing position.",
+        "rationale": "One side of a lane using the concept correctly while the other doesn't can flip who's ahead.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "So, from that, you can see how understanding this concept you a huge advantage in your games."
+      },
+      {
+        "tip": "You can't control your ADC, but you can control your own positioning — move up when they push, move back when they retreat.",
+        "rationale": "Mirroring your ADC's positioning is the one lever you fully control regardless of how they play.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If your ADC's playing up, you move up and match your ADC. If they play back, you move back"
+      },
+      {
+        "tip": "Stay parallel to your ADC's positioning even when they don't reciprocate, whether they're overly aggressive or overly passive.",
+        "rationale": "Adapting to their behavior is the only way to keep the parallel-positioning benefit alive with an uncooperative ADC.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "You can always stand parallel to them, even if they don't stand parallel to you."
+      },
+      {
+        "tip": "As support, you're not required to last hit, so spend that mental bandwidth watching your own wave instead.",
+        "rationale": "Freed from last-hitting duties, you can dedicate your attention to reading trade opportunities off the wave state.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "as a support, you have a unique advantage here. You're not required to last hit"
+      },
+      {
+        "tip": "Focus your attention on your own minion wave, specifically the minions about to die.",
+        "rationale": "Minions nearing death predict exactly when the enemy ADC will be locked into a last-hit animation.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "be focusing on your own minion wave. Specifically, the ones getting low."
+      },
+      {
+        "tip": "Time your trades for when the enemy ADC goes to last hit a minion, since they're locked in their attack animation and can't retaliate.",
+        "rationale": "Auto attacks have cooldowns just like abilities, so an ADC mid-swing on a minion is defenseless for that moment.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "this is why you should be looking to time your trades when the enemy ADC goes to last hit. Every time they walk up, you try to auto them or throw a spell."
+      },
+      {
+        "tip": "Repeatedly punishing the enemy ADC's last-hit windows lets you whittle their health down for free.",
+        "rationale": "Each last-hit animation is a moment they can't trade back, so doing this consistently compounds into real damage.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you do this over and over and over, you're going to slowly whittle down that health for free. They can't do anything about it."
+      },
+      {
+        "tip": "If you play a skill-shot support, time your poke abilities around the enemy ADC's last hits instead of throwing them whenever available.",
+        "rationale": "Landing skill shots during their locked animation guarantees the hit rather than relying on them standing still.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "you can time your abilities around the enemy ADC's last hits."
+      },
+      {
+        "tip": "Watch your own minions' health to predict when the enemy ADC will walk up and be locked in their windup animation.",
+        "rationale": "Predicting the windup in advance makes your poke basically guaranteed to land.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "When they walk up, you know where they're going to be and that they're about to be locked in the windup animation of their attack. So, it's basically guaranteed to land."
+      },
+      {
+        "tip": "Treat your health bar as a resource to spend for advantage, not something to passively protect.",
+        "rationale": "Health kept in reserve for its own sake gives up the lane pressure it could otherwise buy.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Your health bar as a resource, not something to protect"
+      },
+      {
+        "tip": "Think of your health bar as something to expend for lane advantages rather than something to keep topped up.",
+        "rationale": "Spending health deliberately is how you convert a resource advantage into pressure.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "a resource that you should be expending to gain advantages in lane."
+      },
+      {
+        "tip": "Think of you and your ADC as sharing a combined health pool, almost like a power gauge for the lane.",
+        "rationale": "Comparing your duo's total health to the enemy duo's total gives a truer read of who's actually ahead.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "combined health pool, almost like a power gauge for the lane. If both of you are full HP and both of your opponents are at full HP, the lane is even."
+      },
+      {
+        "tip": "If your ADC has lost health but you're still full HP, your duo's combined power gauge can still exceed the enemy's.",
+        "rationale": "Judging lane state by your ADC's health alone ignores the health you're still holding in reserve.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "your ADC loses half their health and the enemy duo both lose half theirs as well, while you're still at full health, your joint power gauge as a duo is still higher than theirs."
+      },
+      {
+        "tip": "Don't default to playing safe just because your ADC took damage — check the combined power gauge first, since it may be your turn to press the advantage.",
+        "rationale": "If the duo's combined health still exceeds the enemy's, retreating gives up an advantage you actually hold.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "But this is exactly where that power gauge comes into play. As Brand and Smolder combined technically have more health"
+      },
+      {
+        "tip": "The power-gauge concept works both ways — if you've taken damage but your ADC is high on health, it's their turn to press the advantage.",
+        "rationale": "The same logic that justifies an aggressive support play applies symmetrically to the ADC.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "And this obviously works the other way around, too. If you've taken too much damage but your ADC is high on health, the roles just reverse."
+      },
+      {
+        "tip": "After a fight, hold the wave by walking into it rather than immediately basing or continuing to roam.",
+        "rationale": "Preventing the wave from crashing into your turret protects the gold and experience your returning ADC would otherwise lose.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "The correct answer is hold the wave. So, she walks right into the wave and prevents it hitting the turret."
+      },
+      {
+        "tip": "Hold the wave until your own reinforcing minions arrive to set up a freeze.",
+        "rationale": "A freeze keeps the wave on your side of the lane, which sets up future all-ins and ganks.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "holding the wave like this until your own minions arrive, it's going to set up what's known as a freeze, keeping the wave on your side of the lane"
+      },
+      {
+        "tip": "A freeze is useful both for setting up all-ins or ganks and for letting your returning ADC play safely in lane.",
+        "rationale": "Keeping the wave on your side benefits both the aggressive and defensive sides of the lane.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "for setting up all ins or even ganks, but also allowing your ADC to play safe in lane"
+      },
+      {
+        "tip": "Even when the enemy fast-pushes and bases, stick around to hold the wave for your returning ADC.",
+        "rationale": "Their gold and experience loss is minimized if the wave hasn't crashed by the time they get back.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Milio and Ashe fast push so they can get a base, but Karma hangs around to hold that wave for her Caitlyn."
+      },
+      {
+        "tip": "A bad ADC doesn't mean you lose the game — it just means bot lane isn't where you'll win it, so recognize that early.",
+        "rationale": "Once you accept that bot lane won't carry the game, you can redirect your effort toward winning it elsewhere.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "a bad ADC doesn't necessarily mean you lose the game. All it means is that bot lane is not where you're going to win it."
+      },
+      {
+        "tip": "Support's biggest strength is being the only role that doesn't need to farm, so use that freedom to impact the whole map.",
+        "rationale": "Not being tied to CS is what lets a support roam and affect fights without sacrificing their own resources.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "Support's biggest strength is that you're the only role in the game that doesn't need to farm."
+      },
+      {
+        "tip": "If you want to climb on support, roaming is the number one skill to master.",
+        "rationale": "Roaming is what lets a support's impact scale past their own lane.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "if you want to climb, roaming is going to be the number one thing that you need to master."
+      },
+      {
+        "tip": "When you crash a wave into the enemy turret and the enemy can't clear it before their reinforcements arrive, the resulting push-back toward you is your roam timer.",
+        "rationale": "The rebounding wave gives you a predictable window during which your lane doesn't need your presence.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "unless the enemy duo can clear it before their reinforcing wave arrives, it's going to slowly push back towards you. This is your roam timer."
+      },
+      {
+        "tip": "Your rebound-roam timer expires once the wave reaches your own turret — be back in lane by then.",
+        "rationale": "Staying out past that point leaves your ADC exposed once the wave arrives at your tower.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Once that wave reaches your turret, that timer's up."
+      },
+      {
+        "tip": "If you overstay a roam past the rebound timer, your ADC risks getting dove, losing a massive wave, and falling badly behind.",
+        "rationale": "An unattended crashing wave at your own turret is a dive setup for the enemy.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "your ADC is going to be at risk of getting dove, losing a massive wave, and potentially just being completely out of the game."
+      },
+      {
+        "tip": "Roaming isn't just for high-mobility supports — any support, even enchanters, can do it effectively.",
+        "rationale": "The rebound-roam window is available regardless of what kit you're playing.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "But any support can do this, I promise. Even on enchanters, you can often be the deciding factor"
+      },
+      {
+        "tip": "Enchanter supports can decide fights through their roams using clutch shields, heals, or slows to set up kills or save allies.",
+        "rationale": "Utility tools translate into roam impact just as well as direct damage or hard CC does.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "your roams with clutch shields or clutch heals or even slows to set up kills or save allies from your roams."
+      },
+      {
+        "tip": "When deciding where to roam, run straight down mid in most situations.",
+        "rationale": "Mid lane's central position puts you close to almost any play that breaks out on the map.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Run straight down mid. This is completely broken, man, because mid lane is the center of the map."
+      },
+      {
+        "tip": "Thanks to fast Homeguards, roaming down mid is essentially risk-free — worst case you lose only a minion or two of experience pathing back.",
+        "rationale": "The Homeguard speed boost drastically lowers the downside of a roam that doesn't pan out.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "can get back out on the map so incredibly fast that it's essentially risk-free."
+      },
+      {
+        "tip": "You have roughly a minute before a rebounding wave crashes into your turret, but only about 12 to 17 seconds to get back from the fountain — a wide safety margin for roaming.",
+        "rationale": "The gap between travel time and the rebound timer means you can commit to a roam without much risk of being late.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "It now takes around 12 seconds to get back to mid lane from the fountain, and about 17 seconds to get back to a side lane tier one, where a rebound is typically going to take around a minute to crash into your turret if your"
+      },
+      {
+        "tip": "You can 'steal tempo' by basing early instead of waiting to fully help push the wave, giving yourself an earlier roam start.",
+        "rationale": "Sacrificing a few seconds of your ADC's convenience buys you extra free time to roam.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "he decides to steal those seconds from her and bases instead."
+      },
+      {
+        "tip": "Use the extra time from stealing tempo to roam to a lane where the wave is pushing in and hide in the bush to set up a gank.",
+        "rationale": "A pushing wave elsewhere signals a laner about to be exposed, and the bush lets you ambush them.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "which he uses to just run straight down top lane as he sees Riven's wave is pushing into Sylas. Getting there in time to hide in the bush and set up a super easy kill."
+      },
+      {
+        "tip": "Get out of the mindset that roaming always gets your ADC killed.",
+        "rationale": "The roam timers being taught are built around a wave already pushing into your ADC, not abandoning them randomly.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "You have to get out of that mindset as a support if you want to climb."
+      },
+      {
+        "tip": "If your ADC chooses to fight a losing 2v1 and dies while you're on a legitimate roam timer, that's on their decision, not your roam.",
+        "rationale": "A roam taken during a safe window isn't responsible for an ADC's independent choice to engage badly.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If they decide to go and fight one V two and they die or get caught and engaged on while seeing that you're roaming"
+      },
+      {
+        "tip": "If your ADC can't play safe or tolerate you being gone briefly, roaming is still probably the better use of your time.",
+        "rationale": "You're unlikely to win the game through bot lane with a player who can't hold a safe wave, so invest elsewhere.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Meaning in most cases, it's probably going to be better that you're roaming anyway"
+      },
+      {
+        "tip": "If your ADC is unreliable, your time is better spent getting your other laners ahead through roaming.",
+        "rationale": "Other laners are the ones who'll likely need to carry the game if bot lane can't.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "your time is going to be better spent getting them ahead anyway."
+      },
+      {
+        "tip": "Around the 14-minute mark, role quests finish and mid game begins — treat that as your cue to start heading to mid regardless of your ADC.",
+        "rationale": "The role-quest completion timing marks a real shift in what the map rewards, independent of what your ADC is doing.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Everybody starts finishing their role quest and this marks the start of the mid game."
+      },
+      {
+        "tip": "In mid game, base yourself around mid lane, since its central position lets you rotate to anywhere on the map.",
+        "rationale": "The same centrality that makes mid a good roam destination in laning phase makes it the right base for mid-game macro too.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "It's the exact same reason we path through mid when roaming. It's the center of the map"
+      },
+      {
+        "tip": "From a central mid position you can sync with your jungler, gank a side lane, contest either objective, or give vision across the map.",
+        "rationale": "Being centrally located keeps every mid-game option available at once.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "sync up with your jungler, gank a side lane, be at either objective, and give vision across the entire map."
+      },
+      {
+        "tip": "Don't walk straight into the enemy jungle to place wards once lane phase ends — that's how supports get caught and killed.",
+        "rationale": "An unprepared entry into contested territory is exactly the mistake that gets vision-hungry supports picked off.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "they want to get vision, so they just walk into the enemy jungle and start placing wards. They get caught, they die"
+      },
+      {
+        "tip": "To safely get deep vision after lane phase, make sure your team pushes the mid wave out first.",
+        "rationale": "A pushed wave both grants you the map first and forces enemies to reveal themselves to answer it.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "one thing you need is your team to push the mid wave out first."
+      },
+      {
+        "tip": "Pushing the mid wave first lets you set up your vision line before the enemy can contest it.",
+        "rationale": "Moving onto the map ahead of the enemy is what makes the warding safe.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "meaning you set up your vision line before the enemy even has a chance to contest it."
+      },
+      {
+        "tip": "Once you shove the mid wave, the enemy has to show themselves to farm it, telling you where they are and confirming it's safe to go deep for vision.",
+        "rationale": "Forcing the enemy to respond to the wave removes the uncertainty about where they're positioned.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "know where they are and you know it's safe."
+      },
+      {
+        "tip": "Decide where to ward by asking one question: where's the next objective you'll be contesting or defending?",
+        "rationale": "Vision only matters relative to the next fight over an objective, so that question should drive placement.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "vision as a whole all basically comes down to one singular concept. Where's the next objective that you're either going to be contesting or defending?"
+      },
+      {
+        "tip": "Ward the side of the map with the next contested objective, whether it's a turret, a neutral objective, or a jungle camp.",
+        "rationale": "Vision is only valuable where the next fight is actually going to happen.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "And that's the side of the map that your wards should be on."
+      },
+      {
+        "tip": "Since wards last up to two and a half minutes, time your vision setup so it's still active when the objective spawns.",
+        "rationale": "A ward placed too early can expire before it actually matters for the fight.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "And remember, wards last up to 2 and 1/2 minutes."
+      },
+      {
+        "tip": "Start setting up vision around the next objective as early as two minutes before it spawns, then base and bring a second set of wards to retake or defend that vision.",
+        "rationale": "Early vision secures the area before the enemy contests it, and a second wave of wards sustains that control through the objective fight.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "vision around the next objective as early as 2 minutes before that objective spawns. Then base, and then have another set of wards to either retake or defend your vision."
+      },
+      {
+        "tip": "Guide your mid-game macro by constantly asking one question: where's the next play going to happen?",
+        "rationale": "That single question is enough to keep you positioned usefully without needing a complex decision framework.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "one single question. Where's the next play going to happen?"
+      },
+      {
+        "tip": "Don't reflexively head back to bot with your ADC after a play — check where the next play is likely to happen first.",
+        "rationale": "Automatically returning to bot can put you on the wrong side of the map right as the next fight breaks out elsewhere.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "And this is actually the worst place she could be right now. Herald's up. Her jungler's top side"
+      },
+      {
+        "tip": "Use an up objective and your jungler's current side of the map to predict where the next play will happen.",
+        "rationale": "Objective timers and jungler position are the two clearest signals for where a fight is about to break out.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Mundo starts Herald shortly after, and Nami and Mord end up collapsing while Soraka is stuck on the wrong side of the map doing nothing."
+      },
+      {
+        "tip": "Don't tether yourself to your ADC and let them dictate your mid-to-late-game map movement.",
+        "rationale": "Following your ADC's choices by default can leave you out of position for the actual next play.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "They tether themselves to their ADC and basically let that one player dictate their map movements and how they macro in the mid to late game."
+      },
+      {
+        "tip": "Don't assume your ADC will make correct macro decisions just because they're the same elo as you.",
+        "rationale": "Elo doesn't guarantee good macro judgment, so blind trust in your ADC's calls is unwarranted.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "What makes you think a random ADC in the same Elo as you is going to make the correct macro choices."
+      },
+      {
+        "tip": "Since you're limited in what you can do alone, navigate mid-game macro by playing around your team's strongest member instead of your ADC.",
+        "rationale": "Positioning around whoever is actually winning gives your team the best odds of converting that lead.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "one amazing way to navigate mid-game macro is to just play around the strongest member"
+      },
+      {
+        "tip": "Don't glue yourself to your team's strongest member — doing so discourages fights and soaks their gold and experience.",
+        "rationale": "Standing too close crowds out the resources and freedom that let your strongest player snowball.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "This doesn't mean you glue yourself to them, though, as that's just going to make things harder for them. You discourage fights, you soak their gold, you soak their XP."
+      },
+      {
+        "tip": "Instead of glueing to your strongest teammate, set up vision around them or shadow them by staying just out of sight, hovering nearby or in fog.",
+        "rationale": "Staying close but unseen lets you instantly help if they get collapsed on, without limiting their own play.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "shadow's in quotes here. Staying just out of sight, hovering nearby or in fog"
+      },
+      {
+        "tip": "Rush to lane at the start of the game and ward the middle bush, whether as ADC or support, to prevent level-one bush cheeses.",
+        "rationale": "A warded bush removes the enemy's ability to ambush you from it before either duo has even hit level one.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Either the ADC or support rushes to the lane and wards this middle bush here."
+      },
+      {
+        "tip": "Get into the habit of warding the bush at the start of every game to fully remove the enemy's level-one cheese potential.",
+        "rationale": "Making it a habit ensures the bush is never left uncontested, even in games where it's easy to forget.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "removes your opponent ever having the possibility to cheese you. So, get into the habit of doing this one thing."
+      },
+      {
+        "tip": "Consider selling your support item later in the game and buying a different item suited to the current game state.",
+        "rationale": "The item that's best in the early game isn't necessarily what serves you best as the game develops.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "guess that's kind of obvious, but more importantly, sell it and buy a different item."
+      },
+      {
+        "tip": "On Poppy support, Bloodsong is a strong early pick for roaming and bursting down targets when you're ahead.",
+        "rationale": "Its damage profile suits an aggressive, ahead Poppy looking to close out fights quickly.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": "Poppy",
+        "excerpt": "So, going something like Bloodsong could be great for roaming or bursting down targets, especially when you're ahead."
+      },
+      {
+        "tip": "When your early damage item falls off, sell your support item and swap to Celestial Opposition for far more impact in late-game teamfights.",
+        "rationale": "Celestial Opposition trades early burst for the survivability that matters more once teamfights dominate the game.",
+        "scope": "support",
+        "phase": "late",
+        "champion": "Poppy",
+        "excerpt": "you can sell your support item, spend only 240 gold, and swap it to Celestial Opposition."
+      },
+      {
+        "tip": "On Sona, Bloodsong is the default early item but tends to fall off in the late game.",
+        "rationale": "Its early power doesn't scale as well once fights shift to prolonged teamfights.",
+        "scope": "support",
+        "phase": "late",
+        "champion": "Sona",
+        "excerpt": "While Bloodsong is the default choice in most games, it does tend to fall off"
+      },
+      {
+        "tip": "On Sona, swap to Dream Maker in the late game for significantly more value once Bloodsong falls off.",
+        "rationale": "Dream Maker better suits the utility and survivability Sona needs once fights become full 5v5 engagements.",
+        "scope": "support",
+        "phase": "late",
+        "champion": "Sona",
+        "excerpt": "So, a simple swap to Dream Maker ends up providing you with a ton more value."
+      },
+      {
+        "tip": "Use your support item charges on cooldown and avoid sitting at three stacks, since it doesn't matter where you use them.",
+        "rationale": "Support's role quest is tied entirely to item stacks rather than lane presence, unlike every other role.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "you're using them on cool down and avoiding staying at three stacks, it doesn't matter where you use them."
+      },
+      {
+        "tip": "Avoid overbuying pink wards in the early game — many high-elo supports skip them entirely until their role quest is complete and they're cheaper.",
+        "rationale": "Spending heavily on pink wards before they're discounted eats into gold that could go toward core items.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "overbuying pink wards in the early game. In fact, many high elo support players just don't buy them at all until their role quest is complete"
+      },
+      {
+        "tip": "Once your role quest is complete and pink wards are cheap, buy two when leaving base unless it delays finishing an important item component.",
+        "rationale": "Cheap Control Wards are worth stacking up on once the discount kicks in, as long as it doesn't stall your build.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "you should always buy two when leaving base, unless it prevents you finishing an important item or component."
+      },
+      {
+        "tip": "If you're ahead and only buying a single pink ward, place it in the tri-brush during lane phase, since it's easier to protect there.",
+        "rationale": "A ward in a defensible location is less likely to be found and destroyed by the enemy.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "this way you can put it in tri brush during lane phase, and have a higher chance of protecting it."
+      },
+      {
+        "tip": "Remember that each pink ward that gets destroyed is effectively a 100-gold swing in the enemy's favor, so protect your wards.",
+        "rationale": "Losing 75 gold spent while granting the enemy 25 gold in return makes an undefended Control Ward an expensive mistake.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Otherwise, remember, each pink ward you buy that gets killed is technically a 100 gold swing"
+      },
+      {
+        "tip": "Set up an option to normal-cast your wards instead of only quick-casting them.",
+        "rationale": "Normal-casting gives you far more information than blindly quick-casting a ward into a spot.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "make sure you have an option to normal cast your wards."
+      },
+      {
+        "tip": "Use the normal-cast reticle to see exactly where a ward will land, especially important when warding over walls.",
+        "rationale": "Seeing the landing spot in advance opens up warding options that quick-cast can't safely access.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "So, you can see where a ward's going to go when placing one over the wall by paying attention to the reticle"
+      },
+      {
+        "tip": "Normal-casting also shows you how many wards you have down and the exact area a ward reveals.",
+        "rationale": "That information helps confirm you're actually covering the correct areas rather than guessing.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "You can see how many wards you have down, and even the area the ward reveals, which is great for making sure you're getting vision in all the correct areas"
+      },
+      {
+        "tip": "Normal-casting helps you avoid placing wards over walls in spots the enemy can simply walk past for free.",
+        "rationale": "A poorly placed wall ward gives away nothing if the enemy can path around its vision entirely.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "as preventing you doing wards like this one over the wall that lets your opponent just walk by for free."
+      },
+      {
+        "tip": "Bind your trinket and support-item ward slots to quick-cast with indicators, so you can tap for a fast ward or hold for full normal-cast control.",
+        "rationale": "This setup keeps both the speed of quick-cast and the precision of normal-cast available depending on the situation.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "This enables you to still place wards quickly in a pinch, but also holding the bind, you get full control."
+      },
+      {
+        "tip": "Never be afraid to take a kill yourself as support, unless it's guaranteed free for someone else to take instead.",
+        "rationale": "Hesitating to take a kill you've earned can cost the team the kill entirely.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "never be afraid of taking kills. Unless, of course, it's 100% completely free."
+      },
+      {
+        "tip": "Don't overextend trying to hand a kill off to a teammate — just take it yourself.",
+        "rationale": "Attempts to give away a kill risk trading one-for-one or letting the enemy escape entirely.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "the kill to their team that they either end up going one for one or even escaping. Just take the kill, man."
+      }
+    ]
+  }
+]

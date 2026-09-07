@@ -1,0 +1,23 @@
+{
+  "source_id": "mobalytics-everything-you-need-to-know-about-roaming-in-lol",
+  "changes": [
+    {
+      "kind": "repair",
+      "line": 27,
+      "before": "Leblanc",
+      "after": "LeBlanc"
+    },
+    {
+      "kind": "repair",
+      "line": 27,
+      "before": "blast cone",
+      "after": "Blast Cone"
+    },
+    {
+      "kind": "repair",
+      "line": 31,
+      "before": "Leblanc",
+      "after": "LeBlanc"
+    }
+  ]
+}

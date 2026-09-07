@@ -1,0 +1,1425 @@
+[
+  {
+    "source_id": "skill-capped-why-you-suck-at-support_z8jp-YjOwI0",
+    "drafts": [
+      {
+        "tip": "Hang back and let your carry take the gold from turret plates and turrets instead of standing in range yourself, since plate/turret gold splits evenly among everyone nearby.",
+        "rationale": "Standing in range siphons gold away from the teammate who can actually use it, and turrets' Bulwark mechanic makes nearby allies tankier when a plate falls anyway.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Not only that, but turrets also have a mechanic called Bulwark, that whenever a plate is taken, every nearby ally makes it tankier. This is why you're often going to see good supports hang back while"
+      },
+      {
+        "tip": "Constantly look for opportunities to hold the wave for your ADC instead of always taking the solo gold and experience yourself.",
+        "rationale": "Holding a wave can deny the enemy laner farm and experience and sets your ADC up for a favorable lane state, which pays off more than the solo gold you'd get otherwise.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "you should still be constantly looking for opportunities to hold the wave, as the payoff can be a whole lot bigger. Not only does it prevent your ADC, or even"
+      },
+      {
+        "tip": "Don't judge a roam's success only by whether it gets a kill.",
+        "rationale": "Most supports below diamond wrongly think kills are the only measure of a good roam, which causes them to undervalue non-kill impact.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "most supports, especially below the diamond level, think the only way to have an impact with your roams is to score kills. When in reality, this really couldn't be further from the truth. Take a look at this Kassadin"
+      },
+      {
+        "tip": "A roam can be valuable without a kill by helping a struggling laner push out their wave so they can reset their wave state and get a free base.",
+        "rationale": "Resetting a teammate's wave state and letting them base for free is real tempo gained, even with no kill on the roam.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "it out, and enables Kassadin to reset his wave state and get a free base. Or even just setting up vision, and that could be vision for your mid laner before you go back to bot. Or like this Bard here giving his bot lane Zyra deep"
+      },
+      {
+        "tip": "A roam can also add value without a kill by setting up vision for another lane, like your mid laner, before heading back to your own lane.",
+        "rationale": "Vision handed to a teammate before you return home is a concrete gain even when the roam produces no kill.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Or even just setting up vision, and that could be vision for your mid laner before you go back to bot."
+      },
+      {
+        "tip": "Master roaming, since it's the highest-impact skill for climbing as a support because you're the only role that doesn't have to farm.",
+        "rationale": "Not needing to farm frees a support to impact the entire map, and that map-wide potential is what makes roaming the most important skill for climbing.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "Meaning, your potential to carry, if you know how to roam, is massive. And without"
+      },
+      {
+        "tip": "Before roaming, ask yourself two questions: what am I potentially losing or causing my ADC to lose by being there, and where is the next play most likely going to happen.",
+        "rationale": "This two-question framework is how good roaming decisions get made, according to the guide.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "Well, let's start by answering our"
+      },
+      {
+        "tip": "If the enemy jungler didn't show up to contest your team's objective, read that as a signal they're likely elsewhere on the map, especially on the side their own camps have gone untouched.",
+        "rationale": "An uncontested objective plus untouched camps on one side of the map strongly suggests the enemy jungler is committing attention to that side, telling you where the next play is likely to happen.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "of her jungler's top side camps have been up this entire time they've been doing dragon. As the enemy jungler wasn't at drake to contest, there's a decent chance that he's going to be looking across map, especially after he"
+      },
+      {
+        "tip": "With the season 16 Homeguard changes, base before making a long cross-map roam rather than roaming first and basing later.",
+        "rationale": "Homeguards let you run down the lane much faster, and you'll have already spent your gold by the time you get there.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Now, truthfully, Sona should have based here before moving to the top side of the map as with the season 16 Homeguard"
+      },
+      {
+        "tip": "Avoid roaming when the wave is pushing away from your ADC or when a big wave is about to crash into your own turret.",
+        "rationale": "A wave pushing away leaves your ADC exposed to being zoned off it and potentially all-inned since they'd have to leave their turret, while a wave crashing your tower risks your ADC getting dove and losing a ton of farm.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "pushing away from your ADC as this could result in them getting zoned off the wave the entire time and potentially all in as they have to leave their turret or as a big wave that's about to crash into your turret which can result in your ADC"
+      },
+      {
+        "tip": "Learn when to break the standard roam-timing rules, which typically means giving up bot lane entirely.",
+        "rationale": "A skill you have to develop to climb is recognizing when the general roaming rules no longer apply to the current lane state.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "However, a skill that you have to develop if you want to climb is understanding when those rules no longer apply. You have to break the rules sometimes which typically means you're going to give up bot lane. First is when"
+      },
+      {
+        "tip": "Recognize when you believe your ADC is a lost cause and give up on them to prioritize roaming or playing around stronger teammates instead.",
+        "rationale": "Giving up on your ADC is something every good support has to learn to do, and it happens frequently at the highest level.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "heard that right. Giving up on your ADC is something every good support player is going to have to understand when to do and it happens frequently at the highest level. Although ADCs do tend to"
+      },
+      {
+        "tip": "Look to start prioritizing roaming once you hit level six, since experience matters less from that point on.",
+        "rationale": "At level six you have your full kit unlocked, and catch-up XP means that even falling slightly behind in levels gets offset if you're involved in a few kills.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Typically, this is something you should look to do once you hit level six as by that point experience isn't as important"
+      },
+      {
+        "tip": "If your ADC is your team's only strong member, don't leave them to roam even after winning lane — stay and keep making plays through them.",
+        "rationale": "Using a won lane as a reason to go impact the rest of the map is a mistake if your ADC is the only teammate who's actually strong.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "ADC, then you shouldn't use that as a reason to leave them and roam. Instead, you want to stay with them and continue to snowball and make plays through them. But, if you want to learn even more"
+      },
+      {
+        "tip": "Push out the midwave before going for deep vision near an objective.",
+        "rationale": "Nearly every clip of a support dying for deep vision has the same thing missing: the midwave wasn't pushed out first, which is what lets you safely see whether the enemy is showing up.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "Push the wave, wait for them to show, then get vision. And if"
+      },
+      {
+        "tip": "If you push the wave and nobody shows on it, ping your team for help — getting vision isn't solely your job.",
+        "rationale": "Getting deep vision is a joint effort between you and your team, not something the support has to accomplish alone.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "you push the wave and nobody shows on it, ping your team for help. Remember, getting vision isn't solely your job. You have the wards, yes, but it's a joint effort to put them all down."
+      },
+      {
+        "tip": "Don't overspend on control wards early at the cost of delaying your first completed item.",
+        "rationale": "An emerald Leona example spent 725 gold on control wards and took 20 minutes to complete her first item, while the enemy support already had two items in that time.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "the way to lane. Yeah, okay, I'm going to stop there, but basically, this continued and it took 20 minutes for Leona to complete her first item this game, while Nautilus, for comparison, already had two as she spent a whopping"
+      },
+      {
+        "tip": "Only buy a control ward early in the game if you're ahead and have 75 gold to spare when leaving base, and can protect it in your tri-brush.",
+        "rationale": "This is the simple rule to follow rather than buying control wards like pro players do, since solo queue games don't have the same resources to spare.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "There's a simple rule that you should follow here. If you're ahead and have 75 gold to spare when leaving base, buying a control early in the game is fine,"
+      },
+      {
+        "tip": "In most cases, avoid buying control wards at all until your support item quest completes, then buy two as long as it doesn't stop you from buying a good component or completed item.",
+        "rationale": "This is what the majority of high-elo supports actually do, rather than spending gold on control wards throughout the early game.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "control wards entirely until they complete their support quest, at which point you can always leave base with two as long as it doesn't prevent you from buying a good component or completed item."
+      },
+      {
+        "tip": "If you keep getting hooked or engaged on early, look at how you were posturing and how much pressure you were applying in the lane.",
+        "rationale": "It's most likely down to posturing rather than just bad luck when an engage or hook support is able to walk up on you freely, especially in the early levels.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "you, especially in the early levels, it's most likely down to how you were posturing and how much pressure you're able to apply in the lane. For example, compare that game that we just watched"
+      },
+      {
+        "tip": "Stand your ground and threaten autos or abilities from behind your minions instead of instinctively clicking back whenever the enemy engage threat walks up.",
+        "rationale": "Standing firm and abusing the enemy's positioning wins favorable trades, whereas clicking back on posture alone just gives the enemy free space to walk you down.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Smolder on the wave threatening damage. Every time Thresh tries to walk up, she stands her ground and autos from behind the minions. Every time Lucian tries to last hit, she again is aggressively"
+      },
+      {
+        "tip": "Treat your health bar as a resource to spend for advantage in lane, not something to protect and keep full.",
+        "rationale": "Thinking of HP as expendable rather than precious is what lets you take the trades that actually win lane.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "something to protect, not something to keep full, a resource that you should be expending to gain advantages in lane. See, here's how you should think about"
+      },
+      {
+        "tip": "Think of you and your ADC as sharing a combined health pool for the lane, and if your duo's combined HP is still ahead of the enemy's even while your ADC is low, press the advantage instead of playing scared.",
+        "rationale": "A lane's power balance is the joint HP of both duos, not just how low your own ADC currently is, so it's possible to still be ahead even when your ADC looks behind.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "bot lane. You and your ADC share a combined health pool, almost like a power gauge for the lane. If both of you are full HP and both of your opponents are at full HP, the lane is"
+      },
+      {
+        "tip": "The combined health-pool logic flips too: if you're the one who's taken damage and your ADC is healthy, let them step up and play the aggressor while you play further back.",
+        "rationale": "Whichever half of the duo has the health advantage is the one who should be pressing, not necessarily whoever engaged last.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "then it's going to be on them to be stepping up while you play further back. And by the way, that was just a small snippet of one of seven videos inside our trading chapter. So, if you want to learn exactly how to dominate the lane"
+      },
+      {
+        "tip": "Don't worry about your position when using support item execute stacks — it doesn't matter where you are as long as you're not sitting on three stacks for extended periods.",
+        "rationale": "Unlike other role quests that require standing in your own lane, the support item's bonus quest contribution completes regardless of where you use it.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "bonus quest contribution and to complete their role quest faster, it doesn't matter where you are when you use it for support as long as you're not sitting on three stacks for extended periods. But"
+      },
+      {
+        "tip": "As a melee support, hold your first two support item execute charges and use them both together to immediately hit level two, which is especially strong in melee-versus-melee matchups.",
+        "rationale": "Good support players save these charges rather than spending them as soon as available so they can convert them directly into a level advantage.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "still going to have two charges available. Good support players are going to hold these and then use them both to immediately hit level two, which is especially strong in melee versus melee matchups. But another one of those"
+      },
+      {
+        "tip": "Use your support item's execute to help your ADC secure last hits they'd otherwise miss, such as a melee minion crashing into turret or one they can't safely walk up to.",
+        "rationale": "The execute effect has a 1,050-unit radius, letting you grab gold for your ADC from far enough away that they don't have to risk walking up themselves.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "invisible ways to help is just assisting your ADC pick up last hits that they would have otherwise missed. Maybe there's a melee minion they can get as it crashes into the turret. Maybe they're being zoned and don't have the"
+      }
+    ]
+  },
+  {
+    "source_id": "eiensiei-guide-to-support",
+    "drafts": [
+      {
+        "tip": "Prioritize champion comfort over counterpicking most of the time — your teammates are usually happier seeing you play a champion you've mastered than one you're first-timing, even if it's theoretically the better pick.",
+        "rationale": "Comfort translates into more consistent execution than a theoretically-better but unfamiliar champion.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "comfort is usually more important than counterpicking and most of the time your teammates will be happier to see you lock in your 1k games Thresh into Morgana , rather than have you first timing a champion you think is better."
+      },
+      {
+        "tip": "If you want to practice new champions, do it on a smurf in lower MMR rather than experimenting in your main's ranked games.",
+        "rationale": "Learning a new champion in your main's games risks your teammates' experience while you figure it out.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "If you want to learn and get better at other champions too then that's amazing, but please get a smurf and practice in lower MMR as to not ruin your teammates' experience on main."
+      },
+      {
+        "tip": "Pick an enchanter when your ADC is a hypercarry like Jinx, Twitch, or Vayne.",
+        "rationale": "Enchanters have good scaling that pairs well with hypercarries who need to be kept alive into the late game.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "good scaling good with hypercarries ( Jinx , Twitch , Vayne , etc.)"
+      },
+      {
+        "tip": "Be cautious locking in Yuumi into an ADC who wants to stomp lane themselves, like Draven.",
+        "rationale": "A lane-dominant ADC would rather have active lane pressure than a passive enchanter.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": "Yuumi",
+        "excerpt": "your Draven might not be happy if you lock in Yuumi , because he's looking to stomp lane"
+      },
+      {
+        "tip": "Enchanters are good picks against champions they outrange or that can't get on top of them, like tanks, and against assassins they can deny with tools like Howling Gale or Whimsy.",
+        "rationale": "Outranging or disengage tools let enchanters neutralize matchups that would otherwise threaten a squishy carry.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "good against champions they outrange/that can't get on top of them (ex: tanks)/assassins that they can deny (for example with Howling Gale or Whimsy )/any champions they can disengage from"
+      },
+      {
+        "tip": "When an enchanter is struggling into an early-game-strong matchup, they can circumvent it by going Relic Shield instead of Spellthief's Edge to avoid trades and risky positioning.",
+        "rationale": "Relic Shield generates gold without needing to poke or stand in risky range, sidestepping the matchup's strength.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "they can usually circumvent both damage dealers and engagers by going Relic Shield instead of Spellthief's Edge to avoid trades/putting themselves in risky situations"
+      },
+      {
+        "tip": "As an enchanter, choose your summoner spell to match your game plan: Ignite to play aggressive, Exhaust into all-in champions, or Heal so your ADC is free to take Barrier or Cleanse.",
+        "rationale": "Enchanters can run almost any summoner spell, so the choice should be driven by what the lane calls for rather than a fixed default.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "they can get Ignite if they want to be aggressive, Exhaust into all-in champions, but they can also pick Heal and allow their ADCs to go with Barrier or Cleanse (for example into lanes like Ashe + Leona )"
+      },
+      {
+        "tip": "As a damage-dealer support, pick alongside champions that are strong early like Miss Fortune or Caitlyn, or self-reliant champions that don't need peel like Ezreal or Xayah.",
+        "rationale": "Damage dealers are strong early but don't provide much peel, so they pair best with carries who don't depend on protection.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "good with other champions that are strong early (ex: Miss Fortune , Caitlyn ) or self-reliant champions that don't need them to peel (ex: Ezreal , Xayah )"
+      },
+      {
+        "tip": "Be wary of playing a damage-dealer support into tanks.",
+        "rationale": "Supports have less gold than a core carry, so their damage often can't get through a tank's heavy resistances.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "as supports they have less gold, so if they're playing into tanks with a lot of resists they might prove ineffective"
+      },
+      {
+        "tip": "As a damage-dealer support, take Ignite on shorter-range champions like Brand or Twitch, or Barrier on longer-range champions like Senna or Vel'Koz.",
+        "rationale": "The summoner spell choice should offset the champion's own range profile — short range needs the extra kill pressure, long range needs the survivability.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "either Ignite for champions with shorter range (like Brand or Twitch ) or Barrier for champions with higher range (like Senna or Vel'Koz )"
+      },
+      {
+        "tip": "As a damage-dealer support, your lane job is to get kills, take turret plates, zone the enemy ADC, and get your own ADC ahead.",
+        "rationale": "This is the stated lane role for the damage-dealer archetype, distinct from an enchanter's survive-and-peel role.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "lane role: get kills, get turret plates, zone the enemy ADC, get their ADC ahead"
+      },
+      {
+        "tip": "Twitch is an exception among damage-dealer supports — he'll usually use Ambush a lot in both mid and bot to surprise the enemy team and get ahead.",
+        "rationale": "Ambush's stealth lets Twitch create surprise picks outside his own lane rather than following the standard damage-dealer lane-only pattern.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": "Twitch",
+        "excerpt": "exception: Twitch , he will usually use Ambush a lot both in mid and bot to surprise the enemy team and get ahead"
+      },
+      {
+        "tip": "Pick an engage support with ADCs who need to stomp early, like Draven, Caitlyn, Samira, or Kalista, or with champions that love heavy dive comps and CC, like Kai'Sa.",
+        "rationale": "Engagers are strong early but get outscaled by enchanters, so they're best paired with carries that can convert an early lead.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "good with ADCs who need to stomp early (ex: Draven , Caitlyn , Samira , Kalista ) or with champions that love heavy dive comps/CC (ex: Kai'Sa )"
+      },
+      {
+        "tip": "Champions with a strong defensive tool, like Dark Passage, Devour, or Black Shield, are good with hypercarries like Ashe or Jinx because they can peel for them.",
+        "rationale": "A built-in defensive tool lets an otherwise-engage-oriented champion still fulfil a peel role for a hypercarry.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "champions with a strong defensive tool (ex: Dark Passage , Devour , Black Shield ) are also good with hypercarries (ex: Ashe , Jinx ) because they can peel for them"
+      },
+      {
+        "tip": "Avoid engage supports with immobile carries that can't follow up on the engage, especially if the enemy has heavy dive like Nocturne or Camille plus Galio.",
+        "rationale": "An engage that can't be followed up wastes the engager's cooldowns and exposes them to being dove without payoff.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "bad with immobile carries that can't follow up on their engages and especially if the enemies have heavy dive (ex: Nocturne , Camille + Galio , etc)"
+      },
+      {
+        "tip": "Engage supports are good against immobile champions they can lock down, but bad against champions that can poke them down before they get a window to go in.",
+        "rationale": "Without mobility, an engager has no answer to being whittled down before they can commit to a play.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "good against immobile champions they can lock down bad against champions that can poke them down heavily before they have a window of opportunity to go in"
+      },
+      {
+        "tip": "As an engage support, your lane job is to stomp, hold strong lane presence, use bushes to zone the enemy ADC, and use your priority to help your jungler for scuttle crab and to roam mid.",
+        "rationale": "This is the stated lane role for engagers, whose goal is to win lane rather than just survive it.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "lane role: stomp, have strong lane presence, use bushes to their advantage to zone the enemy ADC, use their priority to help their jungler for crab and roam mid"
+      },
+      {
+        "tip": "Bard is an exception among engagers — it's not that he can't win lane, but what he does best is usually roaming.",
+        "rationale": "His kit is built around map-wide mobility rather than lane-dominance tools, unlike most other engagers.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": "Bard",
+        "excerpt": "exceptions: Bard , it's not that he can't win lane, but what he does best usually is roam"
+      },
+      {
+        "tip": "As an engage support in teamfights, your job is finding picks before or during the fight, zone control, and getting a good engage.",
+        "rationale": "This is the stated teamfight role for engagers, distinct from an enchanter's peel/empower role.",
+        "scope": "support",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "teamfights role: finding picks before/during fights, zone control, getting a good engage"
+      },
+      {
+        "tip": "Before committing to front-line as an engage support, be sure you actually want to go in — you're squishier than you feel and won't have a way to get out.",
+        "rationale": "Because gold income is poor as a support, engagers often feel tankier than they actually are and won't survive front-lining for long.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "because gold income is not great as a support they will not last very long front-lining, which means they need to be sure they want to go in as they won't have a way to get out"
+      },
+      {
+        "tip": "With hook or skillshot champions, remember that sometimes you create more pressure by not using the ability at all.",
+        "rationale": "Holding the threat of a hook can restrict enemy movement more than the ability itself would if used and missed.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "for champions with hooks/skillshots, remember that sometimes you create more pressure by not using an ability"
+      },
+      {
+        "tip": "When you do throw a hook or skillshot, remember most people's first instinct is to dodge backwards toward you — track how someone tends to dodge to predict which way to throw your next one.",
+        "rationale": "Recognizing an opponent's dodge pattern turns a low-percentage guess into a read you can act on.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "know that most people's first instinct will be to dodge backwards (towards you). Try to keep track of the way people dodge to predict which way to throw your next skillshot in 2nd"
+      },
+      {
+        "tip": "Against Draven, throw skillshots toward his axe — he'll be forced to either drop it or walk into your CC.",
+        "rationale": "Draven's axe-catching mechanic gives you a way to bait a reaction out of him that other matchups don't offer.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": "Draven",
+        "excerpt": "if you're playing against Draven , you can throw skillshots towards his axe, he'll be forced to either drop it or walk into your CC"
+      },
+      {
+        "tip": "When your team is losing and can't get mid lane priority, drop a ward there anyway to fake priority through vision.",
+        "rationale": "Even without real pressure on the wave, a well-placed ward gives you information in that area that substitutes for actual priority.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "by \"fake mid priority\" I mean those times when your team is losing and you're unable to get mid priority, in which case dropping a ward will help with vision in that area"
+      },
+      {
+        "tip": "Ward according to what the enemy champions specifically want to do, not just generically.",
+        "rationale": "A generic warding pattern misses the specific threats a given enemy composition creates.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "think about the enemy champions, what they want to do and ward accordingly"
+      },
+      {
+        "tip": "Against a Rek'Sai, watch for a level-2 cheese gank where she tunnels in from behind you into a flash plus knock-up.",
+        "rationale": "Rek'Sai's tunnel lets her set up an ambush from an angle players don't normally ward for that early.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": "Rek'Sai",
+        "excerpt": "if they have a Rek'Sai , remember he often cheese ganks level 2 with a tunnel from behind you into flash+knock-up"
+      },
+      {
+        "tip": "When sieging mid tower against a Fiddlesticks, be aware he can ultimate in from the Raptor camp.",
+        "rationale": "Fiddlesticks' fear-and-damage ultimate has enough range to hit a siege from a camp you might not be watching.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": "Fiddlesticks",
+        "excerpt": "if they have a Fiddlesticks and you're sieging mid tower, he can R from the Raptors camp"
+      },
+      {
+        "tip": "Remember the game clock starts at 00:00, not when minions spawn, so get early information (or deny the enemy's) before minions even arrive.",
+        "rationale": "Treating the pre-minion window as dead time forfeits the earliest information advantage of the game.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "The game starts at 00:00, not when minions spawn. That said, it's important to get as much early information as possible or at the very least make sure the enemies don't."
+      },
+      {
+        "tip": "If your jungler starts bot side, he usually places the bot-side level-1 ward himself — if he doesn't, go place it yourself.",
+        "rationale": "Whoever is already closest to that ward spot should be the one to drop it so the other player can use the time elsewhere.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "if your jungler starts bot side, he usually goes and places this one himself. If he doesn't, you can go there, start your recall at 00:38 and drop the ward at 00:45"
+      },
+      {
+        "tip": "If the enemy team has strong invade champions, drop your first ward to spot the invade as fast as possible.",
+        "rationale": "Invade-capable enemies create an early kill threat that only advance vision can neutralize.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "if the enemy team has good invade champions (ex: Pyke , Thresh ), drop one of these two wards as fast as possible"
+      },
+      {
+        "tip": "If you don't need to ward for an invade, drop your level-1 ward in lane instead to avoid a potential level-1 cheese.",
+        "rationale": "When invade risk is low, in-lane vision protects against the other common level-1 threat instead.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "if you don't need to drop a ward in either A, B or C, dropping it in lane is good to avoid a potential lvl 1 cheese"
+      },
+      {
+        "tip": "If the enemy has an early jungler that can cheese-gank level 2 off red buff, like Nunu, Twitch, or Shaco, ward to cover that path.",
+        "rationale": "Certain junglers specifically threaten an early level-2 gank off their red buff clear, which a generic ward pattern won't catch.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "if the enemy has an early jungler that can cheese gank level 2 after red (ex: Nunu & Willump , Twitch , Shaco )"
+      },
+      {
+        "tip": "On red side, swap your trinket to Oracle Lens after placing your first ward, since it gives you better lane pressure by letting you abuse bushes.",
+        "rationale": "Oracle Lens lets you clear enemy vision in the bushes you want to threaten from, which a stealth-ward trinket can't do.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "The reason for this is that you'll have better pressure in lane by giving yourself the ability to abuse bushes."
+      },
+      {
+        "tip": "When sieging, use vision to force the enemy out of the area so your team can safely knock down the objective.",
+        "rationale": "Sieging is fundamentally about denying the enemy the vision and space they need to safely contest, not just about damage.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "When you siege you basically want to force the enemies out of an area so that you can stay and easily knock down the objective (inhibitor/turret)."
+      },
+      {
+        "tip": "While sieging, use a control ward to deny vision in the area so the enemy is scared of your long-range engage tools, forcing them to choose between giving up the objective or risking a bad fight.",
+        "rationale": "Denying vision hides the threat of your engage, which makes stepping forward feel like a gamble for the enemy.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "using a Control Ward to deny vision in an area that makes the enemies scared of long range engage tools (ex: Death Sentence , Light Binding , Elastic Slingshot ), making them choose between giving up the objective or risking potentially losing a fight and getting themselves even further behind in gold"
+      },
+      {
+        "tip": "While sieging, use stealth wards to prevent your team from getting surprised by a flank or any long-range engage.",
+        "rationale": "Stealth wards cover the approach angles that a control ward focused on the objective itself might miss.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "using stealth wards to prevent your team from getting surprised by a flank or just any general long range engage"
+      },
+      {
+        "tip": "When getting sieged, use a control ward to deny vision and create a safe zone, deterring the enemy from stepping forward for fear of your engage tools.",
+        "rationale": "Denying the enemy's vision reverses the pressure — they now have to worry about your hidden engage instead of just pushing freely.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "use a Control Ward to deny vision in an area and create a \"safe\" zone for you to play in that also makes the enemies afraid of stepping forward because they might get hit by an engage tool (ex: Rocket Grab , Bone Skewer )"
+      },
+      {
+        "tip": "When defending against a siege, remember you're closer to your base than the attackers are to theirs, so you can resupply and re-ward more easily than they can.",
+        "rationale": "Proximity to base gives the defending side a structural vision-economy advantage during a prolonged siege.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "keep in mind the one advantage you have when getting sieged is that you're closer to your base than the enemies are to theirs, which generally means you have an easier time getting more wards, while they can't say the same"
+      },
+      {
+        "tip": "Track the enemy jungler's position, since it tells you when you can safely play aggressive, take plates, or leave deep wards without getting punished.",
+        "rationale": "Not knowing where the enemy jungler is removes your ability to judge how much risk any given aggressive play actually carries.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Knowing where the enemy jungler is means you know when you're allowed to be aggressive in lane/take plates/leave deep wards without getting punished."
+      },
+      {
+        "tip": "Ping your other teammates to back off when you think the enemy jungler is about to gank them.",
+        "rationale": "A timely ping can prevent a gank you can see coming from your own read of the map.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "It also doesn't hurt if you can ping your other teammates to back off when you think the enemy jungler is about to gank them."
+      },
+      {
+        "tip": "Read the enemy jungler's start side from who leashed: if their top showed but bot didn't, they probably started bot side, and vice versa.",
+        "rationale": "The lane that didn't show for its own leash is the one the jungler is starting closest to.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If top showed and bot didn't, their jungler probably started bot side. Similarly, if top didn't show and bot did, their jungler probably started top side."
+      },
+      {
+        "tip": "If no one shows for the leash, check enemy mana bars to tell if anyone used an ability to leash.",
+        "rationale": "A dip in mana is a hint of a leashing ability even when no one physically showed on screen.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If no one is showing, you can check mana bars on enemies and try to tell if anyone used any abilities."
+      },
+      {
+        "tip": "Remember that leash reads can be faked, since some junglers don't need a leash at all, like Kayn starting with Raptors, and others simply won't ask for one.",
+        "rationale": "Treating every leash read as certain ignores that some junglers structurally don't need to show for one.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "keep in mind these things can be faked, some junglers don't need a leash (ex: Kayn starting with Raptors ) and others just won't ask for one."
+      },
+      {
+        "tip": "When you lack jungler information, check which side of mid lane the enemy midlaner favors, since players tend to play toward the side that feels safer.",
+        "rationale": "A midlaner's positioning bias is an indirect but useful signal of where their own jungler currently is.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "when players don't have a lot of information, they tend to play to the side in which they feel \"safer\" so if the enemy jungler is top side, the enemy mid might be favouring the top side of mid"
+      },
+      {
+        "tip": "Compare your own jungler's pathing pattern to the enemy's, since SoloQ junglers tend to path similarly game to game — knowing both start sides lets you predict the enemy's current side from your own jungler's movement.",
+        "rationale": "Pathing habits are consistent enough in SoloQ that mirroring your own jungler's route against known start sides gives a workable prediction.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "most of the junglers you meet in SoloQ have very similar pathing, so if your jungler started bot side and is bot side now, and you also know the enemy jungler started top side, there's a good chance they're top side again"
+      },
+      {
+        "tip": "Don't assume a jungler with a worse clear is behind in tempo, since junglers will sometimes skip camps just to keep pace with the enemy jungler.",
+        "rationale": "Tempo-matching by skipping camps can offset a slower clear speed, so clear quality alone doesn't tell you who's ahead.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "even if one of the champions has a better clear than the other, junglers will sometimes skip camps just to keep up in tempo with the enemy jungler"
+      },
+      {
+        "tip": "Press tab whenever you spot the enemy jungler on the minimap to check their CS — the camps gained since your last sighting reveal where they've likely gone.",
+        "rationale": "Comparing CS between sightings lets you deduce which camps were cleared and infer the jungler's route.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "if you press tab whenever you see them on the minimap, you'll be able to tell how many more camps he's done since you've last seen them and possibly deduce where they want to go next"
+      },
+      {
+        "tip": "Practice jungle-tracking reasoning every game until it becomes a habit, since that's how your game sense develops enough to make educated guesses on jungler position.",
+        "rationale": "None of the individual tracking cues are 100% accurate, so it's the repeated habit of reasoning through them that builds real game sense.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "if you think about it often enough that it becomes a habit, your game sense will develop and you'll eventually start taking \"educated guesses\""
+      },
+      {
+        "tip": "When the enemy duo is leashing and you don't need to leash yourself, pull the level-1 wave into the bush to deny them XP from a dying ally minion.",
+        "rationale": "Dragging the wave changes minion aggro so one of your melee minions dies before the enemies reach lane, denying them that experience.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "you can step in front of the enemy minion wave at level 1 and drag it to the side as it passes in front of the first bush. Doing that changes minion aggro and one of your ally melee minions will die before the enemies reach lane, so they won't gain XP."
+      },
+      {
+        "tip": "Help your ADC attack the melee minions in the second wave so your duo hits level 2 before the enemies do.",
+        "rationale": "Level 2 grants a big ability advantage over level-1 opponents, so contesting for it first pays off in the trade that follows.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Level 2 champions have a slight HP advantage and a huge ability advantage over level 1 champions, which is why you need to help your ally by attacking the melee minions in the second wave, so that you get level 2 before your opponents."
+      },
+      {
+        "tip": "When you know you'll hit level 2 before your opponents, start walking up to them so you can capitalize the instant it hits.",
+        "rationale": "Pre-positioning means you can act on the level advantage immediately instead of losing time closing the distance after the fact.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Once you're really close to level 2 and know you will get it before your opponents, start walking up to them so that you may take full advantage of it when it hits."
+      },
+      {
+        "tip": "If the enemies are about to hit level 2 before you and start walking up, run back toward your tower.",
+        "rationale": "Being caught at level 1 against a level-2 opponent is the losing side of the same power spike you'd otherwise exploit.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Recognize when the enemies are about to get it and if they start walking up to you, run back towards your tower."
+      },
+      {
+        "tip": "Track whether the enemy has missed a key engage cooldown, like Blitzcrank's Rocket Grab or Morgana's Dark Binding, and play aggressively for the next 10-20 seconds while they can't punish you.",
+        "rationale": "A missed engage tool removes the enemy's main way to punish you for stepping up, opening a short window to trade freely.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Has Blitzcrank missed his Rocket Grab or has Morgana missed her Dark Binding ? Play aggressively for the next 10-20s since they have no real way of punishing you for it."
+      },
+      {
+        "tip": "If the enemy is holding their abilities back, bait them out by playing on the edge of their skillshot range and varying your position slightly.",
+        "rationale": "Repeated near-misses in range eventually tempt the enemy into committing an ability, at which point you know their cooldowns are gone.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Play on the edge of their skillshot range, switching your positioning slightly to be in range for their engage/poke, and they will eventually cave in and try to catch you."
+      },
+      {
+        "tip": "Before engaging, check that the number of allied minions is equal to or greater than the enemy minions, so you don't lose the trade to extra minion damage.",
+        "rationale": "Tanking creep damage on top of the enemy's damage can flip an otherwise winnable all-in.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "the number of allied minions is equal to or greater than the number of enemy minions (the last thing you want is to lose a trade because you or your ADC are tanking 500 damage from creeps)"
+      },
+      {
+        "tip": "A slight HP deficit is fine to engage into, but too large a gap can lose you the all-in even if you hit everything and play it perfectly.",
+        "rationale": "Raw HP totals set a hard ceiling on how good execution alone can save an all-in.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "it's okay if you have slightly less HP than the enemies, but too much of an HP difference might mean you'll lose the all-in even if you hit everything and play it perfectly"
+      },
+      {
+        "tip": "Watch for the enemy suddenly playing more aggressively despite losing the lane, combined with not having seen their jungler in a while, like Elise, as a signal you're about to be ganked.",
+        "rationale": "A losing laner playing bold with an unseen jungler nearby is a classic setup for a coordinated gank.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "if they were losing but they're suddenly walking up and you haven't seen their Elise in a while, it might mean you're about to get ganked"
+      },
+      {
+        "tip": "Time your engage skillshot for when the enemy ADC is locked into a last-hit auto-attack animation, since they can't dodge while committed to it.",
+        "rationale": "The animation lock removes the enemy's ability to react, giving your skillshot much better odds of landing.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "look for the enemy ADC going to last hit something and try to land your skillshot while they're locked in the autoattack animation for better odds of hitting"
+      },
+      {
+        "tip": "Always position in front of or parallel to your ADC — when the enemy support fails to do this, it becomes much easier to pressure their carry.",
+        "rationale": "Being out of position removes your ability to threaten or protect, and it lets the enemy exploit the same gap in you.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "As a support, your job is to always play in front of, or parallel to your bot laner and notice how when the enemy support does not adhere to this, it makes your job of pressuring the enemy carry that much easier."
+      },
+      {
+        "tip": "Watch for your cannon minion getting low on HP, since the enemy carry will move up to last-hit it, giving you a free window to poke or engage.",
+        "rationale": "The enemy has to choose between farming the cannon minion and reacting to you, so you get a free hit either way.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Pay attention to your minions getting low on HP (especially cannon minions), because the enemy carry will try to last hit them and that's your opportunity to walk up and poke or engage without getting damaged back"
+      },
+      {
+        "tip": "When the enemy carry is alone in lane, you can walk up and harass them or try to keep them out of XP range of their minions.",
+        "rationale": "A lone carry has no support backup, making harassment or XP denial safer than it would be against the full duo.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If the enemy carry is alone in lane, you can walk up and harass, you can try to keep him out of XP range for his minions, or even attempt forcing an all-in."
+      },
+      {
+        "tip": "To force an all-in on a lone enemy carry, fake leaving lane through fog of war, then go all the way around to flank from behind.",
+        "rationale": "Lulling the carry into thinking you've left removes their guard, and attacking from behind cuts off their easiest escape route.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "it's usually a good idea to go into fog of war and lull the enemy carry into a false sense of security that you have left the lane, and go all the way around if it allows you to position yourself behind him"
+      },
+      {
+        "tip": "If you need to back, try to do it on a cannon wave, since it can't be fully pushed in and tanks 6-7 tower hits, buying time to return before losing minions.",
+        "rationale": "The cannon minion's extra HP absorbs tower shots that would otherwise clear the wave before you get back.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "try doing so on a cannon wave, so that the enemies can't completely push it in, or that even if they do, the cannon minion tanks 6-7 tower hits, allowing you and your carry to get back to lane in time for XP"
+      },
+      {
+        "tip": "After getting a kill, push the wave in before backing.",
+        "rationale": "Pushing first means the wave is in a safer state near your tower rather than pushing into the enemy while you're both away.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you have just gotten a kill and want to back, push in the wave first."
+      },
+      {
+        "tip": "If you get an early double kill and can't push the wave before backing, leave more enemy minions than allied ones — 3 casters near your tower, or 1-2 if the wave is closer to mid-lane.",
+        "rationale": "Leaving the wave weighted toward the enemy's side prevents it from crashing dangerously into your own tower while you're both dead.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "leave more enemy minions than allied minions, depending on where the wave is (if it's closer to your tower, you will need to leave 3 caster minions, if it's closer to the middle of the lane, 1-2 casters are enough)"
+      },
+      {
+        "tip": "If your carry is absent and the wave is about to crash into your tower, tank it yourself to save the minions or set up a freeze, but only if it's safe.",
+        "rationale": "A crashing wave without anyone there to catch it costs your ADC minions and a favorable freeze, but tanking it isn't worth dying for.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If your carry is not in lane and the wave is going to crash into your tower, tank it so your ADC doesn't miss the minions or so he even sets up a freeze (but only if it's safe to do so, don't die trying to hold their wave though)."
+      },
+      {
+        "tip": "Before your carry gets items, help them farm caster minions under tower by tagging each one with a single auto-attack.",
+        "rationale": "A weak-farming ADC needs the extra help securing minions under tower before their items let them clear waves alone.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "before your carry gets items, help them farm caster minions under tower; do so by attacking them once."
+      },
+      {
+        "tip": "Buy boots and roam mid whenever possible.",
+        "rationale": "Boots make roaming efficient enough that it should be a default option rather than an occasional one.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Buy boots and roam mid whenever possible ."
+      },
+      {
+        "tip": "Roaming to mid and back to bot from base takes roughly the same time as your carry walking straight from base to bot, so you're not losing anything or risking your carry by doing it.",
+        "rationale": "The travel-time math means a mid roam after backing is essentially free relative to just walking home together.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "The time it takes you to go from base to mid and then from mid to bot is roughly the same time it takes your carry to walk from base to bot, so you are not losing out on anything and you're not risking getting your carry killed either."
+      },
+      {
+        "tip": "Good windows to roam mid include right after you've backed, or when your carry backed but you have no reason to back yourself.",
+        "rationale": "These are moments where you'd otherwise just be waiting in lane doing nothing productive.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "if your carry backed but you have no reason to back yourself (either you have no gold or haven't gotten your support quest yet so you can't replenish any wards either)"
+      },
+      {
+        "tip": "If your carry is freezing the wave safely outside your own tower with no immediate danger, that's a good window to roam.",
+        "rationale": "A safely frozen wave doesn't need your active protection, freeing you up elsewhere.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "if your carry is freezing the wave just outside your tower and is in no immediate danger"
+      },
+      {
+        "tip": "If your jungler wants to go to mid and you can get there in time too, that's a good roam window to join them.",
+        "rationale": "Arriving together with your jungler adds numbers to whatever play develops in mid.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "if you see your jungler wants to go mid and you think you can make it there in time as well, these are all good opportunities to roam mid, or even to leave some deep wards in the enemy jungle"
+      },
+      {
+        "tip": "Get used to your own roam windows so you also learn to recognize the enemy support's roam timers and can ping your team appropriately when they're likely roaming mid or top.",
+        "rationale": "Understanding your own decision points builds the pattern recognition needed to predict the enemy's.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Getting used to these scenarios means you will also get used to the enemy support's roam timers and be able to ping appropriately when you think they might be roaming mid/top"
+      },
+      {
+        "tip": "Let your jungler's position on the map guide where you roam — if they're top side, roam top with them for a numbers advantage.",
+        "rationale": "Matching your roam to your jungler's location turns a solo roam into a numbers-advantage play.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "sometimes looking at where your jungler is on the map can help you decide where to roam - for example if he's top side, maybe you can both gank top - because you're sure to have numbers advantage"
+      },
+      {
+        "tip": "If your jungler wants to take scuttle crab, try to get lane priority first and then hover around them.",
+        "rationale": "Priority frees you to leave the wave safely while still supporting the crab contest.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "if he wants to get crab, try to get lane priority and then hover around him"
+      },
+      {
+        "tip": "If your jungler is getting invaded, go help him.",
+        "rationale": "An invade in progress is an immediate threat that outweighs staying in lane.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "if he's getting invaded in his jungle, go help him"
+      },
+      {
+        "tip": "If your jungler is invading and you have lane priority, go help him.",
+        "rationale": "Having priority means you can leave lane without cost, so joining the invade is close to free value.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "if he's invading and you have lane priority, go help him"
+      },
+      {
+        "tip": "After taking the first bot tower, look to kill the current dragon next to keep snowballing.",
+        "rationale": "This is the next recommended step for converting an early tower lead into further map control.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "These are the next steps you would ideally take to snowball the game: Kill the current Dragon"
+      },
+      {
+        "tip": "If turret plates haven't fallen yet, take the top tower with your carry and place vision on the top side, otherwise go mid and let your mid laner clear waves bot.",
+        "rationale": "Which tower to prioritize next depends on whether plate gold is still available to fight over.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "If turret plates haven't fallen yet, go top with your carry and take the top tower (+place vision in the top side of the map), otherwise go mid and let your mid laner go clear waves bot"
+      },
+      {
+        "tip": "After the dragon and top tower, kill Rift Herald and use it to take the mid tower.",
+        "rationale": "This continues the snowball sequence by converting the freed-up Herald into another structure.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Kill Rift Herald Use Rift Herald mid and take the mid tower"
+      },
+      {
+        "tip": "If you lost the first bot tower, place vision around the current dragon to stop further gold bleeding.",
+        "rationale": "This is the first recommended recovery step to prevent the losing side from falling further behind.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Place vision around the current Dragon"
+      },
+      {
+        "tip": "If you lost the first bot tower, try to match wherever the enemy bot laner is going on the map.",
+        "rationale": "Mirroring the enemy bot's movement prevents them from freely capitalizing on their lead elsewhere.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Try to match wherever the enemy bot is going"
+      },
+      {
+        "tip": "If you lost the first bot tower, place vision around Rift Herald and the top side of the map.",
+        "rationale": "This continues the damage-control sequence by denying the enemy's next likely target.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Place vision around the Rift Herald and in the top side of the map"
+      },
+      {
+        "tip": "Constantly change the line of vision you provide for your team depending on which objective you need to focus on next.",
+        "rationale": "Static warding patterns stop matching the game once the objective priority shifts.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Constantly change the line of vision you provide for your team depending on which objective you need to focus on next"
+      },
+      {
+        "tip": "Walk with your jungler to help him secure camps or kills in the enemy jungle.",
+        "rationale": "Extra numbers with the jungler turn a contested camp or gank attempt into a safer, winnable one.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Walk with your jungler to help him secure camps/kills in the enemy jungle"
+      },
+      {
+        "tip": "Leave deep wards behind for bonus information on the enemy team.",
+        "rationale": "Deep vision keeps paying off even after you've moved on to your next task.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Leave behind deep wards for bonus information on the enemies"
+      },
+      {
+        "tip": "Identify your most overextended teammate and protect them by placing vision on their side of the map or being ready to help if the enemy collapses on them.",
+        "rationale": "An overextended teammate is the player most at risk of being punished, so their side of the map deserves priority vision.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Look at the state of the map and decide which teammate is the most overextended in his lane, you can protect him by leaving vision in his side of the map or being there should the enemies collapse on him"
+      },
+      {
+        "tip": "Reset for more control and stealth wards on your support item and repeat the vision cycle until you get a pick that opens up an objective.",
+        "rationale": "Picks are what convert repeated vision cycles into actual objectives, so the cycle keeps running until one lands.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Reset for more Control Ward s + stealth wards on your support item and do it all over again until you manage to get picks, which will allow you to go for objectives."
+      },
+      {
+        "tip": "Don't take an inhibitor before 20 minutes, when Baron spawns, since it gives the enemy free gold and XP without the ability to further pressure them and end the game.",
+        "rationale": "An early inhibitor without the follow-up pressure to close the game out just hands the enemy resources for nothing.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Do not get an Inhibitor before 20 mins (when Baron spawns), because you will have given the enemies free gold+XP without having the ability to further pressure them and end the game"
+      },
+      {
+        "tip": "Recognize your team's win condition and play the late game around it.",
+        "rationale": "Late-game decisions only make sense in the context of what actually wins your team the game.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "Recognize win conditions and play around them."
+      },
+      {
+        "tip": "In a 1-3-1 comp with your strongest member split-pushing bot, leave wards in the enemy's bot-side jungle to protect them and read enemy rotations.",
+        "rationale": "Vision on that side both warns your split-pusher of danger and reveals how many enemies are committing to stop them.",
+        "scope": "support",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "if you have a 1-3-1 comp with your strongest member split-pushing bot because they have Teleport for Baron, you can leave wards in the enemy bot side jungle"
+      },
+      {
+        "tip": "If vision shows 2 or more enemies on the bot side of the map, that's your team's window to start Baron or take a tower mid or top.",
+        "rationale": "A committed enemy response bot side means fewer of them are available to contest elsewhere.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "if 2+ enemies are on the bot side of the map, it means you can start Baron or take a tower mid/top"
+      },
+      {
+        "tip": "If the enemy is too scared to contest, either start Baron when they go bot, or let your split-pusher take free towers or even an inhibitor.",
+        "rationale": "Enemy passivity itself is a resource to be converted into whichever objective is currently uncontested.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "If nobody shows because the enemies are too scared you will start Baron if they go bot, your split-pusher can get free towers or even an Inhibitor"
+      },
+      {
+        "tip": "With a teamfight comp, walk with your team constantly denying enemy vision and placing your own, forcing them into unfavorable fights you can convert into objectives.",
+        "rationale": "A teamfight comp's win condition is winning fights, so vision control should be aimed at manufacturing favorable ones.",
+        "scope": "support",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "if you have a teamfight comp, you can walk with your teammates to constantly deny vision from the enemies and place your own, forcing them to walk into unfavourable fights which allows your team to translate that into objectives"
+      },
+      {
+        "tip": "After winning a pick or teamfight, prioritize objectives in this order: Elder Dragon, then Inhibitor, then Baron Nashor, then Turret.",
+        "rationale": "This priority order reflects which objectives compound most effectively into further map control.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "A basic idea on which objectives to focus after you get a pick/win a teamfight: Elder Dragon > Inhibitor > Baron Nashor > Turret"
+      },
+      {
+        "tip": "Prefer taking an inhibitor before Baron when you have the choice, since the inhibitor creates map pressure that can force the enemy into a lose-lose and let you get Baron anyway.",
+        "rationale": "Inhibitor pressure tends to snowball into more inhibitors or map pressure toward Dragon Soul or Elder, whereas Baron alone rarely nets more than one or two inhibitors.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "getting the Inhib creates a point of pressure on the map, which makes it easier to then force the enemies into a lose-lose situation and granting you Baron, resulting into pushing more lanes and getting more Inhibitors or getting map pressure for an upcoming objective like Dragon Soul or Elder"
+      },
+      {
+        "tip": "If it's a straight trade of Baron for an inhibitor, take the Baron, since super minions the enemy can't push into while you hold Baron plus the bonus gold and XP outweigh the inhibitor.",
+        "rationale": "Baron's active-buff value in that specific trade scenario beats the passive value of a single inhibitor.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "if this is about trading Baron for Inhibitor, I'd take the Baron 10/10 times because even with super minions the enemies won't be able to push (since you have Baron) and you get bonus gold+XP"
+      },
+      {
+        "tip": "Constantly reassess each enemy champion's strengths and weaknesses in the late game, like whether Xerath finished Rabadon's Deathcap or Jhin used his Heal last fight.",
+        "rationale": "Late-game power spikes and used cooldowns change what each enemy champion can actually threaten you with fight to fight.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "Constantly reassess each champion's strengths and weaknesses. Did Xerath finish Rabadon's Deathcap ? Did Jhin use his Heal last fight? Keep track of everything ."
+      },
+      {
+        "tip": "Track enemy summoner spell cooldowns proactively, since finding out only after a Vladimir flash-wipes your team is already too late.",
+        "rationale": "Knowing a dangerous cooldown is down beforehand lets you play around it instead of discovering it the hard way.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "Telling yourself \"I didn't know Vladimir had Flash \" after he wipes your entire team is not going to save your LP, but knowing his summoner spell CD just might"
+      },
+      {
+        "tip": "Since supports are the only champions still carrying control wards in the later stages of the game, the whole map gets much darker, and you need to play safer accordingly.",
+        "rationale": "Reduced overall vision late game increases the risk of every individual play, so caution has to rise to match it.",
+        "scope": "support",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "With supports being the only champions carrying Control Ward s in their inventories in the later stages of the game, the whole map is going to be a whole lot darker, and you need to play safer ."
+      },
+      {
+        "tip": "If you need to clear or establish vision late game, walk with your teammates, not alone.",
+        "rationale": "Solo vision plays late game are exactly the kind of isolated target a coordinated enemy can pick off.",
+        "scope": "support",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "If you need to clear or establish vision, walk with your teammates, not alone"
+      },
+      {
+        "tip": "Stick close to your highest-damage teammates in the late game and prioritize keeping them alive.",
+        "rationale": "A team's win condition late game usually rides on its highest-damage members surviving to deal that damage.",
+        "scope": "support",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "Stick to the teammates that do the most damage in fights and do your best to keep them alive."
+      },
+      {
+        "tip": "Don't let your carries facecheck brushes late game, and stay near them if they need to farm a side lane, especially against assassins like Rengar.",
+        "rationale": "A carry caught alone by an assassin in a side lane can lose the game outright in the late-game economy.",
+        "scope": "support",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "Don't let them facecheck and be sure to stay nearby if they need to farm in a side lane, especially if the enemies have an assassin such as Rengar ."
+      },
+      {
+        "tip": "Buy an Elixir of Iron when you know there's going to be a fight.",
+        "rationale": "Timing the elixir to a known upcoming fight gets full value from its duration instead of wasting it early.",
+        "scope": "support",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "Buy an Elixir of Iron when you know there's going to be a fight"
+      },
+      {
+        "tip": "If you know a specific enemy ability will kill you if it lands, flash to dodge it.",
+        "rationale": "Preserving Flash for a known lethal threat is a better use of the cooldown than holding it indefinitely.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "If you know an ability can end up killing you if it hits, Flash it"
+      },
+      {
+        "tip": "Don't overextend without vision.",
+        "rationale": "Without vision you can't see the threat that punishes an overextension until it's already too late.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "Don't overextend without vision"
+      },
+      {
+        "tip": "Don't overextend just to place vision.",
+        "rationale": "The value of a ward isn't worth dying for if placing it requires walking into danger.",
+        "scope": "support",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "Don't overextend for vision"
+      },
+      {
+        "tip": "Track objective timers and be back on the map at least 30 seconds before they spawn, ideally starting to set vision a full 60 seconds ahead to leave time to recall and restock wards.",
+        "rationale": "Arriving late to contest vision around an objective leaves your team blind right when it matters most.",
+        "scope": "support",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "Keep track of the objective timers because you need to reset and be back out on the map at least 30s before they spawn , but preferably you start setting out vision a full 60s before they spawn, giving yourself time to recall and replenish your wards"
+      }
+    ]
+  },
+  {
+    "source_id": "shodesu-mid-late-game-macro_FytX3ECnvzE",
+    "drafts": [
+      {
+        "tip": "In the mid/late game, focus on two things: playing around your most-fed player and setting up objectives, achieved by providing and denying vision while factoring in wave state and enemy/ally position.",
+        "rationale": "This is the overarching framework the rest of the mid/late macro guide builds on.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "things you need to focus on is playing around your most fed player or players and setting up objectives you can achieve this by providing and denying Vision but you have to factor in wave state and and where the enemy and your"
+      },
+      {
+        "tip": "Frequently check your scoreboard to identify your team's strongest player each game — the more aware you are of the game state, the less you'll autopilot.",
+        "rationale": "Which teammate to play around changes every game, so it has to be actively checked rather than assumed.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "scoreboard to see who that is every game is going to be different sometimes you'll have multiple people to play around and other times you might just have one the more aware you are about the game State the less you'll autopilot"
+      },
+      {
+        "tip": "Don't just default to sitting with your ADC once the first tower falls — that's not always correct.",
+        "rationale": "Supports often autopilot into babysitting their ADC out of habit even when it stops being the right call.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "speaking of autopiloting a lot of supports tend to default sit with their ADC once the first Tower Falls which sometimes it makes sense to do if you win Lane but this is not always correct abandon the idea that you need to"
+      },
+      {
+        "tip": "ADCs need handholding during the laning phase, but once that's over, you're free to help whoever on your team needs it most.",
+        "rationale": "The reason to stay with your ADC is specific to the laning phase's power dynamics, and that reason goes away once it ends.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "babysit your ad carry all game adcs need handholding in the early game/ laning phase but once that's over you can help whoever on your team"
+      },
+      {
+        "tip": "Place wards relative to your most-fed player's wave state so they can see which enemies are rotating toward them and play aggressively.",
+        "rationale": "Vision tuned to that player's specific wave state gives them exactly the information needed to press their lead safely.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "they're in to give them a lot of room to spread their lead Ward should be Place relative to the wave state of the strongest player so that it allows them to see which enemies are rotating to them so they can play aggressively"
+      },
+      {
+        "tip": "After placing wards for your fed player, hover just out of vision to set up a play, or recognize when you're outnumbered and shouldn't take the fight.",
+        "rationale": "Wards alone don't create the play — staying positioned to react while reading the numbers is what turns vision into a play.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "once you have Wards down you'll want to hover them out of vision and set up for a play or sometimes you might just have to not take a fight if you are outnumbered"
+      },
+      {
+        "tip": "Before warding deep in the enemy jungle, use your vision cone to clear enemy wards at the entrance first, so you aren't seen entering.",
+        "rationale": "Clearing the entrance denies the enemy the information that would otherwise reveal you walking in.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "in a way where you won't get caught the way I approach this is using the vision cone to clear out enemy Vision at the entrance of the Jungle I want to make it so that I'm not seen entering"
+      },
+      {
+        "tip": "Use full knowledge of where the enemy team currently is on the map to time a safe walk into their jungle for a deep ward.",
+        "rationale": "Knowing every enemy's location is what actually makes a deep-ward walk safe rather than a guess.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "using this information I know I have a timing to walk into the enemy jungle to Ward and not get"
+      },
+      {
+        "tip": "Deep wards let you catch the enemy rotating and free your fed player to split-push aggressively, since threats can be seen coming.",
+        "rationale": "Vision on the rotation paths converts directly into safety for whichever teammate is being set up to snowball.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "the wards I'm placing are very deep and because of that we can catch out Nautilus trying to rotate because I am setting up for Jax our most fed player we are enabling him to split"
+      },
+      {
+        "tip": "When a dragon, Herald, or Baron is coming up, decide early whether your team can take it or needs to give it up.",
+        "rationale": "This decision has to be made ahead of time rather than reactively once the fight for the objective is already happening.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "when a dragon Herald or Baron is coming up you have to decide if your team can take it or if you're going to give it up if you're going to attack attempt to take the objective"
+      },
+      {
+        "tip": "If your team has the forward position or controls the area around the objective, ward around it and look for picks even before you've started taking it.",
+        "rationale": "Forward map control makes it easy to both secure the objective and punish anyone who tries to contest it.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "has the forward position or if they can control the area around the objective it's pretty easy to set up or take you should Ward around the objective and try to look for picks if you haven't started it already"
+      },
+      {
+        "tip": "If your team is taking the objective, either look for an angle to engage or look to deny the enemy jungler from entering the pit.",
+        "rationale": "These are the two active options available to the team already committed to taking the objective.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "look for an angle to engage or look to deny the enemy jungler from entering the pit"
+      },
+      {
+        "tip": "Always ward whichever side of the objective the enemy team is on, to give your team more vision to work with.",
+        "rationale": "Vision on the enemy's approach side is what actually informs the engage-or-deny decision.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "make sure to always Ward whichever side the enemy team is on to give your team more Vision to work with"
+      },
+      {
+        "tip": "If you're engaging around an objective, make sure to engage in a way where your team can actually follow up.",
+        "rationale": "An engage your team can't follow up on wastes the play instead of converting it into the objective.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "on a side note if you are engaging make sure to engage in a way where your team can follow up"
+      },
+      {
+        "tip": "When you get a pick and go for an objective, force the enemy team to take a fight if they contest it rather than letting the junglers settle it with a 50/50 smite.",
+        "rationale": "Forcing the fight uses your numbers advantage instead of leaving the objective to an even coin-flip smite race.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "mid/late game is when you get a pick and you want to go for an objective Force the enemy team to take a fight if they contest it you don't want to have the junglers take a 50/50 smite battle if"
+      },
+      {
+        "tip": "Force a fight while taking the objective rather than risk a 50/50 smite — winning the fight first, then securing the objective, is the best case.",
+        "rationale": "Being up a player from an earlier pick makes winning the fight the more likely path to the objective than a coin-flip smite.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "to avoid that we want to force a fight as we are taking the objective instead because we will most likely win it due to them being down a player the best case scenario is winning"
+      },
+      {
+        "tip": "If you're at a numbers disadvantage, your goal, depending on how important the objective is, is either to prevent the enemy from taking it or to let your jungler take the 50/50 smite.",
+        "rationale": "Being outnumbered flips your options to the defensive side of the same fight-or-smite decision.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "try to prevent the enemy team from taking the objective or to try to have your jungler take the 50/50 in this example the enemy has control of the river for Baron a fight"
+      },
+      {
+        "tip": "If your jungler doesn't want to risk a 50/50 smite for the objective, they can force an engage instead of staying on the contest.",
+        "rationale": "Forcing an engage is a way to convert a bad smite race into a fight the team might actually win.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "the enemy jungler Zach does not want to take the 50/50 so he forces an engage instead of staying on it which is the"
+      },
+      {
+        "tip": "Most dragons and Heralds are expendable, but Baron, Dragon Soul, and Elder are potentially game-ending — don't give those up even at a disadvantage most of the time.",
+        "rationale": "The scale of impact from Baron, Soul, and Elder is high enough that it's usually worth contesting them regardless of the numbers.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "this is not true for Baron soul and Elder these are potentially game-ending Buffs and you are going to most of the time not want to give these up even at a disadvantage most of the time you want"
+      },
+      {
+        "tip": "For game-ending objectives like Baron, Soul, or Elder, try to put up a fight or at least get the enemies off them, even at a disadvantage.",
+        "rationale": "Even a partial disruption of the enemy's attempt denies them the full value of the objective.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "to try to put up a fight or at least get the enemies off these objectives like in the previous example if you are at a disadvantage and it's something like third dragon or second Herald it's fine"
+      },
+      {
+        "tip": "It's fine to give up a lesser objective, like a third dragon or second Herald, at a disadvantage if you have no vision near it or would be taking a 4v5.",
+        "rationale": "Contesting a lower-value objective without vision or with a numbers deficit risks losing a fight for something that isn't worth it.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "to give it up when you have no vision anywhere near the objective or you are potentially going to take a 4v5 it's not worth it to fight if your team has decided that they want to give up an objective go set up the other side of"
+      },
+      {
+        "tip": "If your team decides to give up an objective, immediately go set up the other side of the map instead of lingering near it.",
+        "rationale": "There's no benefit to holding position near an objective you've already committed to conceding.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "if your team has decided that they want to give up an objective go set up the other side of"
+      },
+      {
+        "tip": "Don't bother trying to get vision or hover an objective your team has already conceded, since the enemy is just going to take it.",
+        "rationale": "Vision spent on a lost objective is wasted resources that could be repositioned elsewhere.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "the map there's no point of trying to get Vision or hovering the area if the enemies are just going to take it in the mid/late game when one side of an objective is taken you'll most likely be"
+      },
+      {
+        "tip": "When the enemy is taking an objective, it's usually safe to enter the jungle on the other side of the map, since most of their team is occupied at the objective.",
+        "rationale": "A team committed to contesting an objective can't simultaneously defend the opposite side of the map.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "fighting for control on the other side when the enemy is taking the objective you'll be safe to enter the jungle on the other side because the majority of the enemy team is going to be at the the objective that's being taken once you do"
+      },
+      {
+        "tip": "Once you've set up the other side of the map and the enemy resets from their objective, look for a pick as they try to re-enter.",
+        "rationale": "A team returning from an objective is walking back into contested territory you've had time to prepare.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "have the area set up and the enemy resets you can look to pick the enemy as they will try to enter in this example we are giving up Herald because they have a little too much control and"
+      },
+      {
+        "tip": "When entering the enemy jungle blind without a positional advantage, enter through a lane with minions, pushing the wave so the minions walk forward, or use a vision cone.",
+        "rationale": "Minions absorbing the front angles or a vision cone clearing ahead of you are what make a blind entry survivable.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "have the advantage in position and you have to enter the jungle blind the correct way of doing this is to enter through a lane with minions or to use a vision cone you want to push a wave so that the minions can walk forward and"
+      },
+      {
+        "tip": "Pushing a wave forward before entering a blind jungle is the safest way to do it, since it removes the angles and bushes enemies could ambush from.",
+        "rationale": "Fewer open angles and unchecked bushes directly means fewer places an ambush can come from.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "the reason why this is the safest way of walking through a blind jungle is because there are less angles and bushes for the enemies to be in once you get"
+      },
+      {
+        "tip": "If you don't know where the enemy is and your team isn't walking with you, wait for them — never go alone into a blind jungle.",
+        "rationale": "Going in alone without team support or information removes your ability to react if the enemy is waiting.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "if you don't know where the enemy is on the map and your team is not walking with you you need to wait for them never go"
+      },
+      {
+        "tip": "Retake control of your jungle slowly and methodically when leveraging an initial ward for more vision, since most supports get caught rushing this.",
+        "rationale": "Moving too fast off a single ward's information is what typically gets supports caught during a retake.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "retaken a crucial part of our jungle I use this W to leverage more vision and to finally get the first ward in the river it's very crucial to do this slowly and methodically as most supports"
+      },
+      {
+        "tip": "While retaking vision and control of the jungle, the priority is waiting for more information on where everyone is and moving accordingly, rather than rushing in.",
+        "rationale": "Patience for more information reduces the chance of walking into an enemy you haven't spotted yet.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "will get caught during this process the most important thing to consider while doing this is waiting to get more information of who is where and moving accordingly in the late game if objectives aren't up or Baron has been"
+      },
+      {
+        "tip": "When your team is sieging, put wards deep into the enemy base while denying all vision outside of it.",
+        "rationale": "Deep base vision combined with denying the enemy's outside vision is what makes a siege safe to execute.",
+        "scope": "support",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "if your team is sieging you want to put Wards deep into their base while denying any and all Vision outside of it it doesn't make"
+      },
+      {
+        "tip": "Don't waste wards in your own jungle while preparing to siege, since the goal is to make it hard for the enemy to step out.",
+        "rationale": "Vision spent in your own jungle doesn't contribute to the actual siege objective of trapping the enemy in their base.",
+        "scope": "support",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "sense to put Wards in your jungle as you are walking out to prepare to Siege your goal is to make it very hard for the enemy to step out and to enable your"
+      },
+      {
+        "tip": "While sieging, look for angles to catch the enemy while your team hits turrets and takes resources from their jungle.",
+        "rationale": "A siege isn't just structure damage — the vision it creates also opens up picks and jungle resources.",
+        "scope": "support",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "team to find angles to catch the enemy while hitting turrets and taking all the resources from their jungle in this example we are sieging with Baron and I'm only using my WS in the red outside jungle in around their base if I'm sieging"
+      },
+      {
+        "tip": "When sieging tier 2 towers, always ward the path that connects them so you can see if anyone is rotating.",
+        "rationale": "The connecting path is exactly where a rotating enemy would appear to threaten a flank on the siege.",
+        "scope": "support",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "tier 2 Towers I always Ward the path that connects them so we can see if anyone is rotating I clear any wards that they Place into the space whenever my sweeper"
+      },
+      {
+        "tip": "Clear enemy wards with your sweeper whenever it's off cooldown while sieging, so they have no information on where your team could be in the jungle.",
+        "rationale": "Denying enemy vision on top of your own removes their ability to read where a flank or pick might come from.",
+        "scope": "support",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "is off cool down because they have no information of where we could be in the jungle we have a lot of angles to look to catch out the enemy in this next example we are sieging their tier three turrets with Baron and I have very"
+      },
+      {
+        "tip": "Placing a pink ward and then warding over a wall behind it is one of the best ward setups for catching out the enemy.",
+        "rationale": "The pink denies the immediate area while the ward over the wall gives sight into where enemies would try to reposition from.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "aggressive Wards here using a pink and then warding over a wall is one of the best Ward strategies in Catching out the enemy you'll see this Ward set up a lot at the entrance of jungles when a team"
+      },
+      {
+        "tip": "When defending, ward the area around your base similarly to how you'd enter a blind jungle, using an initial ward to leverage more vision.",
+        "rationale": "The same information-gathering approach that makes entering a blind jungle safe also applies to defending your own base.",
+        "scope": "support",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "is looking to pick players rotating if you are defending you're going to try to Ward the area around your base it's very similar to how you enter a jungle blind and that you are going to use an initial"
+      },
+      {
+        "tip": "When defending, walk with your team and slowly retake control rather than rushing back into contested space.",
+        "rationale": "A rushed retake risks running into the exact ambush that a patient, team-supported retake avoids.",
+        "scope": "support",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "Ward to leverage Vision make sure to walk with your team and try to slowly retake control in this example you can see both sides of the offensive warding and defensive warding I pink the wall to"
+      },
+      {
+        "tip": "Playing around your fed player and taking objectives aren't separate tasks — even while going for objectives, keep playing around your most fed player and avoid fighting without them.",
+        "rationale": "This holds true for the entirety of the game, since League is fluid enough that the two priorities never really separate.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "these things are true for the entirety of the game as you are taking objectives you still need to make sure you are playing around your most fed player make sure to fight with them and avoid taking fights without them this graph was a lot"
+      },
+      {
+        "tip": "Always have a macro goal in mind as you play League.",
+        "rationale": "A concrete goal is what keeps decision-making purposeful instead of reactive.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "should always have a macro goal in mind"
+      },
+      {
+        "tip": "If you're ever lost on what to do mid-game, review the VOD afterward and think about what you should have done.",
+        "rationale": "Reviewing your own decisions after the fact is how the underlying macro concepts actually get internalized.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "if at any point of the game you are lost or not sure what to do take the time to look back at the VOD and think about what you should have done"
+      }
+    ]
+  }
+]

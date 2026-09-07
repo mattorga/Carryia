@@ -1,0 +1,17 @@
+{
+  "source_id": "mobalytics-wave-management",
+  "changes": [
+    {
+      "kind": "repair",
+      "line": 11,
+      "before": "agro",
+      "after": "aggro"
+    },
+    {
+      "kind": "repair",
+      "line": 19,
+      "before": "Kog’maw",
+      "after": "Kog’Maw"
+    }
+  ]
+}

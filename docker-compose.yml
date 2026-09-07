@@ -1,0 +1,74 @@
+# Carryia -- one-command stack (P0-9). `docker compose up` brings up:
+#   db       Postgres: the monitoring store; creates the schema from docker/init.sql
+#            on first boot.
+#   app      the Streamlit coach (P0-7), writing each ask to Postgres (P0-8).
+#   grafana  the monitoring dashboard (P0-8), auto-provisioned against Postgres.
+#
+# The reviewer's LLM key comes from a local .env (copy .env.example). Compose auto-loads
+# .env for the ${...} substitutions below; absent a key, the app still starts and shows a
+# friendly error only when a question is asked.
+#
+# App:     http://localhost:8501
+# Grafana: http://localhost:3000  (admin / admin)
+name: carryia
+
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: carryia
+      POSTGRES_PASSWORD: carryia
+      POSTGRES_DB: carryia
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      # Runs once, on first boot of an empty pgdata volume. After a schema change,
+      # recreate it with `docker compose down -v`.
+      - ./docker/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U carryia -d carryia"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+    # No host port: Postgres is reached over the compose network by service name
+    # (app via DATABASE_URL, Grafana via its datasource). Not publishing it avoids
+    # colliding with a reviewer's own local Postgres on 5432.
+
+  app:
+    build: .
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      # The app reads DATABASE_URL to reach Postgres inside the compose network.
+      DATABASE_URL: postgresql://carryia:carryia@db:5432/carryia
+      # LLM backend + credentials, substituted from the local .env (defaults keep the
+      # container starting even when unset).
+      CARRYIA_LLM_BACKEND: ${CARRYIA_LLM_BACKEND:-anthropic}
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+      AWS_BEARER_TOKEN_BEDROCK: ${AWS_BEARER_TOKEN_BEDROCK:-}
+      AWS_REGION: ${AWS_REGION:-us-west-2}
+      CARRYIA_MODEL: ${CARRYIA_MODEL:-}
+      CARRYIA_BEDROCK_MODEL: ${CARRYIA_BEDROCK_MODEL:-}
+    ports:
+      - "8501:8501"
+
+  grafana:
+    image: grafana/grafana:11.3.1
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      GF_SECURITY_ADMIN_USER: admin
+      GF_SECURITY_ADMIN_PASSWORD: admin
+      GF_USERS_ALLOW_SIGN_UP: "false"
+    volumes:
+      # Datasource + dashboard provider configs, and the dashboard JSON itself.
+      - ./docker/grafana/provisioning:/etc/grafana/provisioning:ro
+      - ./docker/grafana/dashboards:/var/lib/grafana/dashboards:ro
+      - grafana-data:/var/lib/grafana
+    ports:
+      - "3000:3000"
+
+volumes:
+  pgdata:
+  grafana-data:

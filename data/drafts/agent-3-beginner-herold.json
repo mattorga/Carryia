@@ -1,0 +1,180 @@
+[
+  {
+    "source_id": "skill-capped-complete-beginner-guide-2026_HKqhMssvwMI",
+    "drafts": [
+      {
+        "tip": "As a brand-new player, start with League's in-game tutorial before jumping into real matches.",
+        "rationale": "It's the fastest way to get comfortable with basic movement, abilities, and item purchases before facing real opponents.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "First up, the best place for any new player to start is the League tutorial."
+      },
+      {
+        "tip": "Pick Flash as one of your two summoner spells in almost every game once you've unlocked it.",
+        "rationale": "Its short-cooldown escape and engage utility make it valuable in nearly every matchup, which is why it's the default second summoner spell.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "I say pick, but basically one of those is almost always going to be flash once you unlock it"
+      },
+      {
+        "tip": "As a beginner, put your skill point into whichever ability is highlighted when you level up.",
+        "rationale": "The game's recommended ability highlight reflects a sensible default skill order, so following it saves a new player from having to learn ability priority from scratch.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "recommended ability is just going to start flashing when you gain a level, and you can confidently put your point there as a beginner."
+      },
+      {
+        "tip": "As a new player, hide the character/rune stats panel to reduce screen clutter.",
+        "rationale": "That information isn't actionable for a beginner yet, so keeping it hidden simplifies the HUD and keeps focus on the essentials.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "we're going to recommend just hiding it for now and reduce the screen clutter and just keep things really, really simple."
+      },
+      {
+        "tip": "Check the minimap in quick glances during downtime, like when walking back to lane, rather than trying to watch it constantly.",
+        "rationale": "Trying to track everything on the map at once is overwhelming for a beginner, and awareness improves naturally with quick, well-timed glances.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "glances during the downtime that you have, like when you're walking back to lane or when nothing urgent is going to be happening on your screen."
+      },
+      {
+        "tip": "As a beginner, don't stress about tracking every objective timer -- that awareness comes naturally with experience.",
+        "rationale": "Objective knowledge is something that builds up through repeated play, so worrying about it early just adds unnecessary pressure.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "And when just starting out, please do not stress too much about objectives."
+      },
+      {
+        "tip": "Don't leave your lane to roam for kills without good reason -- you bleed gold and experience from minions the whole time you're gone.",
+        "rationale": "Missed minions cost steady, guaranteed gold and experience, so an opportunistic roam has to be worth more than that loss.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Sure, you might pick up a kill or two roaming around the map to other lanes, but you'd be bleeding gold and bleeding experience the entire time you do it."
+      },
+      {
+        "tip": "Prioritize last-hitting minions -- it's one of the most crucial skills to develop to get better at League.",
+        "rationale": "Consistent last hits are a steady, low-risk source of gold and experience that compounds over the course of a lane.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "that last hit on minions is one of the most crucial skills to develop in League and get better."
+      },
+      {
+        "tip": "Value winning a trade even without a kill, since forcing your opponent to recall denies them gold and experience while they're away.",
+        "rationale": "A recall costs the opponent an entire minion wave's worth of gold and experience, which is a real gain even without a kill.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "You could force that champion to have to return to base and heal. They're going to miss out on gold and experience from minions while they're gone."
+      },
+      {
+        "tip": "When you have lane priority, use it to leave your lane first and help your team contest objectives.",
+        "rationale": "Lane priority means your opponent can't punish your lane while you're gone, so it's the safe window to go help elsewhere.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "happens, you've now got what we like to call lane priority. Just a fancy way of saying that you're the one in control. With lane priority, you're able to leave your lane first if your team needs help"
+      },
+      {
+        "tip": "As a beginner, trust the game's suggested rune pages and recommended item builds.",
+        "rationale": "Those suggestions are pulled from what other players commonly build on that champion, so they're a safe, low-effort starting point.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "you honestly really can't go wrong here as all Riot does is pull the data for these items and rune builds from what other players are most commonly building on that specific champion."
+      },
+      {
+        "tip": "Switch your camera setting from dynamic to free camera.",
+        "rationale": "Dynamic camera restricts your view and makes it harder to track fights, which is why experienced players use free camera instead.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "the majority of players opt for free camera as this just gives you complete control."
+      },
+      {
+        "tip": "Reduce your HUD size from the default 100 down to around 50.",
+        "rationale": "A smaller HUD leaves more of your screen visible for tracking the actual game.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "reduce the size of the HUD. By default, this is set to 100, but we recommend somewhere around 50"
+      },
+      {
+        "tip": "Increase the size of your minimap from its default setting.",
+        "rationale": "A larger minimap makes it easier to read at a glance, which directly improves map awareness.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "we suggest increasing the size of your mini map."
+      },
+      {
+        "tip": "Enable the 'show spell cost' setting so ability mana costs display on their icons.",
+        "rationale": "Seeing mana costs at a glance makes it easy to tell whether you can afford your full combo before committing to a fight.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "enable show spell cost, which is located right here."
+      },
+      {
+        "tip": "If you want a support who heals, shields, and buffs to keep allies safe, play Milio as a beginner.",
+        "rationale": "His whole kit is built around protecting and empowering allies, making the enchanter playstyle intuitive to pick up.",
+        "scope": "support",
+        "phase": "all",
+        "champion": "Milio",
+        "excerpt": "If you're looking to heal, shield, buff, and keep your allies safe, then Milio does it all."
+      },
+      {
+        "tip": "If you want a tanky, engage-focused support who creates plays by locking enemies down, play Leona as a beginner.",
+        "rationale": "Her kit is built entirely around chaining crowd control to lock down a target, making the engage playstyle straightforward to learn.",
+        "scope": "support",
+        "phase": "all",
+        "champion": "Leona",
+        "excerpt": "But if rather than keeping your team alive, you enjoy making plays, being a tanky frontliner, and locking enemies down, you need to try out Leona."
+      }
+    ]
+  },
+  {
+    "source_id": "herold-na-how-to-play-league-of-legends_-hA68UuaT9g",
+    "drafts": [
+      {
+        "tip": "To find a champion you enjoy, browse the collections tab, click on one that looks interesting, and read what its abilities do.",
+        "rationale": "Trying out champions by their abilities is a low-commitment way for a beginner to discover a playstyle they like.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "Takes time to learn, but if you want to know which one to play, just go to the collections tab, go to champions, click one you think looks cool, and click abilities and read what they do."
+      },
+      {
+        "tip": "If you don't recognize an enemy champion in game, mouse over their name in the scoreboard to find it, then look them up on the league wiki.",
+        "rationale": "Knowing what an unfamiliar enemy's kit does is necessary to play around their threats, and this is the fastest way to learn it mid-game.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "mouse over their name in the scoreboard, find their champion name, and look it up on the league wiki."
+      },
+      {
+        "tip": "To learn how to build a champion, read its abilities to see what stats they scale with, then build items around those stats.",
+        "rationale": "A champion's scaling stats determine which items actually make its abilities stronger, so reading the kit text is the direct way to figure out a build.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "So, if you want to learn your character, read the abilities and then read what they scale with, and then that'll tell you what items to build."
+      },
+      {
+        "tip": "As a beginner, just buy the game's recommended items rather than trying to memorize the full item pool.",
+        "rationale": "The suggested shop items are a reasonable default build, so leaning on them lets a new player play instead of getting stuck memorizing 200+ items.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "memorize over 200 items and all the stats and unique passives they have, but I'll make it easy for you. Just buy the recommended items."
+      }
+    ]
+  }
+]

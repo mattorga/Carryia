@@ -1,0 +1,590 @@
+[
+  {
+    "source_id": "xpetu-late-game-concepts_76P7yuf_50Y",
+    "drafts": [
+      {
+        "tip": "Treat every decision in the late game as potentially game-deciding, since the margin for error shrinks dramatically once the game reaches the end-game stage.",
+        "rationale": "Late-game fights and objective calls resolve so quickly that a single misplay can swing the outcome, unlike earlier phases where mistakes are more recoverable.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "You're in the end game now, where any one decision can mean the difference between winning or losing."
+      },
+      {
+        "tip": "Be willing to sacrifice a piece (an objective, a tower, even a teammate) in order to win the larger fight for the game in the late game.",
+        "rationale": "Late-game wins often come from trading a smaller loss for a bigger strategic gain rather than trying to hold onto everything.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "In many of the end game scenarios, it is necessary to sacrifice a piece in order to win the game."
+      },
+      {
+        "tip": "Recognize that a temporary advantage, like a Baron buff, can be more valuable in the late game than a permanent one, like a dragon soul.",
+        "rationale": "Temporary power spikes can be leveraged immediately to force objectives or fights, while permanent buffs only matter if you survive long enough to use them.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "more valuable in the late game than permanent ones. In this case, because we have the baron buff, getting mid lane priority is the most important thing for"
+      },
+      {
+        "tip": "Don't tunnel vision on securing one objective, like a dragon soul, if contesting it is hopeless; take mid lane priority instead when that's the smarter play.",
+        "rationale": "Chasing a lost objective wastes resources you could instead use to secure map control that's actually winnable.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "tunnel vision on the soul, and instead seeked mid priority."
+      },
+      {
+        "tip": "Recall to reset when you still have enough time before the next objective spawns, rather than forcing a fight.",
+        "rationale": "Resetting for items and health before an objective window closes gives you a stronger position than fighting under-prepared.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "In this scenario, recalling is the correct option because there's still 23 seconds until the dragon."
+      },
+      {
+        "tip": "Override your default plan and force a fight immediately if you spot an enemy carry badly out of position.",
+        "rationale": "A caught-out enemy carry is a rare, time-sensitive opportunity that outweighs a more conservative default plan like recalling.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "But, you do notice this. Viego is behind our Smolder. So, I'm going to immediately"
+      },
+      {
+        "tip": "Use the empowered recall from Baron buff to shuttle between objectives faster than the enemy can leverage mid lane priority alone.",
+        "rationale": "Faster movement lets you contest or take a second objective before the enemy's priority advantage can be converted.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "And therefore, we have the empowered recalls, which allows us to move from the dragon to our base much faster."
+      },
+      {
+        "tip": "When a fight or scenario goes wrong in the late game, first ask yourself how you can survive before anything else.",
+        "rationale": "Securing survival preserves your options; a dead champion has no further influence on the game.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "I have two questions that you need to be asking yourself. Ask yourself Varus ADC dies in the mid lane. You need to ask yourself first, how can we survive?"
+      },
+      {
+        "tip": "Once survival is secured, shift your focus to the second question: how can we win?",
+        "rationale": "Separating the two questions keeps you from either recklessly forcing a win attempt too early or passively surviving without ever pivoting to close the game.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "Okay, that's the first one. And the second, how can we win?"
+      },
+      {
+        "tip": "When you can't fight the enemy directly because they have a big advantage, buy time with baiting and distraction rather than committing to a fight.",
+        "rationale": "Staying alive and stalling preserves options for a comeback that an unwinnable fight would remove.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "So, I'm always moving up a little bit, trying to bait the opponents in, but not actively wanting to fight with them."
+      },
+      {
+        "tip": "Don't let the surrender vote distract you; keep focusing on the actual situation on the map instead.",
+        "rationale": "The surrender prompt is a mental distraction that can pull attention away from actionable information like enemy cooldowns and positioning.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "The situation looks very dire, and in the bottom right corner, the surrender vote appears. But I don't look at that. I focus on the situation."
+      },
+      {
+        "tip": "Recognize when a fight is unwinnable and disengage immediately rather than continuing to trade.",
+        "rationale": "Continuing to fight a losing engagement only compounds the loss, while a clean disengage preserves the chance to stall or come back.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "win this fight, so I immediately disengage."
+      },
+      {
+        "tip": "Don't give up on the game even when it looks over; keep observing what's happening and stay ready to play for a comeback.",
+        "rationale": "Games are frequently won after they appear lost when players stay engaged and keep looking for openings instead of checking out mentally.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "However, my Lucian and Vayne still keep playing the game, and I keep observing what is happening."
+      },
+      {
+        "tip": "When pushing to close out the game on the Nexus, prioritize not dying to the defenders over dealing extra damage.",
+        "rationale": "Dying while trying to end the game can swing a nearly-won fight back to the enemy, while staying alive keeps the pressure on.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "not dying to the enemies that try to defend the Nexus towers."
+      },
+      {
+        "tip": "As an engage support like Pyke, delay committing your all-in ultimate until it can also catch a secondary target, even if that means letting an ally act as bait first.",
+        "rationale": "Landing the ultimate on two targets instead of one converts a single pick into a much bigger swing for the fight.",
+        "scope": "support",
+        "phase": "late",
+        "champion": "Pyke",
+        "excerpt": "I'm going to use Vayne as a bait for the Swain. I don't immediately eat because I want to bring Swain closer, and then I eat when he's in"
+      },
+      {
+        "tip": "Identify the enemy's most dangerous threat and focus your peel on keeping them away from your carries, rather than spreading your attention evenly.",
+        "rationale": "Neutralizing the single biggest damage threat protects your win condition more effectively than splitting focus across all enemies.",
+        "scope": "support",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "Next up, we're going to focus on getting the Singed away from our carries. The Singed is the most dangerous part of the enemy team."
+      },
+      {
+        "tip": "Refuse to surrender and keep fighting even when your team wants to give up; that persistence alone is sometimes enough to win.",
+        "rationale": "A team that keeps contesting fights and objectives retains a chance to win, while surrendering guarantees the loss.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "wants to surrender. Sometimes, that's enough to get the W."
+      }
+    ]
+  },
+  {
+    "source_id": "shodesu-the-support-climb-blueprint_Gqmd_P_NENQ",
+    "drafts": [
+      {
+        "tip": "In low elo, pick carry supports like Zyra or Senna so you can win games on your own rather than depending on your ADC.",
+        "rationale": "A traditional support's lead is shared with the ADC, so solo agency converts to wins more reliably.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "start of the climb was to pick carry supports, mainly Zyra and Senna, because in low elo it's better to be able to carry yourself than to rely on your team."
+      },
+      {
+        "tip": "Winning lane on a non-carry support is unreliable, since it depends on your ADC actually being able to utilize the lead you build.",
+        "rationale": "A support-side lane win only converts to a game win if the ADC can execute on it, which is not guaranteed at low elo.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "worse than a coin flip if your ADC can actually utilize their lead and it's just better to have solo agency as a support so you can actually carry yourself."
+      },
+      {
+        "tip": "Understand that unless you're playing a carry support, any lead you build is shared with your ADC and can't be independently converted into a win the way other roles can.",
+        "rationale": "Traditional supports lack the individual power to close games alone, capping how much a solo lead can accomplish.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "a carry support, the lead you build is largely shared with your ADC carry and traditional supports have a more limited ability to take over games on their own."
+      },
+      {
+        "tip": "Don't assume a bot lane win guarantees a carried game; below around diamond, ADCs often can't pilot their champion well enough to convert a lead you've given them.",
+        "rationale": "ADC mechanical and macro consistency is inconsistent at lower ranks, so the support's lane win can go to waste.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "start of the climb, I would always be able to win lane but my ADCs would just not be able to pilot their champion well enough to carry."
+      },
+      {
+        "tip": "In lower elo, ADCs usually aren't able to carry a lead until around diamond plus.",
+        "rationale": "This sets a practical rank threshold for when relying on your ADC to close games becomes reasonable.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "usually aren't able to carry until around diamond plus."
+      },
+      {
+        "tip": "In lower elo, don't let a good counter-pick lane matchup tempt you into a traditional support; comp matters less than just playing a carry support.",
+        "rationale": "At low elo the ability to solo-carry outweighs the marginal edge of a favorable draft matchup.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "myself into playing a traditional support when I had a good counter pick in lane but in lower elo, comp does not matter as much as playing as a carry support."
+      },
+      {
+        "tip": "You can still climb on regular (non-carry) supports in low elo, but expect a lot more games where you lose despite playing well.",
+        "rationale": "Traditional supports depend on teammates who aren't consistently able to convert leads at low elo, so good individual play doesn't guarantee a win.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "in lower elo but there are going to be a lot more games where you are going to lose despite playing very well."
+      },
+      {
+        "tip": "Test traditional supports occasionally as you climb to find the rank where you can transition back to playing them as your main champions.",
+        "rationale": "Gradually testing lets you find the point where teammate reliability makes non-carry supports viable again, instead of guessing.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "ranks I could start playing traditional supports. I basically did this until around D2 plus where I started playing my main champs which are mostly enchanters."
+      },
+      {
+        "tip": "Diamond is roughly the rank where teammates start to become reliably capable, regardless of server.",
+        "rationale": "This gives a concrete benchmark for when to trust teammates to follow up on plays and execute leads.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "diamond is a rank where teammates universally start to feel more human and reliable."
+      },
+      {
+        "tip": "Carry supports' advantage of brute-forcing a lead alone gradually diminishes as you climb.",
+        "rationale": "Higher-elo teammates are more capable, reducing the relative value of a support who can win games single-handedly.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "they can brute force leads on their own but their impact gradually falls off as you climb."
+      },
+      {
+        "tip": "Engage, enchanter, and hook supports get stronger the higher you climb, since they depend on team coordination and follow-up that only shows up reliably at higher elo.",
+        "rationale": "These champion types rely on teammates capitalizing on their setup, which becomes more consistent as skill increases.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "Meanwhile, engage, enchanter, and hook champs become stronger the higher up you go since they rely more on"
+      },
+      {
+        "tip": "Once climbing beyond D2+, settle into a small core pool of around four champions rather than spreading across many.",
+        "rationale": "A focused pool builds deeper mastery and consistency than constantly switching champions.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "My draft strategy for climbing beyond D2 plus has stayed consistent over the years I've hit challenger. I focus on a core pool"
+      },
+      {
+        "tip": "Play Nami as a primary blind pick or strong choice when paired with high-synergy ADCs like Lucian or Corki.",
+        "rationale": "Nami's kit pays off especially well with ADCs who can capitalize on her tempo and burst-heal windows.",
+        "scope": "support",
+        "phase": "all",
+        "champion": "Nami",
+        "excerpt": "Nami is my primary blind pick or strong choice when paired with high synergy ADCs like Lucian or Corki."
+      },
+      {
+        "tip": "Use Janna mainly as a counter-pick into engage-heavy compositions.",
+        "rationale": "Janna's disengage and peel tools are specifically strong against teams built around diving onto your carries.",
+        "scope": "support",
+        "phase": "all",
+        "champion": "Janna",
+        "excerpt": "is mainly used as a counter pick into engage heavy compositions."
+      },
+      {
+        "tip": "Pick Karma when you have a lane-dominant ADC, like Caitlyn or Ezreal, so you can pressure the lane early.",
+        "rationale": "Karma's early poke and utility amplify an ADC who is already strong in the laning phase.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": "Karma",
+        "excerpt": "Karma is selected when I have a lane dominant ADC such as Caitlyn or Ezreal to pressure early"
+      },
+      {
+        "tip": "Reserve Sona as a counter-pick into enchanter matchups, where she can scale and out-value opponents in team fights.",
+        "rationale": "Sona's scaling and teamfight utility let her outgrow other enchanters over the course of the game.",
+        "scope": "support",
+        "phase": "late",
+        "champion": "Sona",
+        "excerpt": "pick into enchanter matchups where she can scale and out value in team fights."
+      },
+      {
+        "tip": "In solo queue, prioritize counter-picking or drafting a winning bot lane duo over drafting for the perfect team comp.",
+        "rationale": "Lane advantage is more reliably achievable and impactful in solo queue than coordinated team-comp synergy.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "more important than playing for the perfect team comp."
+      },
+      {
+        "tip": "Don't over-value team comp synergy in solo queue; most of the time other lanes won't come out even and your team won't coordinate well enough in fights for the comp to truly matter.",
+        "rationale": "Solo queue teammates are unpredictable, so comp-dependent plans are less reliable than a strong individual lane matchup.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "Most of the time, other lanes won't come out even and teams won't coordinate well enough in fights for the comp to truly matter."
+      },
+      {
+        "tip": "Recognize your own tilt pattern; for example, know if losing two or three games in a row, especially ones you felt you played well, makes you play significantly worse for the rest of the session.",
+        "rationale": "Self-awareness of your personal tilt threshold is what makes it possible to intervene before it costs more games.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "that isn't talked about enough is your mental. I know myself well enough to recognize that if I lose two or three games in a row, especially in games where I felt like I played well, I tend to play significantly worse for the rest"
+      },
+      {
+        "tip": "After a losing streak, the best thing to do is take a break rather than keep queuing.",
+        "rationale": "Continuing to play while tilted compounds losses instead of resetting your mental state.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "of the session. In those situations, the best thing to do is to take a break."
+      },
+      {
+        "tip": "Be aware of your mental state and recognize when you're tilted to avoid doom queuing away large amounts of LP.",
+        "rationale": "Recognizing tilt in the moment is what prevents a single bad session from spiraling into a long losing streak.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "extremely important if you want to avoid doom queuing away hundreds of LP."
+      }
+    ]
+  },
+  {
+    "source_id": "shodesu-season-16-support-guide_eY8jrQEn7k8",
+    "drafts": [
+      {
+        "tip": "Never roam before level three.",
+        "rationale": "The season 16 Support Quest changes make pre-level-3 roaming even more costly in lost experience, reinforcing what was already a bad habit.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "new change, but to be honest, you should have never roamed pre-level 3 even before, but now you really don't want to."
+      },
+      {
+        "tip": "Prioritize completing your support item as early as possible, since the final tier's gold-per-10 jump is now much bigger than earlier tiers.",
+        "rationale": "Unlike last season, the gold-per-10 gap between tiers means delaying the finished item now costs significantly more value over time.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "item as soon as possible didn't matter too much last season because the gold per 10 was the same from Runic Compass to the final support item, but now it matters a lot."
+      },
+      {
+        "tip": "Build World Atlas stacks quickly by constantly keeping a stack charging and spending most stacks on hitting enemy champions.",
+        "rationale": "Champion damage yields more gold than minion last hits, so prioritizing it accelerates the item's completion.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Best way to do that is to constantly have a stack charging and to use most of your stacks on hitting enemy champions."
+      },
+      {
+        "tip": "There will be moments where you should use your support item stacks to shove a wave rather than to hit enemy champions.",
+        "rationale": "Shoving a wave can be more valuable in some situations, such as enabling a roam or resetting the lane state.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "While we do want to hit enemy champions most of the time, there are definitely going to be moments where we should be using our stacks to shove in a wave."
+      },
+      {
+        "tip": "Don't mindlessly last-hit minions with your support item stacks; think about how you can speedrun to the completed item.",
+        "rationale": "Using stacks deliberately rather than habitually accelerates your item spike instead of wasting charges.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "depth to stacking their support items, so make sure you aren't mindlessly last hitting minions for no reason. And think about how you can speedrun to Bounty of Worlds."
+      },
+      {
+        "tip": "Learn the new wave-four level-three timing so you can knowledge-check opponents who don't know it and win lane off it.",
+        "rationale": "Most players haven't adjusted to the new leveling timing, making it an exploitable information edge in lane.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "three on the fourth wave with the first two melee minions. A lot of people don't realize this yet, so you can easily win lane by knowledge checking them."
+      },
+      {
+        "tip": "Always walk through a lane when leaving base to maximize your Homeguard speed boost.",
+        "rationale": "Homeguard's bonus movement speed is spent while traveling, so routing through a lane gets the most value out of it before it expires.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "always want to walk through a lane to maximize Homeguard."
+      },
+      {
+        "tip": "When roaming with Homeguard active, dip into the jungle once you're further from base and flank from the side rather than walking straight down a lane.",
+        "rationale": "Flanking through the jungle avoids revealing your approach to the lane you're ganking, increasing the chance of a successful play.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "To optimize roaming, you most likely want to dip into the jungle when you're further out and want to flank from the side."
+      },
+      {
+        "tip": "After 14 minutes, or once a tower has fallen in a lane, use a pushed wave to extend how far your Homeguard carries you across the map.",
+        "rationale": "Post-14-minute Homeguard tracks the furthest minion wave, so a pushed wave effectively grants a longer speed boost toward that side of the map.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "minutes, Homeguard will track the furthest minion in the lane, ending approximately 2,000 units before reaching the minion wave. This means that you can travel a lot faster and farther depending on how far out your"
+      },
+      {
+        "tip": "Which Faelight to ward depends on the game state and changes every game; there's real skill expression in the choice rather than a static answer.",
+        "rationale": "Treating Faelight warding as a dynamic decision rather than a fixed routine is what separates strong vision play from rote habit.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "There's a lot of skill expression in using Faelights. Knowing when to ward which Faelight depends on the game state and will change every game."
+      },
+      {
+        "tip": "Don't ward a Faelight just because it's there; a lot of players autopilot-ward for the dopamine of the shiny circle rather than for a deliberate reason.",
+        "rationale": "Placing a ward for no strategic reason wastes the ward and can even reveal information to the enemy without benefiting your team.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "give a lot of vision, you shouldn't place them down just because you have the opportunity to. I think a lot of players autopilot ward them even when it's not good to do so because they see the shiny circle and get dopamine from placing a ward."
+      },
+      {
+        "tip": "Decide which Faelight to ward based on who can get priority on each team and whether you want to play aggressively or defensively.",
+        "rationale": "Vision placement should follow the current power dynamic between the teams rather than a fixed pattern.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "ward a Faelight will depend on a variety of factors. Who is strong on your team that can get prio? Who is strong on the enemy team that could potentially flank after they get prio?"
+      },
+      {
+        "tip": "Don't autopilot your vision placement; avoid perma-warding Faelights just because you can.",
+        "rationale": "Vision is a limited resource, so placing it reflexively instead of purposefully squanders its strategic value.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "Thinking about where you want to give vision is very dynamic and the last thing you want to do is to autopilot your vision. Don't fall into the trap of perma-warding Faelights just because you"
+      }
+    ]
+  },
+  {
+    "source_id": "three-minute-lol-how-to-play-support_PsD5QNyBkoY",
+    "drafts": [
+      {
+        "tip": "If you're playing a tanky support, prioritize getting brush control as soon as possible so you can engage safely from stealth.",
+        "rationale": "Brush hides you from enemy vision, letting a tanky support initiate on the carry without being punished first.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "on what you're playing. If you're a big tanky support, get brush control as soon as possible. Enemies can't shoot you while you're hidden, and you now have the ability to run out of there and attack the carry."
+      },
+      {
+        "tip": "If you're playing an enchanter, focus on damaging and harassing the enemy ADC while shielding your own team's damage taken.",
+        "rationale": "Enchanters win lane through consistent poke and mitigation rather than all-in engage.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "enemy AD carry while shielding any damage your team would take."
+      },
+      {
+        "tip": "If you're playing a bully support, keep poking the enemy ADC until they run low on health.",
+        "rationale": "Bully supports win lane by attrition rather than a single all-in.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "And if you're a bully support, just keep throwing things at the enemy AD carry until they run low on health."
+      },
+      {
+        "tip": "Read your ADC's power spike and adjust your playstyle: expect to play aggressively with an early-game carry like Draven or Lucian, and expect a scaling carry like Jinx or Veigar to prefer sitting back and farming.",
+        "rationale": "Matching your lane approach to your carry's win condition avoids fighting against your own ADC's strengths.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "carry. If you've got an aggressive early game carry like a Draven or Lucian, you can expect they want to play aggressive. And if you've got a scaling carry like a Jinx or a Veigar, you know they're very happy just sat back farming as much as"
+      },
+      {
+        "tip": "As support, you're not really responsible for controlling the wave, but you are very responsible for taking good trades.",
+        "rationale": "This reflects the division of labor in bot lane: the carry manages farm while the support's value comes from trade decisions.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "possible. You're not really responsible for controlling the wave. However, you are very responsible for taking good trades."
+      },
+      {
+        "tip": "Take trades where you either deal more damage than you take, or put your opponent in a difficult situation to stay in the lane.",
+        "rationale": "Treating your health bar as a resource means only committing to exchanges that net a clear advantage.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "essentially want to take fights where you either deal more damage than you take, or you put your opponent in a difficult situation to stay in the lane."
+      },
+      {
+        "tip": "Look to fight when you hit level two, three, or six before your opponent, since you'll temporarily have an extra ability advantage.",
+        "rationale": "A one-ability lead is a significant power spike that makes trades much more favorable during that window.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "to pick fights. You'll have one more ability than your opponent, which is very strong."
+      },
+      {
+        "tip": "Also look for trades when the enemy has used abilities on minions, is low on mana, or when you have an item advantage after backing.",
+        "rationale": "These moments represent a temporary power or resource deficit for the opponent that makes them vulnerable.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Also, if they've ever used abilities on minions, or running low on mana, or if you've backed and have the item advantage, look for trade."
+      },
+      {
+        "tip": "If your carry needs to back and you don't, use the opportunity to roam mid.",
+        "rationale": "A back from your carry frees you from lane responsibilities, making it an efficient window to apply pressure elsewhere.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "You also want to look for opportunities where you're able to roam. If your carry needs to back and you don't, roam mid."
+      },
+      {
+        "tip": "After backing, consider heading to mid lane first, then rotating to bot lane about 10 seconds later.",
+        "rationale": "This sequencing lets you apply pressure mid before returning to your primary lane, extracting extra value from the back.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "mid and then head bot 10 seconds after."
+      },
+      {
+        "tip": "Ganking the enemy mid laner as support is very strong, since your lockdown and damage are often enough alone to secure the kill.",
+        "rationale": "Supports bring crowd control and burst that most mid laners aren't itemized against early, making these ganks efficient.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Ganking the enemy mid laner as support is very strong. With the lockdown and damage you provide often being enough to get the kill."
+      },
+      {
+        "tip": "When dragon spawns, make sure you're there helping contest it.",
+        "rationale": "Objective fights typically require full team presence, and missing them cedes an uncontested advantage to the enemy.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "In addition, when dragon spawns you want to make sure you're there helping"
+      },
+      {
+        "tip": "When grubs spawn, it's often worth heading all the way up there to help contest them.",
+        "rationale": "Grubs provide a strong early team-wide buff, making the trip worthwhile even from bot lane.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "often a good idea to head all the way up there to help with those, too."
+      },
+      {
+        "tip": "Entering the mid game, take your tower as soon as possible and rotate mid with your carry.",
+        "rationale": "Putting two champions in the center of the map gives your team more overall map control than staying split.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Entering the mid game, take your tower as soon as possible and rotate mid with your carry."
+      },
+      {
+        "tip": "Since you don't have to spend time farming as support, use that freed-up agency to roam with your jungler to make plays, or to help your carry get priority mid.",
+        "rationale": "A support's time isn't tied to the wave, so it can be spent proactively creating advantages elsewhere on the map.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "control. And because you don't have to spend time farming, you have a lot of agency to do what you want. So, roam with your jungler to make plays, or help your carry get priority mid."
+      },
+      {
+        "tip": "While in lane, get an early control ward in your own tri-brush and keep a ward in pixel brush to keep your lane safe from the jungler.",
+        "rationale": "These two spots cover the common jungler entry points into bot lane, giving early warning of ganks.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "warding. While in lane, you want to get an early control ward in your own tri brush, and make sure you keep a ward in pixel brush. This keeps your lane fairly safe from the jungler."
+      },
+      {
+        "tip": "In the mid game, if your team's ahead, get aggressive wards in the enemy jungle to keep picking off overextended enemies.",
+        "rationale": "Vision deep in enemy territory lets an ahead team continue snowballing by punishing the enemy jungler and roams.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "team's ahead, get aggressive wards in the enemy jungle. This will allow your team to keep picking them off and putting them even further behind."
+      },
+      {
+        "tip": "If your team's behind in the mid game, ward your own jungle entrances instead, to spot invades and collapse on them.",
+        "rationale": "Defensive vision lets a losing team punish overextended enemy plays and start clawing back into the game.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Or, if your team's behind, get wards in your jungle entrances."
+      },
+      {
+        "tip": "30 seconds to a minute before an objective comes up, you need to be there warding it.",
+        "rationale": "Vision ahead of an objective spawn is what allows your team to contest or safely concede it rather than being caught off guard.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "Otherwise, 30 seconds to a minute before an objective comes up, you need to be there warding."
+      },
+      {
+        "tip": "After warding for an objective, back and return with a fresh set of wards so you can keep fighting for vision even harder.",
+        "rationale": "Replenishing your wards after committing the first set sustains vision control through the objective fight rather than letting it lapse.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "And you'll often want to get there, get your wards down, and then back and come back with a fresh lot of wards to allow you to fight for vision even harder."
+      }
+    ]
+  }
+]

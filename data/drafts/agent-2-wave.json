@@ -1,0 +1,831 @@
+[
+  {
+    "source_id": "mobalytics-wave-management",
+    "drafts": [
+      {
+        "tip": "Improve at wave management by deliberately messing up a freeze and then analyzing exactly where it went wrong.",
+        "rationale": "Wave management is a feel-based skill best learned by diagnosing your own mistakes rather than only studying theory.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "one way of improving at wave management is by messing it up completely. If you understand where you went wrong, you can improve on it for future games."
+      },
+      {
+        "tip": "Unless you are forced to back, avoid recalling on a cannon wave, since it gives more gold and experience than any other minion.",
+        "rationale": "Missing a cannon minion hands the enemy a resource lead during the laning phase.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Unless you’re forced to back, you should try to never Recall on a cannon wave. A cannon minion gives more gold and experience than any other minion during the laning phase so you need to try and get it to avoid falling behind."
+      },
+      {
+        "tip": "Back before the cannon wave leaves your base, since once it has left you may miss out on it entirely.",
+        "rationale": "A cannon wave already en route cannot be caught by a recall timed too late.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If a cannon minion wave has already started making its way across the map and has left the base, you may miss out on it if you decide to back. Ideally, you should back before the cannon wave gets out of the base."
+      },
+      {
+        "tip": "Track your own minion wave's position on the map as a proxy for where the enemy's wave is, since lanes are mirrored.",
+        "rationale": "Because both sides spawn and travel on identical timers, your own wave tells you what the enemy wave is doing without needing to look at their side.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Another way of knowing the location of the minion wave is looking at your own minion wave on the map. This is a favored method commonly used by players. As every lane is mirrored, you should expect all minions to get to certain areas of the map at the same time."
+      },
+      {
+        "tip": "Learn minion wave timings so you can time your recall to miss out on as little CS and experience as possible.",
+        "rationale": "Backing at the wrong point in the wave cycle costs farm you didn't need to give up.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you know when and where the minions will be, you can back at the right time to miss out on minimal farm and experience. This will allow you to stay even with the enemy and not fall behind."
+      },
+      {
+        "tip": "If enemy minions start focusing you, break their aggro by running out of their range and into an unwarded bush or out of the local area.",
+        "rationale": "Dropping minion aggro is the only way to stop them from continuing to chase and damage you once you've drawn their attention.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If the minions start focusing you, you need to run out of sight and out of range of them. You can drop minion aggro by running into un-warded bushes as well as leaving the localized area."
+      },
+      {
+        "tip": "Only attempt to freeze the wave when you're ahead of or even with your lane opponent; freezing from behind is much harder.",
+        "rationale": "Freezing requires the tempo advantage to safely zone the enemy off the wave, which you generally lack while behind.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Using the technique in Solo Queue is best done when you’re ahead of the enemy or if you’re even with them. It is quite difficult (but not impossible) to freeze when you’re behind."
+      },
+      {
+        "tip": "To freeze the wave, last-hit the enemy minions at the last possible second instead of clearing them normally.",
+        "rationale": "Delaying every kill to the latest safe moment is the core mechanical input that keeps the wave from pushing in either direction.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you want to freeze the wave, all you need to do is last-hit the enemy minions at the last possible second."
+      },
+      {
+        "tip": "While freezing, match any damage the enemy puts on the wave outside of last-hitting so both sides' minions keep dying at the same rate.",
+        "rationale": "If you don't match their damage your minions die faster than theirs, which pushes the wave toward you and breaks the freeze.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Whenever the enemy damages a minion through either auto attacks or ability use outside of last-hitting, you will need to match their damage."
+      },
+      {
+        "tip": "The closer to your own tower you want the freeze to sit, the more enemy ranged minions you need alive in the lane.",
+        "rationale": "Your reinforcement minions arrive to a closer freeze point faster than the enemy's, so fewer of your own minions are needed to balance it out.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "The closer you are to your tower, the more enemy ranged minions you need in lane. This is because your reinforcement minions will get to lane quicker compared to the enemies."
+      },
+      {
+        "tip": "When tanking the wave to hold a freeze, walk into the minions to draw their focus and pull them away from your tower rather than letting them hit your minions there.",
+        "rationale": "Pulling the minions off your tower keeps your tower safe and keeps the wave positioned where you want it.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you’re healthy or have a reliable source of regeneration, you need to walk up to them and start tanking the minions. Pull them away and out of position of the tower."
+      },
+      {
+        "tip": "Don't tank the wave for too long or walk too far away from it while holding a freeze.",
+        "rationale": "Overextending the tank risks dropping minion aggro or taking more damage than the freeze is worth.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Be careful not to walk too far away from them as you may drop minion aggro, and avoid tanking them for too long."
+      },
+      {
+        "tip": "To sustain a freeze over time, repeat the cycle: each time your minions die, tank the wave again and pull it back away from your tower.",
+        "rationale": "A freeze isn't a one-time action; it has to be actively re-established every time the local minion advantage resets.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "When your minions die, start tanking the wave again and pull it away from your tower. Rinse and repeat, and you will indefinitely freeze the enemy out of gold."
+      },
+      {
+        "tip": "If your support is nearby while you're freezing, let them tank the wave for you, since they can often absorb a larger wave than you can alone.",
+        "rationale": "A second body soaking minion damage lets the freeze hold even when the wave has grown too big for one champion to tank safely.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "As you can see from the video, if you have your Support nearby, they can tank the wave for you. Depending on in-game factors, they may be able to tank larger waves."
+      },
+      {
+        "tip": "If there are too many minions to safely tank, kill all the melee and ranged minions but leave 3 caster minions alive, and clear any cannon minions if possible.",
+        "rationale": "Thinning the wave down to a manageable number is necessary before you can hold a freeze you can't otherwise tank.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If there are too many minions left alive and you’re not able to tank them, kill all the melee minions, and all of the ranged minions but leave 3 caster minions alive. Don’t forget to kill any cannon minions if possible."
+      },
+      {
+        "tip": "If a wave has more than 4 additional minions beyond even, it will always push regardless of what you do, so thin it down rather than try to hold it.",
+        "rationale": "Past that threshold the minion-count imbalance overwhelms any attempt to tank or balance the wave in place.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If there are more than 4 additional minions in a wave, it will always be pushing no matter what . If you’re unable to tank the bonus minions, you will have to thin the wave down."
+      },
+      {
+        "tip": "In the mid lane, freeze zones are much smaller and riskier than in the side lanes, since many mid laners can break your freeze with their kit.",
+        "rationale": "Shorter lane length and higher mid-lane kill pressure make holding a precise freeze there far less reliable.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "The zones are much smaller in the areas where it is safe to freeze and use other wave management techniques. The issue with this is that many champions can often break all your hard work and ruin what you’ve done."
+      },
+      {
+        "tip": "In mid lane, keep the wave in a position that avoids cheesy ganks, since mid is the most gankable lane in the game.",
+        "rationale": "Mid lane's exposure to both jungle entrances means wave position directly controls how easily you can be ganked.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "As the middle lane is the most gankable lane in League, you need to have the wave in a favorable position where you can avoid cheesy ganks."
+      },
+      {
+        "tip": "In mid lane, the best time to recall is when the wave is approaching your inhibitor tower, so it sits just outside it when you return.",
+        "rationale": "Timing the back to this point minimizes the gold and CS lost while you're away from lane.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "In the middle lane, the best time to back is when the wave is approaching your inhibitors. When you Recall, the wave will just be outside of the inhib tower and your tier 1."
+      },
+      {
+        "tip": "Before backing, shove the wave into the enemy tower first, since it either delays their recall or costs them gold, and it resets the wave for when you return.",
+        "rationale": "Pushing before you leave converts your back into pressure instead of a free reset for the enemy.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Before backing, make sure you shove the wave into the tower as this will either delay the enemies Recall, or make them miss out on gold. Also, when you return to lane, the wave would’ve reset in the middle which will allow you to start your wave management technique again."
+      },
+      {
+        "tip": "Before backing when the enemy isn't in lane, kill all the minions but leave 3 caster minions alive and hold them until your reinforcements arrive, then recall, so the wave is set up to freeze the moment you return.",
+        "rationale": "Pre-loading a favorable freeze position before you leave means you don't lose tempo re-establishing it after your back.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Another very useful technique that some pros use is where they kill all the minions in lane, but leave 3 caster minions alive. They then hold the wave until their allied minions arrive and then they Recall. This is a good thing to do as it will allow the wave to freeze as soon as you return to lane. This only works if the enemy is not in lane, for example, they’ve backed or have died."
+      },
+      {
+        "tip": "To start freezing from level 1, last-hit the enemy minions immediately so the wave pushes slightly toward you, setting up a closer freeze.",
+        "rationale": "Establishing a small push advantage from the very first wave gives you the positioning to freeze close to your own tower early.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you want to start to freeze as soon as the game starts, you can just last-hit the enemy minions at level 1 and have the wave slightly push towards you. This will set you up for a closer freeze."
+      },
+      {
+        "tip": "As a ranged champion against a melee opponent with no early all-in or sustain, push the wave at level 1 by killing a couple of back minions fast, then last-hit the rest so it pushes toward the enemy without overextending you.",
+        "rationale": "This creates enough push to set up a favorable wave 3 position without exposing you to a trade you'd lose.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "What you do is push the wave level 1 by only killing 1 or 2 of the back minions fast which will make the wave start pushing. You then proceed to last-hit the remaining minions. This will make the wave push to the enemy, but not so fast that you’re making yourself vulnerable."
+      },
+      {
+        "tip": "If you're playing a mid lane champion with strong early push, such as Azir or Taliyah, use a pushing technique from level 1 to keep the wave moving toward your side and stay safe from ganks.",
+        "rationale": "Champions with early AOE clear can convert their push power directly into gank insurance and jungler support.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you’re playing a champion with early pushing power such as Azir or Taliyah , you would benefit from using a pushing technique that can keep you safe from enemy ganks."
+      },
+      {
+        "tip": "Freeze the wave just outside your own tower's range rather than directly under it, so your tower doesn't take free damage from the wave.",
+        "rationale": "A freeze positioned outside tower range keeps both your tower and your freeze intact.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "You should get the wave to freeze on your side of the lane, just outside of your tower. You need to keep it outside of your tower range so your tower does not take free damage from the minion wave."
+      },
+      {
+        "tip": "A freeze positioned close to your own tower can also open up gank opportunities for your jungler against the overextending enemy laner.",
+        "rationale": "Forcing the enemy to overextend for farm against a frozen wave puts them in range of a jungle gank.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Depending on the location of the wave (if it’s closer to your tower) this may open them up to gank opportunities for your Jungler which ultimately, can put the enemy further behind."
+      },
+      {
+        "tip": "If the enemy jungler is giving you constant ganking attention, freeze the wave on your side of the lane so you can keep farming safely.",
+        "rationale": "A frozen wave near your tower removes the gank angles the enemy jungler is trying to exploit.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If the enemy Jungler is providing you with their utmost attention, you should consider freezing on your side of the lane."
+      },
+      {
+        "tip": "If you notice the enemy laner is premade with their jungler, consider freezing from the start of the game, since there's a high chance you'll be camped.",
+        "rationale": "Premade duos coordinate ganks more effectively, so preemptively removing the gank window is safer than reacting after being caught out.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you notice that the enemy laner is premade with the Jungler, you may want to freeze from the get-go since there’s a high chance you’ll get camped."
+      },
+      {
+        "tip": "If you're behind in lane, freeze the wave so you can keep farming safely without sacrificing health for CS or risking being chased down.",
+        "rationale": "Freezing while behind trades aggression you can't afford for safe, sustainable farm to close the gap.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you’ve died and are slightly behind the enemy where you’re unable to trade with them, freezing in this situation is good. This is because you will be able to continue to farm without sacrificing health for farm, nor will you be able to be chased down by the enemy."
+      },
+      {
+        "tip": "Before recalling, push the wave to the enemy tower so it bounces and resets, letting you return to lane without the enemy immediately pressuring your tower.",
+        "rationale": "A pushed and reset wave removes the risk of losing your own tower while you're away picking up items.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Before Recalling, you generally want to push the wave to the enemy tower so it can bounce and reset allowing you to Recall without fear of the enemy attacking your tower."
+      },
+      {
+        "tip": "If the enemy fails to properly push the wave to your tower before their own recall, don't push it back to them — hold it just outside your tower and let them overextend for farm when they return.",
+        "rationale": "Punishing their mistiming denies them the CS and experience they were trying to protect.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If somebody does this to you, do not push it back to them. Instead, hold the wave just outside of your tower and let them over extend for farm and experience when they return."
+      },
+      {
+        "tip": "While freezing the lane, watch for the enemy laner roaming to get kills elsewhere, and ping them missing and follow if it's safe to do so.",
+        "rationale": "A frozen lane frees the enemy laner to roam, so tracking their absence limits the damage they can do elsewhere on the map.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Because you’re freezing the lane, the enemy laner may be able to roam and get gold and XP by getting kills in other lanes. You should try to avoid this happening by pinging your enemy missing and trying to follow them if it’s safe to do so."
+      },
+      {
+        "tip": "Avoid freezing the wave too close to or under your own tower, since the tower helps kill the minions, causes the wave to bounce instead of staying frozen, and can expose you to a jungler dive.",
+        "rationale": "A wave under tower defeats the purpose of a freeze and puts you in dive range at the same time.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "It’s important to not freeze the minion wave too close or under your tower as it can get you killed. During the laning phase, having it under your tower may allow the enemy Jungler to dive you. It will also not freeze here."
+      },
+      {
+        "tip": "Freezing is harder early against champions with fast wave clear, since they can poke or fight you while you try to hold the wave — it's often safer to attempt after your first back once you have items.",
+        "rationale": "Extra damage and defensive items from your first back give you the survivability to hold a freeze against a strong-clearing opponent.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Freezing is not the easiest thing to do in the early game if you’re against champions who can quickly clear waves. This is because they may be able to poke you and fight you if you try to freeze. Freezing (in some cases) is best done after your first back when you have items and damage to protect yourself with."
+      },
+      {
+        "tip": "As Camille, keep the wave close to your own tower but outside its range, so you can bounce your Hookshot off a wall onto a mispositioned Gnar.",
+        "rationale": "Camille needs the wave near her tower to convert her E's engage range into a safe follow-up on Gnar.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": "Camille",
+        "excerpt": "Camille would like the wave to be close to her tower so she can use her Hookshot (E) on a wall and then bounce onto Gnar to deal damage to him."
+      },
+      {
+        "tip": "As Gnar, keep the wave near your own tower so Camille can't dive you if she engages, since you have no reliable way to punish her overextension otherwise.",
+        "rationale": "Denying Camille the dive-friendly wave state removes her main way of abusing the matchup early.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": "Gnar",
+        "excerpt": "Having the wave near the tower will prevent Camille from being able to play aggressive and kill the Gnar because she will not be able to dive him early."
+      },
+      {
+        "tip": "As Darius, avoid using your Q to push the wave unless you can land it on the enemy champion, since it can shove the lane out of the position you want.",
+        "rationale": "Pushing the wave with Q trades away Darius's ability to keep the lane in the aggressive, close-range state his kit needs.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": "Darius",
+        "excerpt": "Darius needs to be very careful when it comes to using his abilities. His Q has an AOE indicator that can push waves. He wants to avoid using this ability unless he can get on the enemy."
+      },
+      {
+        "tip": "As Teemo, keep the wave close to your own tower until level 6, then start pushing and using Shrooms to take the first tower.",
+        "rationale": "Teemo's Blind and stronger trading power come online at 6, at which point pushing to threaten the first tower becomes viable.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": "Teemo",
+        "excerpt": "At level 6, Teemo wants to start pushing and abusing his kit to the maximum. By placing shrooms around the lane, he can constantly get the wave pushing and take the First Tower."
+      },
+      {
+        "tip": "As Renekton, keep the wave even and near the middle of the lane so you can all-in the enemy whenever you gain a level or item advantage.",
+        "rationale": "Pushing the enemy to their own tower lets them freeze and denies Renekton the ability to engage on his advantage.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": "Renekton",
+        "excerpt": "If Renekton pushes the enemy to their tower and the enemy freezes, he will be unable to engage on the enemy and push his advantage in lane."
+      },
+      {
+        "tip": "As Maokai, keep the wave on your own side of the lane, since pushing lets Renekton use his E on the minions to close the gap and engage on you.",
+        "rationale": "Maokai's lack of mobility means he needs to deny Renekton the wave state that enables an easy engage.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": "Maokai",
+        "excerpt": "If Maokai pushes the wave, Renekton, just by using his E on the minions, will be able to get incredibly close and engage on him and may even be able to kill him."
+      },
+      {
+        "tip": "As Twisted Fate, keep the wave near your own tower so Zed can't use his kit or early damage to poke you down.",
+        "rationale": "Zed is one of Twisted Fate's hardest matchups, so removing his engage angle onto the wave is a priority.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": "Twisted Fate",
+        "excerpt": "If Twisted Fate has the wave near his tower, Zed will be unable to utilize his kit or early game damage. This is a good thing as it will prevent Zed from using his abilities to poke Twisted Fate down."
+      },
+      {
+        "tip": "As Zed, avoid pushing the wave under Twisted Fate's tower, since the tower prevents you from engaging or fighting him there, including at his level 3 all-in window.",
+        "rationale": "Zed's burst-reliant playstyle needs the wave in a neutral or favorable spot to actually reach Twisted Fate.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": "Zed",
+        "excerpt": "If Zed pushes the lane under Twisted Fates tower, he would be unable to engage or fight him because of the tower."
+      },
+      {
+        "tip": "As Kog'Maw and Lulu against Twitch and Janna, keep the wave even in the middle of the lane so you can use your poke and chase potential while you scale, without getting pushed under your own tower.",
+        "rationale": "This duo needs time to scale, so avoiding a losing wave state that exposes them to ganks or lost tower is essential.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "These two champions need to scale, they must not get put behind nor pushed under their tower and lose it. This means they need to keep it out of range of their tower and in a position where they can be aggressive- like in the middle of the lane."
+      },
+      {
+        "tip": "As Twitch and Janna, keep the wave closer to your own side or the middle rather than overextending, since Twitch is squishy early and Janna can't save him if the jungler ganks.",
+        "rationale": "This lane lacks the early tools to punish an overextension if it's caught, so wave position has to compensate.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "They do not want to overextend as they might get surprise ganks from the enemy Jungler. While Janna can keep her ADC alive, Twitch is rather squishy in the early game with no real way of protecting himself."
+      },
+      {
+        "tip": "As Miss Fortune and Zyra, use your early damage and poke advantage to freeze the wave near your own tower and zone the enemy off CS.",
+        "rationale": "This duo's early poke lead converts directly into a zone-and-deny freeze against squishier opponents.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Because Miss Fortune and Zyra have insane damage and poke in the early game, they are able to zone and deny the enemy CS by freezing near their own tower."
+      },
+      {
+        "tip": "As Seraphine and Soraka, keep the wave even and in the middle of the lane rather than overpushing, so you aren't zoned off farm while you scale up.",
+        "rationale": "This duo lacks early damage, so avoiding a wave state the enemy can punish is more important than being aggressive.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "One way of preventing them doing this is by keeping the wave outside of your tower range and ideally in the middle of the lane. Seraphine needs time to scale, so she must be able to get as much farm as possible."
+      },
+      {
+        "tip": "As Caitlyn and Morgana, push the wave relentlessly and maintain strong ward coverage, since your range, poke, and wave clear let you keep the enemy under constant pressure.",
+        "rationale": "A duo with a clear damage and clear-speed edge should convert it into sustained pushes rather than passive play, while warding to avoid the jungler punishing the overextension.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "This bot lane duo can quickly push and keep it pushed thanks to their abilities and overall early-game damage. They have great wave clear and should be no match for the enemy. Because they will be pushing frequently, they need to make sure that they have sufficient ward coverage around the lane to spot the enemy Jungler."
+      },
+      {
+        "tip": "As Kog'Maw and Lulu against Caitlyn and Morgana, keep the wave close to your own tower but outside its range and avoid pushing at all costs, so you aren't denied farm or zoned while you scale.",
+        "rationale": "Against a lane with a clear early advantage, this duo has to prioritize safety over CS efficiency to survive to their scaling window.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "It’s important to keep it close and outside of tower range to prevent losing first tower while also being able to farm and not get denied or zoned by Morgana or Caitlyn. Avoid pushing at all costs and don’t let them push you into tower."
+      },
+      {
+        "tip": "If you're ahead and freezing, position yourself in front of the wave to threaten and deny the enemy's farm, but check the map first in case they're baiting a skirmish.",
+        "rationale": "Standing in the wave to zone works only if it isn't walking you into a setup, so a map check has to precede the play.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you’re ahead of the enemy and you’re freezing, you can position yourself in front of the minion wave to deny the enemy farm and gold. If they overextend in attempts to get the farm, you will be able to engage on them. Make sure you check the map before you engage on them though because they may be baiting you into a 1v2 skirmish."
+      },
+      {
+        "tip": "If the enemy is trying to reset the wave, intercept it before it reaches your tower, thin it down while tanking, then drop aggro when your reinforcements arrive to create a freeze.",
+        "rationale": "Meeting the enemy's push away from your tower converts what would have been a reset into a favorable freeze for you instead.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If the enemy is trying to make the wave reset, you can meet it before it hits your tower and thin it down while taking it and then dropping aggro when your minions arrive. This will create a freeze and will allow you to deny."
+      },
+      {
+        "tip": "Be extra cautious trying to freeze a cannon wave, since it's much less predictable and can easily push against you instead of holding.",
+        "rationale": "The cannon minion's extra health and damage make the usual freeze math unreliable.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Cannon minions are jerks. They’re very trolly in lane and it feels like their sole purpose is to mess up your wave management! Freezing on a cannon wave is 50/50 and it can work in your favor, but also against you."
+      },
+      {
+        "tip": "To break an enemy's freeze on your own, clear the minions and shove the wave into the enemy's tower so it resets or bounces into a more favorable position.",
+        "rationale": "Forcing the wave into their tower removes the local minion advantage the enemy is using to hold the freeze against you.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "In order for you to break the freeze on your own, you need to clear the minions and shove it into the enemies tower. This will make the tower reset or bounce the wave and let it end up in a much more favorable position."
+      },
+      {
+        "tip": "Prefer breaking a freeze yourself over calling your jungler for help, since pulling them in can cost your team map pressure and put other lanes behind.",
+        "rationale": "Solving the problem locally avoids exporting the cost of a bad freeze onto the rest of your team.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "The first option is much more viable than the second because it doesn’t require assistance. If your Jungler comes to help, your team might be losing pressure around the map and this could put your Jungler and other lanes behind."
+      },
+      {
+        "tip": "To slow push a wave, kill only the caster minions in it, letting the melee minions (which take longer to die) build a numbers advantage that pushes the wave toward the enemy over time.",
+        "rationale": "Removing the fast-dying casters while leaving the tankier melee minions is what produces the gradual, growing push.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "To slow push a wave, all you need to do is kill the caster minions in the enemies wave. You can do this with your basic attacks as well as using your abilities to take them down faster."
+      },
+      {
+        "tip": "Use a slow push to draw the enemy's attention to a growing wave while you take an objective or move elsewhere on the map, since an unanswered slow push can take down multiple towers on its own.",
+        "rationale": "A slow push forces a response from the enemy, and if it doesn't get one it becomes a second, self-sufficient threat.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "You should slow push a minion wave so it can draw the enemies attention which will allow you to take an objective or be somewhere else on the map. A slow-pushed wave can take down multiple towers if done correctly and if it is left unattended by the enemy."
+      },
+      {
+        "tip": "Avoid slow pushing during the early laning phase, since it can cost you CS and gold and put you in bad trades — save it for the later stages of laning and beyond.",
+        "rationale": "Slow pushing sacrifices short-term farming efficiency for a payoff that only matters once you're ready to leave lane.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Generally, you want to avoid using slow pushing in the laning phase (the early stages) because it will mess up your laning and it can make you miss out on CS and gold."
+      },
+      {
+        "tip": "Before roaming to help another lane, set up a slow push first so your tower isn't left exposed to a fast-pushing enemy wave while you're away.",
+        "rationale": "Leaving a neutral or frozen wave means the enemy is free to push your tower unchallenged during your roam.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Before you go to help other laners, you need to have the lane slow pushing. This is a must do before leaving your lane as it will stop the enemy from pushing quickly and taking down your tower while you’re missing."
+      },
+      {
+        "tip": "While roaming, frequently check back on your lane to see what the wave and the enemy are doing, and return promptly if the wave is being pushed back quickly.",
+        "rationale": "A slow push left unattended for too long can be undone if you don't monitor and react to the enemy's response.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "While you’re gone, make sure to frequently check back at your lane to see what the minions are doing and where the enemy is. If they are pushing it back quickly, you will need to return to lane as soon as you can."
+      },
+      {
+        "tip": "In the mid and late game, slow push the wave before recalling so it grows into a big wave and starts pressuring the nearest objective while you're away picking up items.",
+        "rationale": "A recall doesn't have to cost map pressure if the wave left behind is doing work on its own.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "In the mid and late game, if you want to Recall, you should slow push the wave in order for it to start forming a big wave which will eventually start applying pressure to the closest objective."
+      },
+      {
+        "tip": "During the early laning phase, fast push the wave before recalling rather than slow pushing it — slow pushing to back is a later-game technique.",
+        "rationale": "Slow pushing takes time to build that isn't worth spending during the early laning phase, where a quick fast push serves the recall better.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "You only want to slow push to back if you’re in the later stages of the game and not in the early game, in this case, you want to fast push, not slow push."
+      },
+      {
+        "tip": "Before leaving your lane to contest an objective like Dragon, Rift Herald, or Baron, set up a slow push first so the enemy can't freely push and take your towers while you're occupied.",
+        "rationale": "An unattended lane during an objective fight is a towers-for-objective trade you don't have to accept if the wave is already working for you.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "If you do not slow push the wave before leaving to take the objective, the enemy may push the lane and start taking your towers while you’re busy being occupied."
+      },
+      {
+        "tip": "When the enemy is forced to clear a big slow-pushed wave at their tower, use that window to pressure and take an objective elsewhere, since it effectively creates a 4v5 for them.",
+        "rationale": "An enemy occupied clearing a wave is a player missing from a fight or objective contest elsewhere on the map.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "During this time, your team could pressure the objective and try to take it why the enemy goes to clear the wave. A good time to do this is as soon as it starts attacking the tower. Fighting like this will make any fight 4v5 as an enemy will be missing trying to clear the tower."
+      },
+      {
+        "tip": "To fast push a wave, kill the melee (front) minions and any cannon minions first using autos and AOE abilities, since more minions relative to the enemy makes the push faster and stronger.",
+        "rationale": "Melee minions block the wave's advance the longest, so clearing them first is what actually speeds the push.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "To fast push a wave you need to kill all the melee minions (the front minions) as quickly as you can as well as any cannon minions in the lane. You should use your auto attacks as well as your AOE abilities to make the wave clearing quicker."
+      },
+      {
+        "tip": "When setting up to dive the enemy under their own tower, build up a bigger minion wave first so it helps tank tower shots and adds extra damage onto the enemy.",
+        "rationale": "A larger wave both soaks tower aggro and contributes damage, making an otherwise risky dive far safer.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "When you want to dive the enemy, you should have as many minions around you as possible to help tank the tower shots and also help you deal damage to the enemy."
+      },
+      {
+        "tip": "When the enemy has been forced back to base after a fight or death, fast push the wave into their tower to apply pressure and set it up favorably for when you return to lane.",
+        "rationale": "An empty enemy lane is the safest window to push hard without risking a response.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "You should fast push the wave so it pushes to the enemies tower. Doing this will allow you to deal damage to the enemy tower and apply pressure to it. Also, letting the wave bounce will leave it in a good place for when you finally come back to lane after Recalling."
+      },
+      {
+        "tip": "If your wave is too big to fully push under tower in time — due to a long death timer, enemy Teleport, or your own poor wave clear — thin it down instead, leaving a few ranged minions to slow push toward you.",
+        "rationale": "Forcing a full fast push you can't actually execute in time wastes the window; converting to a slow push salvages the situation.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "You should make the wave slow push towards you. To do this, thin the wave down, kill all the enemy melee champions, and leave a few enemy ranged minions and then Recall."
+      },
+      {
+        "tip": "Before committing to a fast push, check whether you have time to do it, whether you can push quickly enough, and whether the wave is too big — if any answer is unfavorable, slow push instead.",
+        "rationale": "This checklist decides whether a fast push will actually land in time or whether it's the wrong tool for the current wave size.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Before you think about pushing the wave in this situation, think about these things: Do I have time to push? Can I push quick enough? Is the wave too big?"
+      },
+      {
+        "tip": "If the enemy leaves lane to roam or teleport elsewhere, immediately start fast pushing your wave to punish their absence.",
+        "rationale": "An empty lane is the ideal window to apply pressure without any risk of a response.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If the enemy has gone to roam, or has Teleported to another lane, you should immediately start to fast push the wave."
+      },
+      {
+        "tip": "Before committing to a fast push when the enemy appears to leave lane, wait a few seconds to confirm they aren't baiting you.",
+        "rationale": "Pushing in reaction to a fake absence can walk you straight into a trade you didn't need to take.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Before choosing to fast push, leave it for a few seconds to make sure they’re not baiting you."
+      },
+      {
+        "tip": "After starting a fast push when the enemy leaves lane, choose between continuing to push for the tower or following the enemy to even a trade elsewhere — following is riskier since you may not catch them.",
+        "rationale": "Each option trades a guaranteed local gain (tower pressure) against a less certain but potentially bigger one (map trade).",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Alternatively, you can follow the enemy as the soon as you’ve started the fast push. This can be good as you can make any trade even but is also quite dangerous as you may not be able to follow the enemy when they leave your lane."
+      },
+      {
+        "tip": "If you want to back but still want the wave to fast push while you're gone, leave 3 minions alive and then fully clear the next reinforcement wave before leaving — best done when you're ahead or the enemy is out of lane.",
+        "rationale": "Clearing two waves' worth of minions in one pass builds a large fast-pushing wave that keeps working even after you've left.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you are wanting to back but also want the wave fast push quicker, you can leave the 3 minions alive, and then proceed to walk up to the next reinforcement wave and completely destroy all the minions. This is best done when you’re ahead of the enemy or when the enemy is either dead or out of lane and nobody is able to contest you."
+      },
+      {
+        "tip": "In top lane, fast push the wave before making a Teleport play or helping another lane, since it forces the enemy laner to either miss CS staying in lane or lose the ability to contest your play.",
+        "rationale": "A fast-pushed wave puts the enemy top laner in a lose-lose between farming and reacting to your Teleport.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "When trying to make a Teleport play or when you’re trying to help another lane out, you need to apply a fast push to the lane."
+      },
+      {
+        "tip": "In top lane, if you want to take Rift Herald with your jungler, set up a slow push first so your lane keeps progressing rather than sitting frozen and exposing your tower while you're gone.",
+        "rationale": "A frozen wave left unattended during a Herald play gives the enemy free pressure on your tower.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you want to take the Rift Herald with your Jungler, you should set up a slow push. This will allow your lane to be pushing and doing something while you’re gone."
+      },
+      {
+        "tip": "As jungler, don't waste time trying to gank a lane that's pushed up against your ally — unless you can dive, spend that time farming or taking other objectives instead.",
+        "rationale": "A pushed lane removes the space needed to land a gank, so forcing it there wastes jungle time better spent elsewhere.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Unless you can dive the enemy, you may be unable to gank any lane that is pushed up. Instead of wasting your time, you should spend it farming or looking to take other objectives."
+      },
+      {
+        "tip": "As jungler, look to gank lanes where the wave is even or frozen, since those wave states make a gank far easier to land.",
+        "rationale": "An even or frozen wave gives the jungler room to approach and engage without the lane already being lost to overextension either way.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If a lane is even, you may be able to gank it and if your allies are freezing, you will also be able to gank them."
+      },
+      {
+        "tip": "As jungler, when ganking an ally who's pushed under their own tower, expect only to relieve pressure rather than get a kill, since your laner likely can't follow up from that position.",
+        "rationale": "A pushed-under-tower ally is defensively positioned, which limits what a gank there can realistically accomplish.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "You will probably be unable to kill the enemy unless you can 1v1 them because your laners may be unable to follow up. Try to relieve pressure, and do not expect to get the kill – so don’t flame them if they can’t follow up!"
+      },
+      {
+        "tip": "As jungler, after a successful gank, help push the wave and pressure the tower, since taking the first tower early is often more valuable than most early drakes.",
+        "rationale": "A gank's value compounds when it's converted into structural damage rather than just a kill.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "After a successful gank, you should help push the wave and apply pressure to the tower. Depending on the length of the enemies death time, you may be able to take the tower. A tower in the early game is more important than most drakes, so try and get the first tower when you can."
+      },
+      {
+        "tip": "As jungler, push the wave for your laner after a gank unless they've specifically asked you not to, since ignoring their preference can ruin their preferred lane state.",
+        "rationale": "The laner has to live with the resulting wave state, so their stated preference should override the jungler's default instinct to push.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "With that said, if your ally doesn’t want the lane to be pushed- do not push it. It may ruin their laning experience and might make them mad. Unless they specify not to push, push the wave if you can."
+      },
+      {
+        "tip": "In mid lane, shove the wave in before going to help another lane, so it doesn't push back into your own tower while you're gone.",
+        "rationale": "Mid lane's short length means an unattended wave crashes into your tower quickly if it isn't pushing away from it first.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Before going to help any lanes out, you need to shove in the minion wave. Like the top lane with TP plays, you need the lane to be pushing so it doesn’t push against you while you’re gone."
+      },
+      {
+        "tip": "In mid lane, if the enemy has a champion notorious for level 2 ganks, don't push or overextend, since they'll punish it and keep camping you once they know you're vulnerable.",
+        "rationale": "Provoking an early gank from a champion built around it invites a repeat problem rather than a one-off.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If the enemy team has a champion who is notorious for level 2 ganks, be prepared for it. Do not push or overextend as they will gank and continue to camp you if they know you’re behind."
+      },
+      {
+        "tip": "In mid lane, default to keeping the wave closer to your own side rather than the enemy's, since mid is the easiest lane to gank and snowball.",
+        "rationale": "Mid's dual jungle-entrance exposure makes a self-favoring wave position the safer baseline choice.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Because the mid lane is arguably the easiest to gank and snowball, most of the time you will want the wave to be closer to your side of the lane rather than the enemies."
+      },
+      {
+        "tip": "When playing a mid lane champion who shoves the wave in early, keep strong map awareness and ward coverage to avoid cheeky ganks while pushed up.",
+        "rationale": "A pushed-up wave removes your minion buffer against ganks, so vision has to compensate for the lost safety.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "When playing as a champion who shoves in early, have good map awareness and ward coverage to prevent any cheeky ganks from the enemy."
+      },
+      {
+        "tip": "At champion select, pick a bot lane duo with compatible wave-management styles, since pairing a hard-engage support with a champion who wants to push under tower makes the support relatively useless early.",
+        "rationale": "Mismatched wave-state preferences between the ADC and support create an internal conflict the lane can never resolve.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "At champ select, try to choose a lane where you have good synergy between the ADC and Support. In a lane with little to no synergy, you will find yourself struggling to control waves as efficiently. For example, if you have a Support who needs to hard engage, you should not be playing somebody who wants to push the enemy under tower as it will make them relatively useless in the early stages of the game."
+      },
+      {
+        "tip": "As ADC, if your support dies, don't push the wave — let it come to you and freeze it outside your tower so your support can recover the XP and CS they missed.",
+        "rationale": "A frozen wave lets a dead support catch back up on farm once they respawn instead of falling further behind.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If your Support dies, try not to push the wave. Instead, let it come towards you and try to freeze it outside of your tower. Letting the wave freeze near your tower will allow your Support to pick up XP and CS that he missed."
+      },
+      {
+        "tip": "As ADC, when behind in a rough laning phase, keep the wave frozen on your side near your tier 2 tower and avoid pushing at all costs, so you can catch back up in farm.",
+        "rationale": "Pushing while behind only hands the enemy more opportunities to deny and zone you further.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "When behind and having an unlucky laning phase, you will need to catch up in farm. To do this, keep the wave frozen on your side of the map near your tier 2 tower. Avoid pushing at all costs because you will get denied and not be able to catch up."
+      },
+      {
+        "tip": "As support, when your ADC wants to freeze near their tower, hold the wave outside your tower's range until the next minion wave arrives, so it doesn't get pushed under tower and reset.",
+        "rationale": "The support's job in this state is to physically hold the wave in place while the ADC farms it down.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If the ADC wants to freeze near their tower, your job as the Support is to hold the wave outside of the range so it doesn’t get pushed under your tower and reset. You need to hold it until the next minion wave comes."
+      },
+      {
+        "tip": "As support, help execute whatever wave state your ADC wants — thin it down, reset it, push it, or back — by continuing to auto attack and use your abilities to assist.",
+        "rationale": "The ADC generally dictates lane state, so the support's role is to actively enable whichever plan they've chosen.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Alternatively, if the ADC wants to thin it down, you should help and if they want it to reset- you need to also help them. If the ADC wants to back and Recall or he wants to push the wave, you need to also help him do that."
+      },
+      {
+        "tip": "As support, before roaming to help another lane, make sure your ADC will be safe and won't die while you're gone.",
+        "rationale": "Leaving your ADC exposed in bot lane can turn a helpful roam into a losing trade for your own lane.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Before you roam to help other lanes, make sure your ADC is going to be safe and not get killed while you’re gone."
+      },
+      {
+        "tip": "As support, if the lane is even rather than ahead, default to helping freeze the wave outside your ADC's tower, since pushing would let the enemy deny your ADC's farm.",
+        "rationale": "An even lane state favors the safer default of freezing over the riskier option of pushing.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "In most situations, if you’re not ahead but are even, he will want it froze outside of his tower. If you push the wave, the enemy will be able to deny your ADC which will put him behind as he won’t be able to farm."
+      },
+      {
+        "tip": "When leashing for your jungler, leave lane by 1:37 or 1:38 at the latest so you don't miss lane minions and fall behind on experience.",
+        "rationale": "Missing early lane minions can cost you the race to level 2 and 3 against your opponent.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "You should aim to leave no later than 1:37/1:38. If you leave later, you may miss out on some of the minions which will give the enemy the experience advantage over yourself which can allow them to hit level 2 and level 3 before you."
+      },
+      {
+        "tip": "If your jungler invaded and stole an enemy buff, leave the leash by 1:33 at the latest, since you still need to get back to your own lane to avoid falling behind.",
+        "rationale": "A successful invade is only worth it if you don't sacrifice your own laning phase to help secure it.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you’ve invaded and stolen one of the enemies buffs, you will need to leave slightly earlier in order for you to not miss out anything. The latest you should leave is 1:33."
+      },
+      {
+        "tip": "Whenever you gain a level advantage over the enemy laner, be ready to engage or position to threaten them, since that's when your kit outclasses theirs.",
+        "rationale": "A level lead is a temporary window of ability and stat advantage that's wasted if you don't use it to pressure the enemy.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Whenever you hit a level advantage over the enemy, you should be prepared to engage on them or at the very least, put yourself in a position where you might be able to attack them."
+      },
+      {
+        "tip": "Study your specific champion's level power spikes so you know when you're strong and can play around your strengths rather than your weaknesses.",
+        "rationale": "Knowing your own spike timings lets you deliberately choose when to be aggressive versus when to play safe.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "Every champion also has level power spikes, and each is different for many champions, but researching and having good knowledge on your champions logistics and dynamics will allow you to know when they are strong and when they are weak."
+      },
+      {
+        "tip": "Only attempt to zone an enemy champion off the wave if you have the advantage or the ability to out-trade them; without it you can't effectively zone them.",
+        "rationale": "Zoning requires the threat of a winning fight to actually deter the enemy from farming.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "When you try to zone an enemy champion, you need to keep a few things in mind. Firstly, you must have the advantage or the ability to out-trade them if they decide to fight you. If you do not have this advantage, you can’t really zone them."
+      },
+      {
+        "tip": "When zoning an enemy champion, maintain good ward coverage so you don't get caught out while overextended.",
+        "rationale": "Zoning inherently puts you forward of your normal position, so vision is what prevents that from becoming a liability.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Secondly, you need to have good ward coverage so you do not get caught out while you’re overextended."
+      },
+      {
+        "tip": "You can pull the wave toward the enemy's side at level 1 by walking into lane early, setting the wave up to push toward you on the following waves and helping set up early jungler ganks.",
+        "rationale": "Manipulating the very first wave state compounds into a favorable position for the next several waves.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "You may have seen a level 1 pull in some of your games where one player goes into lane early and pulls the wave slightly towards the enemies side of the lane. This allows the minions to be slightly further up in the lane. The technique is good to manipulate the wave and have it start of pushing towards you on the following waves."
+      },
+      {
+        "tip": "To keep a wave pushing on its own while you're away from lane, maintain at least a 4-minion advantage over the enemy in that lane.",
+        "rationale": "An even wave naturally starts slow-pushing toward whichever side has more minions once it passes the halfway point, so a clear numbers edge is what sustains the push unattended.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you don’t want this to happen, make sure that you always have a 4 minion advantag e over the enemy in lane so it will keep pushing while you’re gone."
+      },
+      {
+        "tip": "Always maintain good ward coverage whenever you're pushing, freezing, or using any other wave management technique, since doing so without vision is highly risky.",
+        "rationale": "Every wave management technique requires you to commit position and attention to the wave, which is exactly when you're most vulnerable without vision.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "Pushing, freezing and trying to deny or zone the enemy is done at great risk without proper ward coverage. Make sure that you have wards around your lane and around the map when you try to use wave control techniques."
+      },
+      {
+        "tip": "The number of bonus enemy minions in a frozen wave roughly equals the number of waves worth of farm you can deny them, so a well-held freeze compounds significantly.",
+        "rationale": "Each extra minion held in the freeze represents an additional wave the enemy never gets to fully collect.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "The number of bonus enemy minions in a wave is the number of waves you can successfully freeze for. If there are 5 bonus minions in a wave, you could potentially deny the enemy at least 35 minions from the enemy."
+      },
+      {
+        "tip": "A wave will typically bounce off the tower the first time you push it under; only killing and pushing it again after that bounce will make it fully reset.",
+        "rationale": "The tower doesn't clear a full pushed wave in one pass, so a second push is usually needed to force the reset state.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Pro Tip: A wave will usually bounce off a tower first time around, if you kill and push the wave after it bounces, it will then reset."
+      },
+      {
+        "tip": "When trimming a wave down, prioritize killing the cannon minion first, since it both prevents the wave from pushing and reduces the damage it deals.",
+        "rationale": "The cannon minion contributes disproportionately to both push power and wave damage, so removing it first has the biggest effect.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Pro Tip: When trimming down a wave, make sure to take the cannon minion. This will prevent the wave from pushing if you want to freeze, and it will also prevent the wave from taking to much damage."
+      },
+      {
+        "tip": "To pull the wave, stay out of lane so the minions target you, then walk them into the river or a bush to keep them off your tower, dropping the pull once your reinforcements arrive.",
+        "rationale": "Making yourself the minions' focus lets you physically relocate the wave to a safer spot than where it would otherwise crash.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Pull the wave: Pulling the wave is where you have no minions in lane and you make the minions focus you. While they are focusing you, you can start walking into them and around the lane to prevent them from walking under your tower and killing themselves. You will usually pull a wave into the start of the river, or into the bushes."
+      },
+      {
+        "tip": "When pulling the wave, don't hold it for too long, since you'll take significant damage from the minions — thin it down first if you're unable to tank it.",
+        "rationale": "Pulling trades your own health for wave position, so the technique only stays worthwhile for a limited window.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Pro Tip: When pulling a wave, you may have to thin it down and kill a few of the minions if you’re unable to tank them. Make sure that you do not pull the wave for too long as you will take a lot of damage from the minions."
+      }
+    ]
+  }
+]

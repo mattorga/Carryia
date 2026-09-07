@@ -1,0 +1,17 @@
+{
+  "source_id": "three-minute-lol-how-to-play-support_PsD5QNyBkoY",
+  "changes": [
+    {
+      "kind": "repair",
+      "line": 2,
+      "before": "world atlas",
+      "after": "World Atlas"
+    },
+    {
+      "kind": "repair",
+      "line": 2,
+      "before": "support quest",
+      "after": "Support Quest"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+# Python 3.12
+youtube-transcript-api==1.2.4
+requests==2.34.2
+beautifulsoup4==4.15.0
+
+# Stage ⑤ ingest / retrieval (LLM-Zoomcamp minsearch technique; local embeddings)
+minsearch==0.2.0
+fastembed==0.8.0
+numpy==2.5.2
+
+# Answer generation (P0-6) -- Claude API, direct. The Bedrock
+# backend needs the [bedrock] extra (boto3), which lives in requirements-dev.txt
+# since only the builder's eval uses it -- the reviewer-run app stays on the direct API.
+anthropic==0.121.0
+
+# Interface (P0-7) -- the Streamlit Q&A app the reviewer runs.
+streamlit==1.63.0
+# Loads the reviewer's .env when they `streamlit run` locally (docker-compose passes
+# env directly; load_dotenv is a harmless no-op there).
+python-dotenv==1.2.2
+
+# Monitoring (P0-8) -- the app writes each answered question + its thumbs to Postgres,
+# which Grafana charts. psycopg2 is the driver; pydantic backs the structured relevance
+# judge (the 2nd LLM call per ask). Both are app-runtime now (the shipped monitored path
+# uses them), so they graduate here from requirements-dev.txt.
+psycopg2-binary==2.9.11
+pydantic==2.13.4

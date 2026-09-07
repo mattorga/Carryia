@@ -1,0 +1,113 @@
+{
+  "source_id": "shodesu-mid-late-game-macro_FytX3ECnvzE",
+  "changes": [
+    {
+      "kind": "repair",
+      "line": 6,
+      "before": "autop piloting",
+      "after": "autopiloting"
+    },
+    {
+      "kind": "repair",
+      "line": 11,
+      "before": "silus",
+      "after": "Sylas"
+    },
+    {
+      "kind": "repair",
+      "line": 18,
+      "before": "siing",
+      "after": "sieging"
+    },
+    {
+      "kind": "repair",
+      "line": 18,
+      "before": "dragon heral or",
+      "after": "dragon Herald or"
+    },
+    {
+      "kind": "repair",
+      "line": 23,
+      "before": "jarvin",
+      "after": "Jarvan"
+    },
+    {
+      "kind": "repair",
+      "line": 29,
+      "before": "syndra",
+      "after": "Syndra"
+    },
+    {
+      "kind": "repair",
+      "line": 37,
+      "before": "Herold",
+      "after": "Herald"
+    },
+    {
+      "kind": "repair",
+      "line": 38,
+      "before": "word their",
+      "after": "ward their"
+    },
+    {
+      "kind": "repair",
+      "line": 43,
+      "before": "Jinx Tom",
+      "after": "Jinx Tahm"
+    },
+    {
+      "kind": "repair",
+      "line": 44,
+      "before": "kench",
+      "after": "Kench"
+    },
+    {
+      "kind": "repair",
+      "line": 44,
+      "before": "master Y",
+      "after": "Master Yi"
+    },
+    {
+      "kind": "repair",
+      "line": 44,
+      "before": "Yoni",
+      "after": "Yone"
+    },
+    {
+      "kind": "repair",
+      "line": 48,
+      "before": "lake game",
+      "after": "late game"
+    },
+    {
+      "kind": "repair",
+      "line": 51,
+      "before": "siing",
+      "after": "sieging"
+    },
+    {
+      "kind": "repair",
+      "line": 52,
+      "before": "War the",
+      "after": "Ward the"
+    },
+    {
+      "kind": "repair",
+      "line": 52,
+      "before": "wars that",
+      "after": "wards that"
+    },
+    {
+      "kind": "repair",
+      "line": 57,
+      "before": "but Le is",
+      "after": "but League is"
+    },
+    {
+      "kind": "repair",
+      "line": 60,
+      "before": "vaud",
+      "after": "VOD"
+    }
+  ]
+}

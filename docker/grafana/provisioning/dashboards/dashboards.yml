@@ -1,0 +1,16 @@
+# Grafana dashboard provider (P0-8): load every dashboard JSON dropped in the mounted
+# dashboards directory, so the monitoring dashboard appears automatically on first boot.
+apiVersion: 1
+
+providers:
+  - name: Carryia
+    orgId: 1
+    folder: ""
+    type: file
+    disableDeletion: false
+    editable: true
+    updateIntervalSeconds: 30
+    allowUiUpdates: true
+    options:
+      path: /var/lib/grafana/dashboards
+      foldersFromFilesStructure: false

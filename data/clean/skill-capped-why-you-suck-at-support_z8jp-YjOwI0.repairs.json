@@ -1,0 +1,65 @@
+{
+  "source_id": "skill-capped-why-you-suck-at-support_z8jp-YjOwI0",
+  "changes": [
+    {
+      "kind": "artifact",
+      "line": 58,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 59,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 61,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 65,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 72,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "repair",
+      "line": 81,
+      "before": "void grabs",
+      "after": "Void Grubs"
+    },
+    {
+      "kind": "artifact",
+      "line": 98,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 103,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 115,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 117,
+      "before": "[music]",
+      "after": ""
+    }
+  ]
+}

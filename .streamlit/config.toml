@@ -1,0 +1,14 @@
+[server]
+# Auto-rerun on source save so edits show without restarting the dev server
+# (off by default). Applies to every `streamlit run` in the repo.
+runOnSave = true
+
+[theme]
+# Dark, League-ish palette for the post-game dashboard (design iteration).
+# Applies to every app in the repo; the graded Q&A (app.py) inherits the same
+# dark ground, which keeps the two views visually one product.
+base = "dark"
+primaryColor = "#C8AA6E"              # League gold — accents, focus, progress
+backgroundColor = "#0A0E14"           # near-black navy page ground
+secondaryBackgroundColor = "#12161F"  # cards, sidebar, widget fills
+textColor = "#E8E6E3"

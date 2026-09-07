@@ -1,0 +1,11 @@
+{
+  "source_id": "eiensiei-guide-to-support",
+  "changes": [
+    {
+      "kind": "artifact",
+      "line": 19,
+      "before": "[read: Every game is different, so what do you do if it doesn't all work out according to the \"ideal\" steps?]",
+      "after": ""
+    }
+  ]
+}

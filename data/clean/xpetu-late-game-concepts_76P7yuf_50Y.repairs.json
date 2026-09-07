@@ -1,0 +1,47 @@
+{
+  "source_id": "xpetu-late-game-concepts_76P7yuf_50Y",
+  "changes": [
+    {
+      "kind": "repair",
+      "line": 3,
+      "before": "elixir of sorcery",
+      "after": "Elixir of Sorcery"
+    },
+    {
+      "kind": "repair",
+      "line": 33,
+      "before": "Silas",
+      "after": "Sylas"
+    },
+    {
+      "kind": "repair",
+      "line": 38,
+      "before": "Pike",
+      "after": "Pyke"
+    },
+    {
+      "kind": "repair",
+      "line": 43,
+      "before": "Pike",
+      "after": "Pyke"
+    },
+    {
+      "kind": "repair",
+      "line": 46,
+      "before": "Pike",
+      "after": "Pyke"
+    },
+    {
+      "kind": "repair",
+      "line": 47,
+      "before": "Pike",
+      "after": "Pyke"
+    },
+    {
+      "kind": "repair",
+      "line": 48,
+      "before": "Pike",
+      "after": "Pyke"
+    }
+  ]
+}

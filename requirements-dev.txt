@@ -1,0 +1,10 @@
+# Dev/test dependencies. Not needed to run the app or the Docker image.
+#   pip install -r requirements-dev.txt   installs runtime + test tooling.
+-r requirements.txt
+pytest==9.1.1
+
+# P0-6 eval: the Bedrock backend for running the eval on AWS credits (boto3 is what
+# anthropic[bedrock] adds beyond anthropic) -- builder/eval-only, off the reviewer's
+# runtime path. (pydantic moved to requirements.txt when the app's relevance judge made
+# it app-runtime -- P0-8; requirements.txt is included above, so it's still installed.)
+boto3==1.43.82

@@ -1,0 +1,18 @@
+{
+  "task": "P0-6 pairwise answer eval (BLUNT vs WHY)",
+  "date": "2026-08-29",
+  "n_questions": 709,
+  "sampling": "full ground-truth census (all rows, no sampling)",
+  "both_orders": true,
+  "debias": "each pair judged in both orders; a win is credited only if it survives the swap, else tie",
+  "backend": "bedrock",
+  "model": "claude-haiku-4-5",
+  "calls": 2836,
+  "calls_breakdown": {"generation": 1418, "judge": 1418},
+  "runtime_seconds": 16969,
+  "rate_limit_rpm": 10,
+  "counts": {"BLUNT": 217, "WHY": 298, "tie": 194},
+  "winner": "WHY",
+  "source_log": "scratchpad/p0-6_eval_709.log",
+  "produced_by": "scripts/eval_answer.py main()"
+}

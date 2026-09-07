@@ -1,0 +1,11 @@
+{
+  "source_id": "mobalytics-warding-guide",
+  "changes": [
+    {
+      "kind": "repair",
+      "line": 23,
+      "before": "scuttle crab",
+      "after": "Scuttle Crab"
+    }
+  ]
+}

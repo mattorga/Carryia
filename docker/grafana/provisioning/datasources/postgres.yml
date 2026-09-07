@@ -1,0 +1,19 @@
+# Grafana datasource (P0-8): the monitoring Postgres, auto-provisioned so the reviewer
+# opens Grafana to a working dashboard with no manual setup.
+apiVersion: 1
+
+datasources:
+  - name: Carryia Postgres
+    uid: carryia-postgres          # panels reference this uid
+    type: grafana-postgresql-datasource
+    access: proxy
+    url: db:5432                    # the compose service name
+    user: carryia
+    isDefault: true
+    jsonData:
+      database: carryia
+      sslmode: disable
+      postgresVersion: 1600
+    secureJsonData:
+      password: carryia
+    editable: false

@@ -1,0 +1,107 @@
+{
+  "source_id": "skill-capped-complete-beginner-guide-2026_HKqhMssvwMI",
+  "changes": [
+    {
+      "kind": "repair",
+      "line": 1,
+      "before": "role quest",
+      "after": "Role Quest"
+    },
+    {
+      "kind": "repair",
+      "line": 4,
+      "before": "SkillCap",
+      "after": "Skill Capped"
+    },
+    {
+      "kind": "artifact",
+      "line": 45,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "repair",
+      "line": 45,
+      "before": "role quest",
+      "after": "Role Quest"
+    },
+    {
+      "kind": "artifact",
+      "line": 52,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 88,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "repair",
+      "line": 91,
+      "before": "role quest",
+      "after": "Role Quest"
+    },
+    {
+      "kind": "artifact",
+      "line": 93,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "repair",
+      "line": 111,
+      "before": "crystalline overgrowth",
+      "after": "Crystalline Overgrowth"
+    },
+    {
+      "kind": "repair",
+      "line": 135,
+      "before": "nasher",
+      "after": "Nashor"
+    },
+    {
+      "kind": "repair",
+      "line": 138,
+      "before": "nasher",
+      "after": "Nashor"
+    },
+    {
+      "kind": "repair",
+      "line": 176,
+      "before": "fae lights",
+      "after": "Faelights"
+    },
+    {
+      "kind": "artifact",
+      "line": 180,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "repair",
+      "line": 188,
+      "before": "far sight",
+      "after": "Farsight"
+    },
+    {
+      "kind": "repair",
+      "line": 191,
+      "before": "role quest",
+      "after": "Role Quest"
+    },
+    {
+      "kind": "repair",
+      "line": 193,
+      "before": "Feylights",
+      "after": "Faelights"
+    },
+    {
+      "kind": "repair",
+      "line": 238,
+      "before": "Swift Play",
+      "after": "Swiftplay"
+    }
+  ]
+}

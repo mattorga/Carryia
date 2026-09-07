@@ -1,0 +1,11 @@
+{
+  "source_id": "shodesu-the-support-climb-blueprint_Gqmd_P_NENQ",
+  "changes": [
+    {
+      "kind": "repair",
+      "line": 3,
+      "before": "stopped lane",
+      "after": "stomped lane"
+    }
+  ]
+}

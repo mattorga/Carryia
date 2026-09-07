@@ -1,0 +1,40 @@
+# Secrets — never commit. .env.example carries the shape instead.
+.env
+.env.local
+*.key
+
+# Local assistant scratchpad (Remember plugin) — never commit
+.remember/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+
+# Local vector store / model caches (rebuilt by ingest, never committed)
+.chroma/
+chroma_db/
+.cache/
+.fastembed_cache/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Local assistant config — CLAUDE.md (project protocol) and the .claude dir
+CLAUDE.md
+.claude
+
+# Author-side raw sources — gitignored: whole
+# copyrighted guides aren't needed for reviewer reproducibility (they start at ⑤).
+data/raw
+
+# Cohort-crawl diagnostic — carries third-party player puuids and is a working
+# measurement artifact, not a reviewer input. The committed benchmark is the
+# aggregate-only data/benchmark/cohort.json (no puuids); this report stays local.
+data/benchmark/pilot_report.json

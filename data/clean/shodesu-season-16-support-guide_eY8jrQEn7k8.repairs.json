@@ -1,0 +1,137 @@
+{
+  "source_id": "shodesu-season-16-support-guide_eY8jrQEn7k8",
+  "changes": [
+    {
+      "kind": "repair",
+      "line": 2,
+      "before": "support quest",
+      "after": "Support Quest"
+    },
+    {
+      "kind": "repair",
+      "line": 2,
+      "before": "support quest",
+      "after": "Support Quest"
+    },
+    {
+      "kind": "repair",
+      "line": 3,
+      "before": "rode pre-level 3",
+      "after": "roamed pre-level 3"
+    },
+    {
+      "kind": "repair",
+      "line": 5,
+      "before": "rune and compass",
+      "after": "Runic Compass"
+    },
+    {
+      "kind": "repair",
+      "line": 6,
+      "before": "world atlas",
+      "after": "World Atlas"
+    },
+    {
+      "kind": "repair",
+      "line": 11,
+      "before": "home guards",
+      "after": "Homeguards"
+    },
+    {
+      "kind": "repair",
+      "line": 11,
+      "before": "Homeg guards",
+      "after": "Homeguards"
+    },
+    {
+      "kind": "repair",
+      "line": 12,
+      "before": "Home Guard",
+      "after": "Homeguard"
+    },
+    {
+      "kind": "repair",
+      "line": 13,
+      "before": "homeg guard",
+      "after": "Homeguard"
+    },
+    {
+      "kind": "repair",
+      "line": 13,
+      "before": "homeg guard",
+      "after": "Homeguard"
+    },
+    {
+      "kind": "repair",
+      "line": 14,
+      "before": "homeg guard",
+      "after": "Homeguard"
+    },
+    {
+      "kind": "repair",
+      "line": 15,
+      "before": "Homeg Guard",
+      "after": "Homeguard"
+    },
+    {
+      "kind": "repair",
+      "line": 16,
+      "before": "failites",
+      "after": "Faelights"
+    },
+    {
+      "kind": "repair",
+      "line": 18,
+      "before": "failites",
+      "after": "Faelights"
+    },
+    {
+      "kind": "repair",
+      "line": 18,
+      "before": "which fail depends",
+      "after": "which Faelight depends"
+    },
+    {
+      "kind": "repair",
+      "line": 18,
+      "before": "elemental roof",
+      "after": "elemental rift"
+    },
+    {
+      "kind": "repair",
+      "line": 19,
+      "before": "failite",
+      "after": "Faelight"
+    },
+    {
+      "kind": "repair",
+      "line": 21,
+      "before": "failite",
+      "after": "Faelight"
+    },
+    {
+      "kind": "repair",
+      "line": 21,
+      "before": "pryo",
+      "after": "prio"
+    },
+    {
+      "kind": "repair",
+      "line": 21,
+      "before": "pryo",
+      "after": "prio"
+    },
+    {
+      "kind": "repair",
+      "line": 22,
+      "before": "failites",
+      "after": "Faelights"
+    },
+    {
+      "kind": "repair",
+      "line": 22,
+      "before": "permawwarding",
+      "after": "perma-warding"
+    }
+  ]
+}

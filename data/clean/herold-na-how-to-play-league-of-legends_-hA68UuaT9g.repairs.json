@@ -1,0 +1,59 @@
+{
+  "source_id": "herold-na-how-to-play-league-of-legends_-hA68UuaT9g",
+  "changes": [
+    {
+      "kind": "artifact",
+      "line": 1,
+      "before": "[Music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 6,
+      "before": "[ __ ]",
+      "after": ""
+    },
+    {
+      "kind": "repair",
+      "line": 9,
+      "before": "Swift Play",
+      "after": "Swiftplay"
+    },
+    {
+      "kind": "repair",
+      "line": 10,
+      "before": "mobile",
+      "after": "MOBA"
+    },
+    {
+      "kind": "repair",
+      "line": 11,
+      "before": "mobs",
+      "after": "MOBAs"
+    },
+    {
+      "kind": "artifact",
+      "line": 36,
+      "before": "[ __ ]",
+      "after": ""
+    },
+    {
+      "kind": "repair",
+      "line": 61,
+      "before": "Omni vamp",
+      "after": "Omnivamp"
+    },
+    {
+      "kind": "repair",
+      "line": 64,
+      "before": "Jarvin",
+      "after": "Jarvan"
+    },
+    {
+      "kind": "artifact",
+      "line": 65,
+      "before": "[ __ ]",
+      "after": ""
+    }
+  ]
+}

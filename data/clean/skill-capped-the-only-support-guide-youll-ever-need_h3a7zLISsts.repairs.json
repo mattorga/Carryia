@@ -1,0 +1,161 @@
+{
+  "source_id": "skill-capped-the-only-support-guide-youll-ever-need_h3a7zLISsts",
+  "changes": [
+    {
+      "kind": "artifact",
+      "line": 3,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 14,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 20,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 40,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 43,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 50,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 52,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 72,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "repair",
+      "line": 74,
+      "before": "Millio",
+      "after": "Milio"
+    },
+    {
+      "kind": "repair",
+      "line": 75,
+      "before": "Millio",
+      "after": "Milio"
+    },
+    {
+      "kind": "artifact",
+      "line": 82,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "repair",
+      "line": 88,
+      "before": "Nars",
+      "after": "Gnar's"
+    },
+    {
+      "kind": "artifact",
+      "line": 93,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 101,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "repair",
+      "line": 102,
+      "before": "rebound realm",
+      "after": "rebound roam"
+    },
+    {
+      "kind": "repair",
+      "line": 116,
+      "before": "Zera",
+      "after": "Xerath"
+    },
+    {
+      "kind": "repair",
+      "line": 116,
+      "before": "Ash ",
+      "after": "Ashe "
+    },
+    {
+      "kind": "repair",
+      "line": 116,
+      "before": "Ash ",
+      "after": "Ashe "
+    },
+    {
+      "kind": "artifact",
+      "line": 117,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 128,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 144,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 145,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 147,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 148,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 154,
+      "before": "[music]",
+      "after": ""
+    },
+    {
+      "kind": "artifact",
+      "line": 158,
+      "before": "[music]",
+      "after": ""
+    }
+  ]
+}

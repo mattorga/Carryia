@@ -1,0 +1,1063 @@
+[
+  {
+    "source_id": "mobalytics-warding-guide",
+    "drafts": [
+      {
+        "tip": "Take the Warding Totem (yellow trinket) as your starting trinket in the majority of matchups, since it lets you ward your lane in the early game.",
+        "rationale": "Most champions get more early value from vision uptime than from the Oracle Lens's denial, which barely matters before mid game.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "For the majority of champions, you would want to take the Warding Totem because it grants you vision that will allow you to ward your lane."
+      },
+      {
+        "tip": "Never let your trinket sit capped at two charges — use a ward before you cap out.",
+        "rationale": "A capped trinket stops generating new vision for your team until you spend a charge.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "You are limited to 2 stacks or charges on your Trinket for this specific ward, but generally, you should never have two stacks on your Trinket."
+      },
+      {
+        "tip": "As support, be extra mindful of the 3-ward trinket cap, since you place wards far more often than any other role and are the one most likely to overcap.",
+        "rationale": "No other role places three trinket wards at a time, so the cap bites the support hardest.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "The limit that is put upon us can be quite devastating for Supports compared to any of the other roles because nobody else will place 3 of wards at any given time."
+      },
+      {
+        "tip": "Buy and place Control Wards whenever you have inventory space — they are worth the gold throughout the game.",
+        "rationale": "Control Wards deny and provide information in a way trinket wards can't, making the spend worthwhile for every role.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "Control Wards are incredibly important for everybody to buy and you should always try to purchase them whenever you have inventory space."
+      },
+      {
+        "tip": "As support, buy Control Wards frequently and keep replacing them as the game develops rather than resting on your first purchase.",
+        "rationale": "Vision needs shift as the map opens up, so a single early Control Ward stops being useful once the game moves on.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "As a Support , you should be picking up a lot of these wards and frequently replacing them as the game develops."
+      },
+      {
+        "tip": "As a solo laner, buy a Control Ward early and keep placing new ones as the game continues.",
+        "rationale": "Solo lanes benefit from the same continuous Control Ward habit the support relies on, just at a lower frequency.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "As a solo laner , you should purchase a Control Ward in the early game and keep placing them when you can as the game continues."
+      },
+      {
+        "tip": "Don't chase a specific vision score number — just keep buying and placing Control Wards throughout the game as the situation calls for it.",
+        "rationale": "Vision score is a byproduct of good habits, not a target worth optimizing directly.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "You do not need to aim for a vision score by a certain period of time. You just need to continue buying Control Wards and placing them throughout the game."
+      },
+      {
+        "tip": "Balance ward purchases against your item build — don't buy so many wards that you fall behind on core items and gold.",
+        "rationale": "Overspending on wards trades power for information you may not need as urgently.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "Do not buy too many of course as you will fall behind in items and gold. You will need to find a healthy balance between getting items and buying wards in relation to the game’s context"
+      },
+      {
+        "tip": "Model your Control Ward habits on pros: they don't aim for a score, they place wards reactively when needed, and they always return to lane with at least one Control Ward.",
+        "rationale": "Pro play treats Control Wards as a recurring habit tied to need, not a stat to hit, and that discipline is copyable.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Pros frequently purchase more than one at a time, and in pro play they always return to lane with at least 1 Control ward."
+      },
+      {
+        "tip": "Don't take the Oracle Lens (red trinket) at level 1 — the Warding Totem gives more value that early since the Oracle Lens doesn't meaningfully help you or your team yet.",
+        "rationale": "Denial trinkets only pay off once there's enemy vision worth clearing, which isn't the case at level 1.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "I do not recommend that you take this trinket at level one because it doesn’t necessarily benefit you as much compared to the Warding Totem."
+      },
+      {
+        "tip": "If you're the jungler, pick up the Oracle Lens as soon as you can to clear enemy wards and boost your gank success rate.",
+        "rationale": "Clearing wards blinds the enemy to your approach, which directly raises your gank success rate.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you are a Jungler, you definitely want to pick up this trinket as soon as you can to help you ganking lanes. Clearing wards will give you a higher success rate when it comes to ganking lanes as the enemy will be in the dark."
+      },
+      {
+        "tip": "As support, switch your trinket to the Oracle Lens as soon as you complete your warding quest, since holding onto the Warding Totem after that stops being worth it.",
+        "rationale": "Once the quest reward is banked, the extra ward charges matter less than the ability to clear enemy vision.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "As the Support, as soon as you are about to complete your warding quest, make sure to change your trinket to this one to take advantage of the ability to clear vision."
+      },
+      {
+        "tip": "Only Top, Mid, and ADC should pick up the Farsight Alteration (blue trinket) after level 9 — Jungle and Support are better served taking the red trinket instead.",
+        "rationale": "Farsight's long-range scouting suits lane roles who need eyes on distant objectives, not the roles who already roam for vision.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "I recommend that only these 3 roles use this item because the other two roles should take Red Trinkets instead."
+      },
+      {
+        "tip": "Hold onto your Farsight Alteration charge until an objective is about to spawn, so you can confirm whether the enemy is contesting it.",
+        "rationale": "Saving the charge for the spawn window is what turns it into actionable objective information rather than a wasted scout.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "It is important to hold onto this trinket when an objective is spawning just to make sure that you can see the objective and tell if the enemy is taking it."
+      },
+      {
+        "tip": "Before minions spawn, stand in your role's typical scouting position instead of immediately placing a ward — good positioning can save your first ward entirely.",
+        "rationale": "Using yourself as a spotter accomplishes the same early information a ward would, without spending the resource.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you stand in these areas like suggested, you will not have to place your ward at level 1, nor will you have to walk into the unknown when you make your way to your lane after leashing for your Jungler."
+      },
+      {
+        "tip": "Don't walk blindly into your lane after leashing the jungler — it can force an early Flash or an early recall that disrupts your whole early game.",
+        "rationale": "Walking into the unknown removes your ability to react, so the cost of a surprise is much higher than it needs to be.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Walking into the unknown can be very dangerous and you may have to blow your Flash early or you may have to recall even before getting to lane which can mess up your early game."
+      },
+      {
+        "tip": "Against a Blitzcrank or Thresh, or a jungler notorious for early invades, don't rely on positioning alone at level 1 — place a ward, since you're at real risk of being hooked or invaded before minions spawn.",
+        "rationale": "Positioning only protects you if the threat is visible; hook range and pre-minion invades punish that assumption.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "There are some exceptions to this rule, however, such as playing against a Blitzcrank or Thresh who can hook you level 1 or if the enemy is notorious for invading before minions spawn."
+      },
+      {
+        "tip": "Don't place any wards before the 1:25 mark — that early they give next to no information, and positioning yourself well accomplishes the same thing for free.",
+        "rationale": "A ward placed too early burns a resource before there's anything worth seeing.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "It is beneficial to not place any wards pre 1:25. This is because the information they will give you is next to nothing and you could actually save yourself using a ward just by positioning better."
+      },
+      {
+        "tip": "Ward the river bush at 1:25 to catch the enemy taking Scuttle Crab and to get advance warning of a level-2 gank or invade.",
+        "rationale": "The 1:25 timing lines up with the Scuttle Crab spawn and the level-2 window, making it the highest-value moment for that ward.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Warding at 1:25 will help your Jungler and your team out by knowing if the enemy is taking that side of the map’s Scuttle Crab as well as the knowledge of a level 2 gank or an invade."
+      },
+      {
+        "tip": "Have the laner on the opposite side of the map from your jungler's start place the 1:25 river ward.",
+        "rationale": "Splitting river vision this way covers the side your jungler isn't already watching from their own path.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Depending on what side your Jungler starts on, you should place a ward on the other side of the map."
+      },
+      {
+        "tip": "Against known level-2-gank junglers like Shaco, Twitch, Jarvan, or Camille, ward the river early to spot them approaching and prevent the gank.",
+        "rationale": "These junglers rely on the element of surprise for their level-2 play, so river vision removes their main advantage.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you are against a champion who is notorious for level 2 ganks such as Shaco , Twitch , Jarvan , or Camille , warding here can potentially prevent an early gank as you would be able to spot them going through the river if they were to take this route."
+      },
+      {
+        "tip": "While waiting in your level-1 scouting bush, keep moving rather than standing still, so you don't get hit by an enemy ability while camped there.",
+        "rationale": "A stationary target in a known bush is an easy skillshot for the enemy to land.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "I recommend that you keep moving while in these bushes in case the enemy tries to hit you with abilities."
+      },
+      {
+        "tip": "Stay attentive before minions spawn instead of tabbing out — you could get hooked or engaged on at level 1 if you're not watching.",
+        "rationale": "Level-1 engages punish inattention specifically because the window to react is so short.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "That means you shouldn’t be tabbing out when the game has started. Make sure that pre minions spawning, you’re in a position to see the enemy in case they come."
+      },
+      {
+        "tip": "As blue-side top in the early game, default to a trinket ward in the river bush rather than a Control Ward, switching to a Control Ward only if you're pushing.",
+        "rationale": "A trinket ward can't be seen or cleared, so it's the safer default when you don't have the wave state to protect a Control Ward.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "In the majority of matchups, you will start off by placing a Green Ward in this bush during the early game. If you are pushing, you can switch up this ward and place a Control Ward in the top lane river bush instead."
+      },
+      {
+        "tip": "Don't place a Control Ward in the top river bush while freezing or playing evenly — the enemy can clear it easily and you'll have wasted the gold.",
+        "rationale": "Without wave or lane pressure to punish the enemy for walking up, a visible ward there just gets cleared for free.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "However, if you are freezing or playing evenly, you should not place a Control Ward here. This is because the enemy will be able to clear it and you will not be able to do anything about it."
+      },
+      {
+        "tip": "Unless you can fight for vision dominance in the river, place your Control Ward further down the river rather than right at the bush, since it survives longer and is more cost-efficient there.",
+        "rationale": "A ward's value scales with how long it stays alive, and a contested bush ward gets cleared fast.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Unless you can physically 1v1 the enemy or fight them for vision dominance in the river, it’s better to place a Control Ward further down in the river as it will be more cost efficient for you because it will stay alive for longer."
+      },
+      {
+        "tip": "Don't place a Control Ward inside the enemy's own bush — they can clear it easily, making it an ineffective use of the ward.",
+        "rationale": "A ward on the enemy's side of a contested area is trivial for them to walk up and destroy.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Furthermore, I do not recommend that you place in a Control Ward in the enemy’s bush as they would easily be able to clear it."
+      },
+      {
+        "tip": "Don't prioritize warding the top lane's three side bushes in most matchups — they rarely give useful information, though it's worth it against a champion who can jump on you, like Rengar, or when your trinket is close to capping out.",
+        "rationale": "These bushes are low-traffic in most matchups, so the vision they provide usually isn't worth the ward spent.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": "Rengar",
+        "excerpt": "I would not suggest completely throwing out the idea of warding these three bushes though- especially if you in a matchup where the enemy can jump on you such as a Rengar or if you’re coming close to having two stacks on your trinket and are unable to ward elsewhere."
+      },
+      {
+        "tip": "When losing top lane and under pressure, keep your jungle warded so you and your jungler get advance warning of enemy rotations toward mid, Rift Herald, or your jungle camps.",
+        "rationale": "A losing top laner has no lane pressure to punish enemy movement, so map vision becomes the only early-warning system left.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "For example, if the enemy was to rotate to the mid lane, go to the Rift Herald or try to take away a jungle camp- you would know about it."
+      },
+      {
+        "tip": "When roaming further from base while behind, stick to trinket wards rather than Control Wards, since a pushing enemy can clear Control Wards easily and waste your gold.",
+        "rationale": "An unprotected Control Ward left far from your position is a free clear for a pushing opponent.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "I recommend that when you are moving further away from your base that you only use Trinket Wards to ward the map. This is because if the enemy decides to push their lane, they will easily be able to clear your Control Wards and you would have wasted gold."
+      },
+      {
+        "tip": "When behind, keep a Control Ward in the river bush or near your blue buff so any enemy ward placed nearby gets spotted and can be cleared.",
+        "rationale": "Denying the enemy's own vision in your territory limits how safely they can push or invade.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "However, I recommend that there is a Control Ward in the river bush or alternatively one near your blue buff. This is because, if the enemy is to place a ward nearby, it would be spotted and it could be taking off the map easily."
+      },
+      {
+        "tip": "When on the back foot, prioritize even or defensive ward placements over offensive ones, since the enemy will control most of the map on their side anyway.",
+        "rationale": "Offensive wards on the enemy's side of the map get cleared quickly and rarely pay off when you don't have map pressure.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "There is no point placing offensive wards in a losing match up as the enemy will always be on your side of the map. I would suggest that you place even or defensive wards instead."
+      },
+      {
+        "tip": "When ahead and pushed up in lane, ward deeper into the enemy jungle — the further forward you are, the more warning time you need to react to the enemy closing in.",
+        "rationale": "Being deep in enemy territory shrinks your margin for error, so the ward needs to buy back reaction time.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "The further you are up in the lane, the more vision you need deeper into the enemies jungle as this will give you the longest reaction time to the enemy moving towards you."
+      },
+      {
+        "tip": "When pushed up into the enemy jungle, prefer trinket wards over Control Wards, since a stealthed ward is more likely to survive than a visible Control Ward the enemy can just walk up and check.",
+        "rationale": "Invisibility, not durability, is what keeps a ward alive deep in contested territory.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "I do not recommend Control Wards in this situation as you maybe unable to contest them. Furthermore, the enemy could easily clear them if they were to check the bushes. As the Green Wards are invisible, the likelihood of them staying alive for longer is probable."
+      },
+      {
+        "tip": "As red-side top playing under tower or having a rough lane, avoid warding either side bush — walk down the river and place the ward there instead.",
+        "rationale": "A ward you can't protect near your own tower gets cleared just as easily as one in the enemy's bush.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "I recommend that you do not place a Control Wards in either of these two bushes if you are playing under tower or are having a rough time in lane. If you cannot place them in either of the bushes, then go and take a walk down the river and place a ward in the middle of the river bush."
+      },
+      {
+        "tip": "When pushing aggressively as red-side top, ward the jungle plant near your lane wall so you can spot it being used against you and back off or destroy the plant preemptively.",
+        "rationale": "The jungle plant is a common gank tool, so seeing it in use gives you the warning needed to disengage safely.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "When you are playing aggressively and are pushing your lane, you can place a Green Ward over the small wall near your lane to provide you with vision of the jungle plant. Many Junglers use this plant as a means to gank the top lane. If you see the enemy attempting to use this, you can back off in time without fear of being killed."
+      },
+      {
+        "tip": "When losing top lane, don't push too far forward and only ward when it's safe — lean on your trinket as the primary vision source since Control Wards are too easily lost there.",
+        "rationale": "A losing laner can't protect a Control Ward placed deep, so trinket vision is the more reliable option.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Because it is difficult to ward deeply when you are being pressured, I would recommend that you do not push up to far forward and only ward when it is safe to do. I recommend the use of your trinket for this as it will be the most reliable way of gaining vision."
+      },
+      {
+        "tip": "When losing top lane, keep Control Wards in your own jungle so you and your jungler get warning if the enemy top rotates in to steal camps or buffs.",
+        "rationale": "A losing laner is the most likely target for enemy jungle rotations, so jungle vision protects both the lane and the jungler's camps.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "It is beneficial to have Control Wards in your own jungle to see if the enemy Top decides to rotate through your teams Jungle or is attempting to take away any camps or buffs."
+      },
+      {
+        "tip": "When winning top lane and pushed into enemy territory, prioritize trinket wards over Control Wards, since the enemy can clear a visible Control Ward there too easily.",
+        "rationale": "Being pushed up removes your ability to contest a cleared ward, so the invisible option holds up better.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "As you are pushed up into the enemies side of the map, I would recommend that you prioritize placing Vision Wards rather than Control Wards as the enemy will easily be able to clear them and you may not be in a position to challenge them for it."
+      },
+      {
+        "tip": "When winning top lane, place a Control Ward in the top river bush to deny the enemy vision there and prevent a teleport play or a spotted jungler.",
+        "rationale": "Denying that specific bush removes one of the enemy's few remaining tools to swing the lane back.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "A good Control Ward in the top bush will deny any vision for the enemy which can come in handy to prevent a TP play or the enemy spotting your Jungler."
+      },
+      {
+        "tip": "When pushed up top, place a trinket ward in the middle of the enemy's top-side jungle just outside their blue buff — it's a high-value spot covering multiple approach routes at once.",
+        "rationale": "A single central ward there covers jungle, top-side, mid, and wolf-pit approaches simultaneously, maximizing information per ward.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "This is because it grants vision of people coming into the jungle, coming from the top side of the Jungle, coming from mid lane as well as coming from the wolf pit."
+      },
+      {
+        "tip": "In mid lane, the support and jungler should both help provide vision, since the mid laner alone can't cover the entire mid side of the map.",
+        "rationale": "Mid lane's warding load is too large for one player, so it has to be a shared team responsibility.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "The mid laner is unable to ward the whole of the mid side of the map which means it’s up to the Jungler and the Support to help them ward."
+      },
+      {
+        "tip": "As mid laner, place your side-bush Control Ward closer to your own side of the map rather than deep toward the enemy, since it's harder for them to clear without overextending, and it also helps set up ganks for your support or jungler.",
+        "rationale": "A ward placed near your own side forces the enemy to overextend to clear it, buying it more lifespan.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "I like to have a Control Ward placed in the side bushes to deny enemy vision as well as being able to set up ganks for the Support or Jungler. It is recommended that you place this ward closer to your side of the map rather than the enemies as the enemy will have to overextend if they want to clear it."
+      },
+      {
+        "tip": "Place your mid-lane Control Ward on whichever side of the lane your team currently lacks vision, rather than always defaulting to the same side.",
+        "rationale": "Vision is only useful where it's missing, so balancing coverage across both sides avoids blind spots.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "I recommend that you put the Control Ward on the side that your team needs more vision on. If there is already a ward in the bottom side of the middle lane, then you should place a ward on the top side of the lane so you have vision on both sides."
+      },
+      {
+        "tip": "When behind in mid lane, avoid areas where the stronger enemy can jump on you and lean on vision control to farm and gain experience safely instead of contesting directly.",
+        "rationale": "Vision substitutes for the trades you can't safely take when you're outmatched.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "When you are not as strong as the enemy, you have to respect them and prepare for them to jump on you at any given time. To counter this, you should avoid areas where they are and instead rely heavily on good vision control."
+      },
+      {
+        "tip": "Place a ward in the middle of your own lane — it tells your team whether you've roamed, recalled, or gone for blue buff, and warns of enemies coming to siege your tower.",
+        "rationale": "A mid-lane ward gives your teammates information about your own movement, not just the enemy's.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "One of them is that it allows the team to know which way the Mid laner has gone if they have left lane to roam, backed or gone to pick up the blue buff. It also tells you if any other enemies are coming mid to siege the tower."
+      },
+      {
+        "tip": "As red-side mid, prioritize wards placed further out rather than close by, to give yourself a longer reaction window against incoming ganks.",
+        "rationale": "More distance between the ward and your position means more time to react before the enemy arrives.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Just like the blue team, you should prioritize having wards that are slightly further out rather than close by to give you a longer reaction time to react to potential ganks."
+      },
+      {
+        "tip": "Since many junglers prefer to gank mid from the bottom side of the map, weight your mid-lane warding coverage toward the bottom side.",
+        "rationale": "Matching your vision to the jungler's actual pathing tendencies gets more value out of the same wards.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "I feel that this is very good area to focus on as I feel (but could be wrong) that many Junglers prefer to gank from the bottom side of the map compared to the top side."
+      },
+      {
+        "tip": "Ward the enemy jungle, the mid-lane area, and the river together to catch junglers who like to lurk in the dark near mid and wait for the ideal moment to gank.",
+        "rationale": "Covering all three areas removes the ambush spots patient junglers rely on.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "This is why is it important to have wards that are in the enemies jungle, around the mid lane, and in the river. Warding in these three locations will allow you to spot the enemy before they are able to do anything which will allow you to play safe and not fall into the trap."
+      },
+      {
+        "tip": "When behind in mid lane, don't roam or wander the map alone — warding well and taking risk-free trades is the safer path back into the game.",
+        "rationale": "A behind player has less margin to survive a bad engage, so low-risk plays compound more reliably than a solo roam.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "It’s important that you don’t give up and try to get back into the game by warding efficiently and going for risk-free trades."
+      },
+      {
+        "tip": "Ward around Baron and Dragon so you know if the enemy is contesting them — that vision makes it much safer for you to contest the objective yourself.",
+        "rationale": "Knowing the enemy's position around an objective is what lets you decide whether a contest is winnable.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Having areas warded around objectives such as the Baron and the Dragon will allow you to know if the enemy is doing it. This will make it much safer when you try to contest them."
+      },
+      {
+        "tip": "After level 9, pick up a Farsight Alteration on long-range mid champions like Syndra, or take a red trinket instead if you want to roam and keep paths clear.",
+        "rationale": "Farsight suits champions who can already threaten from range, while roamers get more value denying vision than scouting from afar.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": "Syndra",
+        "excerpt": "After level 9, you will find it slightly safer to ward if you pick up a Farsight Alteration on champions like Syndra or you can opt for a Red trinket as a roamer to keep the paths clear."
+      },
+      {
+        "tip": "As support, your warding responsibility covers mid lane and the river, not just your own bot lane.",
+        "rationale": "The support is the role with the map-wide trinket budget, so the job extends beyond the lane they stand in.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "As stated previously, the Support has to ward in the mid lane, the river, as well as the bottom lane."
+      },
+      {
+        "tip": "Ward the river in bot lane to see whether the enemy is contesting the Scuttle Crab or heading for Dragon.",
+        "rationale": "River vision near bot lane doubles as both a lane-safety tool and an early Dragon-contest signal.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Vision in the river is very good as it can tell you if the enemy is doing the Scuttle Crab or if they are going for the Dragon."
+      },
+      {
+        "tip": "Place Control Wards in the bot-lane river to catch the enemy roaming through it to invade your jungle or gank your mid laner from behind.",
+        "rationale": "The river is the connecting path between lanes, so vision there catches rotations before they land.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Control Wards are also good in this situation as it can also tell you if the enemy is roaming through the river to either invade your jungle or to gank the Mid laner from behind."
+      },
+      {
+        "tip": "Don't place a Control Ward in the bot river bush while you're being pushed in — the enemy can clear it easily and you'll have wasted the gold.",
+        "rationale": "Without lane pressure to threaten a walk-up, a Control Ward there is a free target for the enemy.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Whereas if you are being pushed in, you cannot place a Control Ward in the bottom line river bush at all as the enemy will easily be able to clear it and you would have wasted some gold."
+      },
+      {
+        "tip": "Ward the bush inside bot lane where the enemy support tends to hide before engaging — a ward there warns you before they jump on you.",
+        "rationale": "Removing the enemy support's ability to engage unseen takes away their biggest lane advantage.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "This is because the enemy Support usually hides in this position in order to engage on you without being seen. If you keep a ward here, you can tell when the enemy is going to jump on you."
+      },
+      {
+        "tip": "When pushing bot lane, place a Control Ward behind you so your jungler can set up a lane gank without being spotted.",
+        "rationale": "Denying the enemy vision of the ambush point is what makes the gank land clean.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "If you are pushing, you could place a Control Ward in the bush behind you so your Jungler can lane gank. Having a Control Ward in this position will deny the enemy any vision of the Jungler of being there."
+      },
+      {
+        "tip": "In bot lane, keep river and jungle-entrance vision even rather than piling wards directly on the lane, so you can spot rotations without wasting gold on wards that get cleared instantly.",
+        "rationale": "Vision that's spread to catch rotations survives longer than vision packed into one contested spot.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Like always, you need to have even wards in the river so you can spot the enemy coming in and out of your jungle as well as if they start to roam or rotate. You also want to have wards that are in your bottom side jungle so the enemy does not ambush you when you are rotating from lane to lane."
+      },
+      {
+        "tip": "Avoid placing Control Wards directly in the bot lane bush — a visible Control Ward gets spotted and cleared the moment the enemy walks through, unlike a stealthed trinket ward.",
+        "rationale": "Visibility, not just position, determines whether a ward there survives contact with the enemy.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Control Wards, unlike Green Wards, are visible and if they were to walk through a bush, they can easily spot it. This means that you need to keep wards in this area invisible to the enemy so they do not clear them."
+      },
+      {
+        "tip": "When ahead and pushed up in bot lane, keep your Control Wards tucked in bushes rather than out in the open enemy jungle, since an obvious Control Ward gets forfeited the moment the enemy pushes the wave back.",
+        "rationale": "An exposed Control Ward only survives as long as the enemy can't safely walk up to it, which changes the instant the wave shoves.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "I do not recommend that you have obvious Control Wards placed in the enemies jungle as once they push the wave back, you would forfeit all of them. This is why you want to have them strictly in bushes and not just in plain sight like Green Wards."
+      },
+      {
+        "tip": "Only ward the tri-bush on your own side of bot lane when you're losing or playing safe — for example while being pushed under tower — since it gives you a defensive fallback.",
+        "rationale": "That bush's value is purely defensive, so warding it while ahead just wastes a charge.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "I would only recommend warding here if you are losing your lane or playing relatively safe. For example, if you are being pushed under your tower, then you would definitely want to ward here because it provides you with a defensive ward that will allow you to back off if need be."
+      },
+      {
+        "tip": "Don't place a Control Ward in the enemy's tri-bush — they'll clear it quickly once they push the wave, wasting an expensive ward.",
+        "rationale": "Pushing the wave gives the enemy free access to walk up and clear a ward on their own side.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "I wouldn’t recommend that you place a Control Ward in the enemies tri-brush because they quickly clear it if they decide to push the wave."
+      },
+      {
+        "tip": "When behind in bot lane, pull your wards back and start warding your own jungle so your jungler doesn't fall as far behind as you.",
+        "rationale": "A losing lane leaks pressure into the jungler's camps too, so protecting that space limits the damage.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "When things aren’t going too well, you’ll need to bring back your wards and start to ward inside your own Jungle to prevent your Jungler from falling just as behind as you."
+      },
+      {
+        "tip": "When winning bot lane and pushed into enemy territory, ward the enemy jungle to spot jungler interactions that could threaten your lane.",
+        "rationale": "Being pushed up removes your safety margin, so seeing the enemy jungler coming is what keeps the push sustainable.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "As you can see by this image, you should try to put wards around the enemies jungle to spot any potential Jungler interaction within your lane."
+      },
+      {
+        "tip": "Don't stop buying Control Wards once your first one is still alive — keep purchasing and placing new ones through the early, mid, and late game as the map opens up.",
+        "rationale": "A single surviving ward covers one spot, but the game's points of interest keep moving as it progresses.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "Continue to buy Control Wards in the early game, the mid game and the late game. Just because you buy a Control Ward in the early game and it’s still alive, it doesn’t mean that you should not buy another one and place it somewhere else."
+      },
+      {
+        "tip": "Place even river wards after laning to catch the jungler entering or leaving, or to spot anyone who's left their lane to roam or head to an objective.",
+        "rationale": "The river is the map's central artery, so vision there catches most cross-map movement in one spot.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Warding here is great because it can tell you if the Jungler is entering your jungle, leaving your jungle or going to gank a lane. It can also tell you if somebody has left lane in order to roam, rotate or go to an objective."
+      },
+      {
+        "tip": "When losing after laning phase, pull your wards back closer to your own jungle rather than warding evenly or into the enemy jungle, since the fight will mostly happen on your side of the map.",
+        "rationale": "Vision only pays off where the action actually happens, and a losing team's action concentrates on their own side.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "You want to still have a mixture of even wards but many protecting your own jungle and their entrances. As the game will be fought more on your side of the map, it is better to have wards that are closer to your side than the enemies."
+      },
+      {
+        "tip": "Don't waste wards on the enemy jungle when you're behind — the enemy won't be using their own jungle much since they're busy taking yours, and you risk getting caught out of position placing it.",
+        "rationale": "Vision is only valuable where the enemy actually spends time, and a winning team spends that time in your jungle, not theirs.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "I feel that it is pointless warding the enemy’s jungle when you are behind because the enemy will most likely not be using their jungle as much as yours. For example, they would be prioritizing moving around your jungle compared to theirs and they would be stealing away all your camps."
+      },
+      {
+        "tip": "If the enemy is sieging your base, place wards just outside tower range and out of auto-attack range so you can clear any wards they drop over the wall.",
+        "rationale": "Positioning the ward just past both danger zones lets it survive long enough to do its job.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "Warding just outside of the towers range will allow you to destroy any wards that may be placed over the wall. Make sure to keep the ward out of range of the enemies auto attack so they cannot destroy it over the wall."
+      },
+      {
+        "tip": "When your team is losing badly, mix even jungle wards with a Control Ward or two placed in your own base for broader coverage of enemy map movement.",
+        "rationale": "A team on the back foot needs the widest possible warning net, which spreading wards across jungle and base provides.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "I recommend placing a mixture of wards evenly in your jungle and a Control Ward or two in your base to give you a wider knowledge of the enemies map movements."
+      },
+      {
+        "tip": "Place wards in known ambush 'kill zones' to avoid getting caught out, especially against assassins or mages.",
+        "rationale": "Certain spots on the map are consistently used for ambushes, so warding them specifically denies the enemy's favorite setups.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "It is a good idea to place wards that are in ‘kill zones’ as they can prevent you from being ambushed by the enemy (especially against assassins or mages.)"
+      },
+      {
+        "tip": "When winning, keep applying pressure with strong ward coverage rather than easing off, since failing to keep pressuring the enemy is how you let them back into the game.",
+        "rationale": "A lead only compounds if it keeps getting exploited; vision is one of the tools that sustains the pressure.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "If you do not continue to apply pressure to the enemy, you are not going to improve as a player because you have an advantage but you are not abusing it."
+      },
+      {
+        "tip": "When winning, concentrate your Control Wards toward whichever side of the map your team is sieging, rather than splitting vision evenly between both sides.",
+        "rationale": "Vision is more valuable where your team is actively pressuring than spread thin across the whole map.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Depending on where your team is focusing, you may want to stick to one side of the map compared to both sides. For example, if you are sieging the bot lane, you’d want to stick Control Wards around the bottom side of the Jungle."
+      },
+      {
+        "tip": "When winning, favor wards in the enemy jungle over the river or your own jungle, so you catch the enemy before they can safely wander and farm back into the game.",
+        "rationale": "Cutting off the enemy's ability to freely use their own jungle is what stops them from recovering their gold deficit.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "We have suggested that you place more wards around the enemies jungle compared to the river or inside your own jungle. This is because you want to catch the enemy out before they are able to get too far out of their base."
+      },
+      {
+        "tip": "When behind, retreat your Control Wards into your own jungle, mixing even wards for general map awareness with defensive wards that give early warning once the enemy has actually entered.",
+        "rationale": "A losing team needs both broad awareness and a specific tripwire, since either alone leaves a gap.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "The even wards will provide you with some security if the enemy decides to invade your jungle. Defensive wards will provide you with information once the enemy has entered your jungle."
+      },
+      {
+        "tip": "Place a Control Ward at the back of the Baron pit to avoid face-checking into an ambush when approaching the area.",
+        "rationale": "The back of the pit is a common hiding spot for a defending team, so vision there removes the guesswork.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Additionally, having a Control Ward around at the back end of the Baron pit will prevent you from walking into the unknown and face checking a potential ambush from the enemy which could result in the enemy being able to take the Baron."
+      },
+      {
+        "tip": "Turn ambush tactics around on the enemy — set your team up in a bush along their typical Baron pathing to spring your own ambush as they approach.",
+        "rationale": "Enemy teams tend to path predictably toward Baron, which makes that path a good spot to set the trap yourself.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "If you (as a team) set up in a bush that is traditional pathing to the Baron, your team could hide and ambush them as soon as they walk up towards you. Control Wards would work heavily in your favor as they would not be able to see you hiding there."
+      },
+      {
+        "tip": "When sieging, place a Control Ward at a chokepoint to deny the enemy from warding over the wall and spotting a potential tower dive.",
+        "rationale": "Controlling the chokepoint's vision prevents the enemy from reacting to a dive before it happens.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Depending on the situation, you may find it valuable to place a Control Ward in the open of a choke point. This is good as it can prevent the enemy from being able to place wards over the wall near the tower."
+      },
+      {
+        "tip": "When sieging or split-pushing in enemy territory, keep a mix of offensive and defensive wards so you have enough warning time to escape a flank.",
+        "rationale": "Deep positioning raises the cost of getting caught, so the vision has to cover the retreat as well as the advance.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Whether you are split pushing or sieging objectives with your team, having these types of wards will give you enough time to back off in case of a flank."
+      },
+      {
+        "tip": "When split-pushing with a Control Ward covering a nearby bush, have your jungler wait in that bush so you can set up a kill together on anyone who checks it.",
+        "rationale": "A warded bush turns from a defensive tool into a bait when a teammate is hiding in it.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "One example is that if a bush is housing a Control Ward and you are split pushing, your Jungler could wait in this bush and you together could try and kill the enemy."
+      },
+      {
+        "tip": "When sieging an inhibitor, use your trinket and a Control Ward together to deny the enemy vision just outside their base, making it hard for them to safely leave.",
+        "rationale": "Blinding the enemy near their own base traps them behind their tower instead of letting them contest freely.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "Utilizing your Trinket as well as a Control Ward can deny the enemy any vision just outside of their base. This could make it very difficult for them to leave."
+      },
+      {
+        "tip": "When placing a Control Ward outside the enemy base to siege, put it close to the jungle wall and out of auto-attack range so they can't clear it over the wall.",
+        "rationale": "Positioning it just past their attack range is what lets the ward survive long enough to matter.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "I recommend that you place a Control Ward directly away from the base and have it close to the jungle wall to ensure that they cannot auto attack it."
+      },
+      {
+        "tip": "When sieging a tower from the jungle side, ward the major jungle entrances so you can spot a flank in time to back off before the enemy engages.",
+        "rationale": "Covering the entrances gives you the earliest possible warning of a flanking attempt.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "I recommend that you ward all the major entrances to the middle of the jungle. If they try to take you on from the side, you would be able to see them- which will allow you to back off in time before they initialize their team fight."
+      },
+      {
+        "tip": "After taking an enemy tier-2 tower, use your vision advantage to rotate through their jungle toward Baron, since the enemy has no ward coverage left there to stop you.",
+        "rationale": "A tower kill often strips the enemy's local vision, opening a window to press the advantage before they can rebuild it.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "While it may not always be possible, after taking the object, you can rotate through their jungle and try to pressure the Baron. As the enemy will have no ward coverage in the jungle, you may be able to ambush them or just take the objective straight up."
+      },
+      {
+        "tip": "When sieging an inhibitor, place a Control Ward inside the enemy base itself, outside tower range, so you can poke them and force them off their approach.",
+        "rationale": "Vision inside their base lets you punish them for peeking out without exposing yourself.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "Furthermore, having a ward in the enemies base will allow you to poke them effectively in order to make them back off which can give you ample time to take the objective."
+      },
+      {
+        "tip": "When sieging mid lane, ward inside the enemy jungle near the wolf pit to stop them warding over the wall and to prevent them landing skillshots on you from the blind.",
+        "rationale": "Denying that specific vantage point takes away the enemy's ability to punish your approach without being seen first.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "I recommend having Control Wards inside of the enemies jungle near the wolf pit to prevent them from being able to ward over the wall. This will allow you to clear their vision with ease as well as prevent them from being able to hit their skill shots on you as they would be in the blind."
+      },
+      {
+        "tip": "When sieging a mid inhibitor, ward both sides of the outer wall, not just one — you need vision on both approaches to stop the enemy from seeing and poking your team.",
+        "rationale": "Mid's open geometry means a single-sided ward leaves the other approach completely blind.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Unlike the top or bottom lane, you will need vision on both sides of the tower and a Control Ward on both sides of the outer wall of their base."
+      },
+      {
+        "tip": "If you can't yet siege mid lane, use Control Wards in the enemy jungle to rotate your team toward other objectives instead.",
+        "rationale": "Vision doesn't have to be spent on the immediate goal; it can redirect the team's pressure elsewhere.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Having Control Wards around the enemies jungle will allow you to rotate to those objectives if you are unable to effectively siege the mid lane."
+      },
+      {
+        "tip": "When sieging with priority on one side of the map, place a jungle-bush Control Ward on that side so your team can quickly rotate to continue the siege there.",
+        "rationale": "A ward that supports the rotation path keeps the siege moving instead of stalling when priority shifts.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "As you’re sieging the mid lane, you can place a Control Ward in the bottom side Jungle bush. This would be a good ward to place if you have bottom side priority as it can allow your team to quickly rotate to the bottom lane if you want to continue a siege."
+      },
+      {
+        "tip": "Don't ward a bush for map priority if you don't actually have priority there — without a teammate nearby to contest it, the enemy will simply clear the ward and use the bush to set up their own engage.",
+        "rationale": "A ward without backup pressure just informs the enemy where to hide, rather than protecting you.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "I would not recommend warding here if you do not have priority though because the enemy will easily be able to clear it and use this bush to set up an engage. To get priority on one side of the map, you should have a member of your team nearby in the jungle that can prevent the enemy from advancing."
+      },
+      {
+        "tip": "When sieging bot lane, place defensive Control Wards in the bushes behind your team to deny the enemy any teleport-play or flank setup.",
+        "rationale": "Covering your own backline denies the enemy's counter-siege options while you're committed to the push.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "When you are attempting to siege it, you will need to have defensive Control Wards in the main bushes behind you. Warding in these areas is very nice as it can prevent the enemy from making teleport plays and deny any potential flank opportunities."
+      },
+      {
+        "tip": "Place a single trinket ward at a jungle chokepoint that grants vision on multiple entry points at once — one well-placed ward there is disproportionately valuable.",
+        "rationale": "A ward's information yield depends on how many approach paths it covers, not just where it sits.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "The Green Trinket ward that is placed right in the middle of the enemies jungle grants vision of four key points of entry. This ward is invaluable because for only one ward it provides so much information."
+      },
+      {
+        "tip": "When sieging on a squishy composition, don't place deep wards alone — getting caught out solo can ruin the whole siege for the team.",
+        "rationale": "A single pick on a fragile champion can undo the numbers advantage the siege depended on.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "The reason for this is simple, it’s too risky to ward deeply on your own as being caught out could ruin the siege completely, this is especially true for squishy champions like Lulu or Janna ."
+      },
+      {
+        "tip": "Prefer wards placed near your own team's position when sieging over deep solo wards — they're less risky to place while still giving enough reaction time.",
+        "rationale": "Vision close to the group is safer to obtain and still functionally protects the siege.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "The majority of wards that are placed are going to be nearby to where your team would be. This is because they are less risky to place but also provide just as much information as deeper wards."
+      },
+      {
+        "tip": "When sieging an inhibitor, deny the enemy jungle vision with good Control Ward placement and consistent sweeping — that combination is what makes the siege manageable.",
+        "rationale": "Blocking the enemy's own vision limits their ability to reposition or ambush during a long siege.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "If you can deny them vision via good Control Ward placement and efficient sweeping of their wards, then sieging becomes a lot easier."
+      },
+      {
+        "tip": "More wards is generally better when sieging — don't skip warding a spot just because it wasn't specifically called out as a suggested location.",
+        "rationale": "Additional vision only adds safety margin during a siege, so erring toward more coverage rarely hurts.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "While we suggested some very specific wards and where some of the pictures didn’t have many vision wards placed, it is important to note that the more wards you have when sieging,- the easier it is to take the objective."
+      },
+      {
+        "tip": "Ward the side-lane Faelight locations roughly 30 seconds before Scuttle Crab spawns in the early game to protect against first blood and gain a wide vision radius.",
+        "rationale": "Timing the ward to the Scuttle Crab spawn maximizes how much of the early invade window it actually covers.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "In the early game, it is recommended to place wards on these locations (for side lanes) as they can grant a lot of vision and deny you dying to first blood. You’ll want to do this around 30 seconds before the Scuttle Crab spawns."
+      },
+      {
+        "tip": "Ward the river-entrance Faelight locations, especially with Control Wards, since they're effective at spotting junglers who gank from range like Nocturne, or who use invisibility like Twitch or Shaco, before they vanish.",
+        "rationale": "These locations sit on the exact approach paths that ranged and invisibility-reliant junglers use, catching them before their tools activate.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "These can be good locations to place wards, especially control wards, and they’re good at spotting Junglers who tend to gank from afar such as Nocturne , or use invisibility spells like Twitch or Shaco , as you can see them before they go invisible."
+      },
+      {
+        "tip": "When taking an objective, put a ward on both nearby Faelights and also drop a Control Ward in the pit itself to deny vision and prevent the enemy jungler from stealing it.",
+        "rationale": "Covering the approach and the pit together closes both the information gap and the steal risk at once.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "When taking objectives, it is important to place vision on these Faelights and, ideally, put a control ward or a normal ward on both, as it can provide a lot of information and help prevent flanks. However, you will also want a control ward in the pit to deny vision and prevent potential theft from the enemy Jungler!"
+      },
+      {
+        "tip": "As the defending team, use the base-side Faelights for vision into your own jungle, since it offers safety when checking your jungle or running to Drake.",
+        "rationale": "Vision near your own base doubles as protection for both jungle checks and objective rotations.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "These can be good warding locations for the defending team, as it can grant vision into your jungle, which would offer some safety if you need to check your jungle, or run to the Drake."
+      },
+      {
+        "tip": "As the attacking team, put a Control Ward in the enemy's base-side Faelight to deny them vision over the wall.",
+        "rationale": "Blocking their base-adjacent vision keeps them from safely tracking your approach.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "However, these are also effective against teams. If you place a control ward in this Faelight, it prevents the enemy from getting any vision over the wall, which is ideal."
+      },
+      {
+        "tip": "Use Faelights instead of blindly face-checking objectives — they help you avoid getting ambushed or killed.",
+        "rationale": "A ward gives the same information as a face-check without exposing your champion to the risk.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Use the Faelights instead of face-checking objectives. They will help you avoid getting ambushed or killed by the enemy!"
+      },
+      {
+        "tip": "As support, don't go warding alone even though vision is your priority — wait for your team so you're not an easy target for the enemy.",
+        "rationale": "A lone support is a low-risk, high-value kill for the enemy, undermining the vision they were trying to set up.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "As a Support, while you should prioritise warding, do not go alone as you’ll be an easy target for the enemy. Wait for your team to help you."
+      },
+      {
+        "tip": "Only place a Control Ward in your own lane bush (top or bot) if you're constantly pushing or winning the lane — otherwise the enemy just destroys it and you've wasted the gold.",
+        "rationale": "A Control Ward's survival depends on lane state, and a losing or even lane can't protect it.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Only place a control ward in your lane (top and bot lane) if you’re constantly pushing or winning the lane, as the enemy will just destroy it, and you’ll waste 70 gold."
+      },
+      {
+        "tip": "If you've recalled and are heading to Dragon, drop a yellow ward at the Faelight near your base to scout for an enemy flank setup.",
+        "rationale": "That spot sits on your return path, so a quick ward there catches an ambush before you commit to the Dragon.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "If you’ve recalled and running to the dragon, placing a yellow ward in the one Faelight near your base could be a good option to scout for vision in case the enemy is setting up a flank."
+      },
+      {
+        "tip": "When warding the enemy jungle, prioritize the routes the jungler actually walks frequently rather than obscure paths, since high-traffic spots give more reliable information.",
+        "rationale": "A ward only pays off if it's placed somewhere the enemy is likely to actually walk through.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "This means that you want to prioritize wards that are in areas that are high priority or frequently used jungle routes."
+      },
+      {
+        "tip": "Favor a mix of shallow and deep jungle wards over wards placed right at the jungle entrance, since an entrance-only ward loses the jungler the moment they walk further in.",
+        "rationale": "An entrance ward tells you the jungler entered, but not where they went next, which a deeper ward covers instead.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "For example, we do not have many direct wards at the jungles entrance as these only show the jungle when they are coming in and out. In simple terms, if you know that the Jungler has entered his jungle, you’re gonna lose sight of them as soon as they go in. Whereas if you place a mixture of shallow and deep wards you will be able to see them throughout."
+      },
+      {
+        "tip": "For your own jungle's safety, prioritize warding the entrances over placing deep wards, since entrance vision gives your team the earliest possible warning before camps are actually taken.",
+        "rationale": "Catching an invader at the door leaves time to react before any camp is lost, unlike a deep ward that only confirms the theft after the fact.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "When you want to provide vision inside your own jungle, you have to prioritize the jungle entrances rather than having deep wards. One of the reasons for this is it will allow your team to have information of the enemy entering your jungle before he actually takes away your camps."
+      },
+      {
+        "tip": "Don't start deep-warding your own jungle unless forced to, such as when you're behind or facing a strong invader — otherwise prioritize the river and the enemy jungle instead.",
+        "rationale": "Wards spent defensively on your own jungle produce less map-wide information than the same wards spent offensively.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "You wouldn’t start warding your Jungle directly unless you are forced to. For example if you are behind or the enemy is good at invading. Unless you have to, you should try to prioritize wards in the river and the enemies jungle."
+      },
+      {
+        "tip": "As a tanky support like Leona, Thresh, or Nautilus, use your durability to walk deep into the enemy's bottom-side jungle and place deep wards there, since that side is the easiest to access.",
+        "rationale": "Tank supports can survive being caught in the enemy jungle in a way squishier supports can't, making them the natural choice for deep warding.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "The bottom side of the jungle is the easiest to ward and the majority of Supports can easily go into this side of the jungle to place deep wards, especially tanks like Leona , Thresh or Nautilus ."
+      },
+      {
+        "tip": "If you're worried about getting caught 1v1 in the enemy jungle, it's fine to place some Control Wards inside your own jungle instead for safety.",
+        "rationale": "Safer vision that actually gets placed beats risky vision that costs you a death trying to obtain it.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "However, you can include some Control Wards inside your own jungle if you are frightened of being 1v1’d by the enemy."
+      },
+      {
+        "tip": "Ward objectives from further away rather than right on top of them, since more distant wards give you more reaction time to decide whether to fight, take it, or back off.",
+        "rationale": "Reaction time scales with distance, and objective fights are exactly the moments where extra decision time matters most.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "The further the wards are from the objective, the longer length of time you will have to react to the enemy."
+      },
+      {
+        "tip": "Don't force a fight for a coin-flip Baron — good ward coverage should let you back off and let it reset instead of taking a risky 50/50 fight.",
+        "rationale": "A close-to-even Baron fight risks losing both the objective and the fight, so vision that enables a safe retreat is worth more than the gamble.",
+        "scope": "fundamental",
+        "phase": "late",
+        "champion": null,
+        "excerpt": "In a lot of situations, fighting for a 50/50 Baron is not worth it so having good ward coverage can definitely help you out."
+      },
+      {
+        "tip": "When contesting a major objective, always place dedicated vision on the enemy's side of the map, since that's the direction their approach will come from.",
+        "rationale": "The objective's approach paths tell you where the vision actually needs to sit to be useful.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Depending on what side of the map you’re on, you always want to have dedicated vision in the enemy’s side of the map. These wards will tell you if enemy decide to contest the objective."
+      },
+      {
+        "tip": "Ward the enemy jungle and evenly across the river when preparing to take a major objective — that combination is the safest way to secure it.",
+        "rationale": "Together these cover both the enemy's staging ground and the direct path to the objective.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Warding in the enemies jungle as well as evenly across the river is the best way to take one of these major objectives."
+      },
+      {
+        "tip": "If your team has extra wards to spare before taking an objective, don't hold back — placing them closely around the objective makes securing it safer.",
+        "rationale": "Unused ward charges provide zero value, so spending them near the objective converts them directly into safety.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "So if your team has wards to spare, don’t be afraid to put them closely around the object to make it safer."
+      },
+      {
+        "tip": "Sweep the objective area for enemy wards before committing to take it, and if your sweeper isn't ready, drop a Control Ward in the pit instead to clear or block vision.",
+        "rationale": "Removing the enemy's eyes on the objective is what keeps your team's commitment from being punished by a surprise engage.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Before taking the objective, make sure that you use your sweeper to spot out any wards. Furthermore, you should put a Control Ward in the pit itself to clear wards if you don’t have your Sweeper ready or block out any potential new vision."
+      },
+      {
+        "tip": "Never attack an enemy ward while you're taking an objective — doing so reveals the objective's HP to the enemy and can let them steal it.",
+        "rationale": "Attacking the ward exposes information that directly enables an enemy steal, turning a minor mistake into a lost objective.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Finally, if the enemy places a normal ward when you are taking the objective, DO NOT ATTACK IT! Attacking the ward will show the enemy the HP of the objective which may allow them to steal it."
+      },
+      {
+        "tip": "Buy Control Wards throughout the game specifically to deny enemy vision, not just to provide your own — an occasional purchase isn't enough on its own.",
+        "rationale": "Vision denial has to be a sustained habit to actually limit the enemy's map information over the course of a game.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "It is important to buy Control Wards throughout the game to continue denying and applying pressure to the enemy."
+      },
+      {
+        "tip": "As support, keep a few Control Wards on hand at all times so you can place them opportunistically as you move around the map, but don't let ward purchases set back your core item build.",
+        "rationale": "Carrying spare wards lets you act on opportunities immediately, while still protecting your own power spikes.",
+        "scope": "support",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "As a Support, it’s good to have a few on you at any given time so you can place them as you move around the map. It is good to note, however, that you should not put your core build behind by purchasing too many wards."
+      },
+      {
+        "tip": "If you're the support or jungler, actively use your Sweeping Lens while roaming through the river to find and clear enemy wards.",
+        "rationale": "Roaming through the river is already the natural path to sweep, so combining the two actions costs nothing extra.",
+        "scope": "support",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "If you are roaming, you definitely want to use your Sweeping Lens as you go along to look for wards and clear them."
+      },
+      {
+        "tip": "Sweep from the middle of the river to maximize the Sweeping Lens's radius and clear wards over a wider area.",
+        "rationale": "Positioning centrally lets the lens's fixed radius cover both sides of the river at once.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "One way of doing this is by walking in the middle of the river and taking advantage of the range."
+      },
+      {
+        "tip": "As support, switch to the Sweeping Lens as soon as your warding quest completes, since you no longer need the extra ward charges and can start denying vision more thoroughly instead.",
+        "rationale": "The quest reward removes the opportunity cost of giving up the Warding Totem's extra charges.",
+        "scope": "support",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "For Supports, remember to change your Trinket as soon as you are about to complete your quest in order for you to start being able to deny vision more thoroughly."
+      },
+      {
+        "tip": "Try to destroy enemy wards with auto-attacks before they go invisible whenever you get the chance, rather than ignoring them.",
+        "rationale": "A ward destroyed before it stealths is a guaranteed clear instead of a missed opportunity.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "If you know that you can destroy the ward before it’s about to go invisible, try to attack it and destroy it."
+      },
+      {
+        "tip": "In lane, use an auto-attack-reset ability, like those on Leona, Lucian, or Dr. Mundo, to clear enemy wards for free.",
+        "rationale": "An auto-attack reset gives you an extra hit at no time cost, making ward-clearing essentially free with those kits.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "Many champions including; Leona , Lucian , and Dr. Mundo have this ability which give them the added advantage of being able to destroy wards. If your champion has one of these abilities, make sure that you utilize it and try to destroy the enemies vision in lane."
+      },
+      {
+        "tip": "Communicate a warded area to your jungler via the vision ping so they can take an alternate route and avoid giving the enemy information about their position.",
+        "rationale": "Rerouting around known vision denies the enemy the information a ward would otherwise have given them.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": null,
+        "excerpt": "Thanks to the vision ping, you can communicate with your Jungler to tell them of an area being warded. If the Jungler or another roamer knows that an area is warded, they could take an alternative route or avoid a certain part of the map to prevent the enemy gaining any information of the whereabouts of them."
+      },
+      {
+        "tip": "If you can only build one vision-denial habit, make it buying Control Wards throughout the game and placing them in high-importance areas — it's the simplest method and it's available to every role.",
+        "rationale": "Unlike sweeping or auto-attack resets, buying Control Wards requires no specific kit or role, making it the most universally accessible denial tool.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "Out of the four methods, the easiest way of improving your ability to clear wards is by purchasing Control Wards throughout the game and placing them in areas of high importance since this is something you can do across all five roles."
+      },
+      {
+        "tip": "Against a Shaco or Twitch in mid lane, ward slightly outward on either side of the lane so you can see them before they go invisible and back off in time.",
+        "rationale": "Catching them before their invisibility triggers is the only reliable way to avoid being blindsided by these matchups.",
+        "scope": "fundamental",
+        "phase": "laning",
+        "champion": null,
+        "excerpt": "I recommend warding in either of these locations on each side of the lane to protect yourself. Warding slightly outwards is good because it will allow you to see them before they go invisible which will allow you to back off in time and not get killed by them."
+      },
+      {
+        "tip": "Against Nocturne, place deep wards rather than shallow ones, since his ultimate's huge range means he approaches from far away and short wards near you won't catch him coming.",
+        "rationale": "A threat that engages from range needs vision matched to that range, not vision centered on your own position.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": "Nocturne",
+        "excerpt": "As Nocturne’s Ultimate range is huge, it can be difficult to ward against him because he will never be close to wards as he will always come from afar. This means that short or shallow wards against him are rather pointless. Instead, you should place deeper wards in and around the map to be able to spot him."
+      },
+      {
+        "tip": "If you're worried about facing Nocturne in the enemy jungle, don't go alone to ward it — wait for your team, or ward only once he's confirmed to be elsewhere on the map.",
+        "rationale": "Nocturne's threat is specifically the surprise engage, so warding only when he's spotted elsewhere removes that risk entirely.",
+        "scope": "fundamental",
+        "phase": "mid",
+        "champion": "Nocturne",
+        "excerpt": "If you are frightened of meeting him in the enemy’s Jungle, do not go alone or wait for assistance from your team. If they cannot come and help you, you could go when Nocturne is spotted some else on the map as this will be the safest time to place wards."
+      },
+      {
+        "tip": "When in doubt about whether a ward is worth placing, remember it's always better to have placed a ward than to have none at all.",
+        "rationale": "Even an imperfect ward provides some information, while no ward provides none.",
+        "scope": "fundamental",
+        "phase": "all",
+        "champion": null,
+        "excerpt": "At the end of the day, is very important to remember one key thing and that is better to have ward then have no wards."
+      }
+    ]
+  }
+]
